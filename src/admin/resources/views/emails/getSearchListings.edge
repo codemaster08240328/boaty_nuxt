@@ -1,0 +1,11 @@
+@layout('emails.master')
+
+@section('content')
+  <p>The following boats have been deactived</p>
+
+  <p>
+    @each(boatID in deactivated_boats)
+      {{ boatID }},
+    @endeach
+  </p>
+@endsection

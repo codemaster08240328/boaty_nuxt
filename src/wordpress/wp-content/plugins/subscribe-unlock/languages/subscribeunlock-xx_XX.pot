@@ -1,0 +1,1103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Opt-In Content Locker\n"
+"POT-Creation-Date: 2014-08-29 16:26+0400\n"
+"PO-Revision-Date: 2014-08-29 16:26+0400\n"
+"Last-Translator: \n"
+"Language-Team: Ivan Churakov\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\WebServers\\home\\test1.ru\\www\\wp01\\wp-content"
+"\\plugins\\subscribe-unlock\n"
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:28
+msgid "Complete your name and email to read content."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:29
+msgid "Unlock Content"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:30
+msgid "Enter your e-mail..."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:31
+msgid "Enter your name..."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:46
+msgid "Thank you. You are redirecting..."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:48
+msgid "Thank you for subscription"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:49
+msgid "Dear {name},"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:49
+msgid "Thank you for subscription."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:49
+msgid "Thanks,"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:180
+msgid "Sender e-mail must be valid e-mail address"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:181
+msgid "Sender name is too short"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:182
+msgid "Thanksgiving e-mail subject must contain at least 3 characters"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:183
+msgid "Thanksgiving e-mail subject must contain maximum 64 characters"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:184
+msgid "Thanksgiving e-mail body must contain at least 3 characters"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:186
+msgid "Redirecting message is too short"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:187
+msgid "\"Name\" field placeholder is too short"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:188
+msgid "\"E-mail\" field placeholder is too short"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:189
+msgid "\"Subscribe\" button label is too short"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:191
+msgid "Box background color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:192
+msgid "Box border color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:193
+msgid "Font color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:194
+msgid "Input field border color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:195
+msgid "Input field background color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:196
+msgid "Input field background opacity must be in a range [0...1]."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:197
+msgid "I font color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:198
+msgid "Button color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:199
+msgid "Button font color must be a valid value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:200
+msgid "Font size must be in a range [10...72]."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:201
+msgid "Input field font size must be in a range [10...72]."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:202
+msgid "Button font size must be in a range [10...72]."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:205
+msgid "Invalid MailChimp API Key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:206
+msgid "Invalid MailChimp List ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:209
+msgid "Invalid iContact AppID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:210
+msgid "Invalid iContact API Username"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:211
+msgid "Invalid iContact API Password"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:212
+msgid "Invalid iContact List ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:215
+msgid "Invalid Campaign Monitor API Key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:216
+msgid "Invalid Campaign Monitor List ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:219
+msgid "Invalid GetResponse API Key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:220
+msgid "Invalid GetResponse Campaign ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:223
+msgid "Invalid AWeber Connection"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:224
+msgid "Invalid AWeber List ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:227
+msgid "Invalid MyMail List ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:230
+msgid "Invalid Mad Mimi login"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:231
+msgid "Invalid Mad Mimi API key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:232
+msgid "Invalid Mad Mimi list ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:235
+msgid "Sendy installation URL must be a valid URL."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:236
+msgid "Invalid Sendy list ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:239
+msgid "Invalid Benchmark Email API key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:240
+msgid "Invalid Benchmark Email list ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:248
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:249
+msgid "Opt-In Locker"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:256
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:257
+msgid "Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:264
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:265
+msgid "Subscribers"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:276
+msgid "The following error(s) exists:"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:278
+msgid "Plugin settings successfully <strong>updated</strong>."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:282
+msgid "Opt-In Content Locker - Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:290
+msgid "General Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:294
+msgid "Soft mode"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:296
+msgid "Enable soft mode locker"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:297
+msgid ""
+"Soft mode makes locked content available for search engines (content is "
+"locked by JavaScript)."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:301
+msgid "Enable thanksgiving"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:303
+msgid "Send thanksgiving message"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:304
+msgid "Please tick checkbox if you want to send thanksgiving message."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:308
+msgid "Sender name"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:309
+msgid ""
+"Please enter sender name. All messages to buyers are sent using this name as "
+"\"FROM:\" header value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:312
+msgid "Sender e-mail"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:313
+msgid ""
+"Please enter sender e-mail. All messages to buyers are sent using this e-"
+"mail as \"FROM:\" header value."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:316
+msgid "Thanksgiving e-mail subject"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:317
+msgid ""
+"In case of successful subscription, your visitors receive e-mail message "
+"which contains thanksgiving message. This is subject field of the message."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:320
+msgid "Thanksgiving e-mail body"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:321
+msgid ""
+"This e-mail message is sent to your visitor in case of successful "
+"subscription. You can use the following keywords: {name}, {e-mail}."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:324
+msgid "Intro:"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:333
+msgid ""
+"Please enter content of opt-in box. HTML allowed. Opt-in form is inserted "
+"below this content. You can overload this content for each shortcode by "
+"inserting \"title\" attribute like: [sdfile url=\"http://url-goes-here\" "
+"title=\"Content goes here\"]"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:337
+msgid "\"Name\" field placeholder"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:340
+msgid "Enter the placeholder for \"Name\" input field."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:344
+msgid "Disable \"name\" field"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:346
+msgid "Disable \"Name\" field in opt-in form"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:347
+msgid ""
+"Please tick checkbox if you want to disable \"Name\" field in opt-in form."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:351
+msgid "\"E-mail\" field placeholder"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:354
+msgid "Enter the placeholder for \"E-mail\" input field."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:358
+msgid "Extended e-mail validation"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:360
+msgid "Enable extended e-mail address validation"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:361
+msgid ""
+"If you turn this option on, the plugin will check MX records according to "
+"the host provided within the email address. PHP 5 >= 5.3 required!"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:365
+msgid "\"Subscribe\" button label"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:368
+msgid "Enter the label for \"Subscribe\" button."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:372
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1506
+msgid "Terms & Conditions"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:373
+msgid ""
+"Your customers must be agree with Terms & Conditions before donating. Leave "
+"this field blank if you do not need Terms & Conditions box to be shown."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:376
+msgid "Redirecting message"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:377
+msgid ""
+"This message appears in case of successful subscription (regular locker mode "
+"only)."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:380
+msgid "Google Analytics tracking"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:382
+msgid "Enable Google Analytics tracking"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:383
+msgid ""
+"Send subscribtion event to Google Analytics. Google Analytics must be "
+"installed on your website."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:387
+msgid "CSV column separator"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:390
+msgid "Semicolon - \";\""
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:391
+msgid "Comma - \",\""
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:392
+msgid "Tab"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:394
+msgid "Please select CSV column separator."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:400
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:494
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:539
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:584
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:615
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:646
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:684
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:715
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:753
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:830
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:881
+msgid "Update Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:405
+msgid "Design Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:409
+msgid "Box background color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:412
+msgid "Set main box background color. Leave empty for transparent background."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:416
+msgid "Box border color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:419
+msgid "Set main box border color. Leave empty for transparent border."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:423
+msgid "Font color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:426
+msgid "Set font color. Leave empty for default font color."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:430
+msgid "Font size"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:432
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:467
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:488
+msgid "pixels"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:433
+msgid "Set font size (pixels)."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:437
+msgid "Input field border color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:440
+msgid "Set border color of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:444
+msgid "Input field background color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:447
+msgid "Set background color of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:451
+msgid "Input field background opacity"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:454
+msgid ""
+"Set background opacity of \"Name\" and \"E-mail\" input fields. The value "
+"must be in a range [0...1]."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:458
+msgid "Input field font color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:461
+msgid "Set font color of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:465
+msgid "Input field font size"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:468
+msgid "Set font size (pixels) of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:472
+msgid "Button color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:475
+msgid "Set button color."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:479
+msgid "Button font color"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:482
+msgid "Set button font color."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:486
+msgid "Button font size"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:489
+msgid "Set font size (pixels) of the button."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:499
+msgid "MailChimp Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:503
+msgid "Enable MailChimp"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:505
+msgid "Submit contact details to MailChimp"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:506
+msgid ""
+"Please tick checkbox if you want to submit contact details to MailChimp. "
+"<strong>CURL required!</strong>"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:510
+msgid "MailChimp API Key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:513
+msgid ""
+"Enter your MailChimp API Key. You can get it <a href=\"https://admin."
+"mailchimp.com/account/api-key-popup\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:517
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:576
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:638
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:676
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:707
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:738
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:810
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:858
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1027
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1344
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1378
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1411
+msgid "List ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:520
+msgid ""
+"Enter your List ID. You can get it <a href=\"https://admin.mailchimp.com/"
+"lists/\" target=\"_blank\">here</a> (click <strong>Settings</strong>)."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:524
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:745
+msgid "Double opt-in"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:526
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:747
+msgid "Ask users to confirm their subscription"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:527
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:748
+msgid "Control whether a double opt-in confirmation message is sent."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:531
+msgid "Send Welcome"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:533
+msgid "Send Lists Welcome message"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:534
+msgid ""
+"If your <strong>Double opt-in</strong> is disabled and this is enabled, "
+"MailChimp will send your lists Welcome Email if this subscribe succeeds. If "
+"<strong>Double opt-in</strong> is enabled, this has no effect."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:544
+msgid "iContact Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:548
+msgid "Enable iContact"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:550
+msgid "Submit contact details to iContact"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:551
+msgid "Please tick checkbox if you want to submit contact details to iContact."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:555
+msgid "AppID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:558
+msgid ""
+"Obtained when you <a href=\"http://developer.icontact.com/documentation/"
+"register-your-app/\" target=\"_blank\">Register the API application</a>. "
+"This identifier is used to uniquely identify your application."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:562
+msgid "API Username"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:565
+msgid "The iContact username for logging into your iContact account."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:569
+msgid "API Password"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:572
+msgid ""
+"The API application password set when the application was registered. This "
+"API password is used as input when your application authenticates to the "
+"API. This password is not the same as the password you use to log in to "
+"iContact."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:579
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:679
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:741
+msgid "Enter your List ID. You can get List ID from"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:579
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:679
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:741
+msgid "Available Lists"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:579
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:610
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:679
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:741
+msgid "this table"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:589
+msgid "GetResponse Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:593
+msgid "Enable GetResponse"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:595
+msgid "Submit contact details to GetResponse"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:596
+msgid ""
+"Please tick checkbox if you want to submit contact details to GetResponse."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:600
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:631
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:669
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:731
+msgid "API Key"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:603
+msgid ""
+"Enter your GetResponse API Key. You can get your API Key <a href=\"https://"
+"app.getresponse.com/my_api_key.html\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:607
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1309
+msgid "Campaign ID"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:610
+msgid "Enter your Campaign ID. You can get Campaign ID from"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:610
+msgid "Available Campaigns"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:620
+msgid "Campaign Monitor Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:624
+msgid "Enable Campaign Monitor"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:626
+msgid "Submit contact details to Campaign Monitor"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:627
+msgid ""
+"Please tick checkbox if you want to submit contact details to Campaign "
+"Monitor. <strong>CURL required!</strong>"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:634
+msgid ""
+"Enter your Campaign Monitor API Key. You can get your API Key from the "
+"Account Settings page when logged into your Campaign Monitor account."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:641
+msgid ""
+"Enter your List ID. You can get List ID from the list editor page when "
+"logged into your Campaign Monitor account."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:651
+msgid "Mad Mimi Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:655
+msgid "Enable Mad Mimi"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:657
+msgid "Submit contact details to Mad Mimi"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:658
+msgid "Please tick checkbox if you want to submit contact details to Mad Mimi."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:662
+msgid "Username/E-mail"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:665
+msgid "Enter your Mad Mimi username/e-mail."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:672
+msgid ""
+"Enter your Mad Mimi API Key. You can get your API Key <a href=\"https://"
+"madmimi.com/user/edit?account_info_tabs=account_info_personal\" target="
+"\"_blank\">here</a>."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:689
+msgid "Sendy Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:693
+msgid "Enable Sendy"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:695
+msgid "Submit contact details to Sendy"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:696
+msgid "Please tick checkbox if you want to submit contact details to Sendy."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:700
+msgid "Installation URL"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:703
+msgid "Enter your Sendy installation URL (without the trailing slash)."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:710
+msgid ""
+"Enter your List ID. This encrypted & hashed id can be found under View all "
+"lists section named ID."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:720
+msgid "Benchmark Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:724
+msgid "Enable Benchmark"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:726
+msgid "Submit contact details to Benchmark Email"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:727
+msgid ""
+"Please tick checkbox if you want to submit contact details to Benchmark "
+"Email."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:734
+msgid ""
+"Enter your Benchmark Email API Key. You can get your API Key <a href="
+"\"https://ui.benchmarkemail.com/EditSetting\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:758
+msgid "AWeber Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:762
+msgid "Enable AWeber"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:764
+msgid "Submit contact details to AWeber"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:765
+msgid "Please tick checkbox if you want to submit contact details to AWeber."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:784
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1059
+msgid "Authorization code"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:787
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1062
+msgid "here"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:793
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1068
+msgid "Make Connection"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:802
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1019
+msgid "Connected"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:804
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1021
+msgid "Disconnect"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:806
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1023
+msgid "Click the button to disconnect."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:813
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1030
+msgid "--- Select List ID ---"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:821
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:867
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1038
+msgid "Select your List ID."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:838
+msgid "MyMail Settings"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:845
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:851
+msgid "Enable MyMail"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:846
+msgid ""
+"Please <a href=\"edit-tags.php?taxonomy=newsletter_lists&post_type=newsletter"
+"\">create</a> at least one list."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:853
+msgid "Submit contact details to MyMail"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:854
+msgid "Please tick checkbox if you want to submit contact details to MyMail."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:871
+msgid "Double Opt-In"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:873
+msgid "Enable Double Opt-In"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:874
+msgid "Please tick checkbox if you want to enable double opt-in feature."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:974
+msgid "Authorization Code not found."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:995
+msgid "Invalid Authorization Code!"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1005
+msgid "Can not access AWeber account!"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1095
+msgid "Record successfully deleted!"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1100
+msgid "Opt-In Content Locker - Users"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1104
+msgid "Search:"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1105
+msgid "Search"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1106
+msgid "Reset search results"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1108
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1138
+msgid "CSV Export"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1112
+msgid "Name"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1113
+msgid "E-mail"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1114
+msgid "Registered"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1125
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1143
+msgid "Delete record"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1132
+msgid "No results found for"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1132
+msgid "List is empty."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1137
+msgid "Delete All"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1142
+msgid "Legend"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1148
+msgid "Do you really want to continue?"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1291
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1293
+msgid "API call failed."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1297
+msgid "API Key failed"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1304
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1339
+msgid "GetResponse Campaigns"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1310
+msgid "Campaign Name"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1323
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1324
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1358
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1359
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1392
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1393
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1425
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1426
+msgid "No data found!"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1345
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1379
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1412
+msgid "List Name"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1373
+msgid "Mad Mimi Lists"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1406
+msgid "Benchmark Lists"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1447
+msgid ""
+"<strong>Opt-In Content Locker</strong> plugin almost ready. You must do some "
+"<a href=\"admin.php?page=subscribeunlock\">settings</a> for it to work."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1506
+msgid "By clicking the button below, I agree with the"
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1563
+msgid "Your name is required."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1568
+msgid "Your e-mail address is required."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1570
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1576
+msgid "You have entered an invalid e-mail address."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1580
+msgid "Attention! Please correct the errors below and try again."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1945
+msgid "Unable to execute the cURL handle."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1948
+msgid "The iContact API did not return valid JSON."
+msgstr ""
+
+#: c:\WebServers\home\test1.ru\www\wp01\wp-content\plugins\subscribe-unlock/subscribe-unlock.php:1968
+msgid "Pages:"
+msgstr ""

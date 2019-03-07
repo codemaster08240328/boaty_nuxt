@@ -1,0 +1,13 @@
+@layout('emails.master')
+
+@section('content')
+  <p>Dear {{ name }},</p>
+
+  <p>
+    Thank you for reviewing SailChecker's {{ boat.BrandName }}, {{ boat.Name }}.
+  </p>
+
+  <p>
+    We greatly appreciate you taking the time to review the vessel, it not only helps us but also fellow SailChecker's. 
+  </p>
+@endsection

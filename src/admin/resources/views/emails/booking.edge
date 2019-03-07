@@ -1,0 +1,14 @@
+@layout('emails.master')
+
+@section('content')
+  <p>Dear {{ name }},</p>
+
+  <p>
+    Thank you for reserving SailChecker's {{ boat.BrandName }}, {{ boat.Name }}.
+  </p>
+
+  <p>
+    We will now contact the fleet operator and prepare all of the documentation for the vessel and your trip. In the mean time, please feel free to reserve other yachts - or if you would like to talk with us call or use our live chat.
+  </p>
+
+@endsection

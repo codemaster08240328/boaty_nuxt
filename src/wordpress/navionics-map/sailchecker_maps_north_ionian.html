@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Navionics Web API v2</title>
+
+    <!--Google API-->
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+    <!-- jNavionicsChart -->
+    <link rel="stylesheet" href="//webapiv2.navionics.com/dist/webapi/webapi.min.css" >
+    <script type="text/javascript" src="//webapiv2.navionics.com/dist/webapi/webapi.min.no-dep.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0px;
+            padding: 0px
+        }
+        .map {
+            width: 100%;
+            height: 100%;
+            min-height: 500px;
+            border: 1px solid gray;
+        }
+
+    </style>
+
+</head>
+<body data-root="http://webapiv2.navionics.com/dist/webapi/images" ><div id="nautical-map-container" class="map" ></div><script>
+
+ var Ionian= new google.maps.LatLng(39.623491,19.923702);
+var gMapEngineOptions = {
+    zoom: 11,
+    center: Ionian,
+    mapTypeControlOptions: {
+        mapTypeIds: [
+            JNC.Views.gNavionicsOverlay.CHARTS.NAUTICAL,
+            JNC.Views.gNavionicsOverlay.CHARTS.SONAR,
+            google.maps.MapTypeId.ROADMAP,
+            google.maps.MapTypeId.TERRAIN,
+            google.maps.MapTypeId.HYBRID
+        ],
+        style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR
+    }
+};
+
+// Creation of  Google Map Engine
+var gMapEngine = new google.maps.Map(document.getElementById("nautical-map-container"), gMapEngineOptions);
+
+
+// Creation of Navionics SonarChart Layer
+var navionicsSonarChartOverlay = new JNC.Views.gNavionicsOverlay({
+    navKey: "Navionics_webapi_02828",
+    chartType: JNC.Views.gNavionicsOverlay.CHARTS.SONAR,
+    isTransparent: false
+});
+
+// Creation of Navionics NauticalChart Layer
+var navionicsNauticalChartOverlay = new JNC.Views.gNavionicsOverlay({
+    navKey: "Navionics_webapi_02828",
+    chartType: JNC.Views.gNavionicsOverlay.CHARTS.NAUTICAL,
+    isTransparent: false,
+	depthLevel: JNC.SAFETY_DEPTH_LEVEL.LEVEL4
+});
+
+// Now attach the Navionics Overlay type to the map's registry.
+gMapEngine.mapTypes.set(JNC.Views.gNavionicsOverlay.CHARTS.SONAR, navionicsSonarChartOverlay);
+gMapEngine.mapTypes.set(JNC.Views.gNavionicsOverlay.CHARTS.NAUTICAL, navionicsNauticalChartOverlay);
+
+// We can now set the map to use the 'NauticalCharts' map type.
+gMapEngine.setMapTypeId(JNC.Views.gNavionicsOverlay.CHARTS.NAUTICAL);
+
+	  
+    </script>
+</body></html>

@@ -1,0 +1,20 @@
+
+
+Meeting Plan
+
+1. Log into V3 Admin and explain how things work in relation to how the data is protected
+
+2. Take a look at the bookings and requests, explain the difference between each and which forms on the frontend are used for both
+2.1. edit a booking, explain what will be done in future - integrations with CRM, freeagent, booking systems
+2.2. talk about adding a flag that has to be manually unchecked to turn off emails
+
+3. Take a look at the review system - ask about how we could import testimonials/reviews
+3.1. approve/disapprove review and demonstrate frontend
+
+4. Talk about how yacht charter and search content types work - based on the /country/area/base and no custom slugs
+4.1. demo on the frontend exactly how to setup content for a specific url
+
+5. Talk about the other content types, that allow custom slugs e.g. itineraries, blogs
+5.1. demo blogs/sailing itineraries on the frontend
+
+6. Take a look at how the linking tool works and what can be achieved e.g. day by day itineraries, or north/south or other...

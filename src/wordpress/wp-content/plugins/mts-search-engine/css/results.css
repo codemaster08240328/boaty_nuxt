@@ -1,0 +1,636 @@
+/*the main block with serach results*/
+#charter{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif!important;
+    font-size: 14px!important;
+    margin: 20px 30px!important;
+}
+#charter .clearfix { clear: both;width: 100%;height: 1px; visibility: hidden; }
+#charter #mts_res_table {
+	width: 100%!important;
+}
+
+
+/*block with filter oprions*/
+#side_filter{
+    float: left;
+}
+
+#side_filter .sidebar-wrapper{
+    padding: 0px!important;
+}
+
+#charter section#mts_all_widgets {
+	padding: 2px 0px 20px;
+	background: #F8FAF9;
+	color: #273623;
+	box-shadow: 0px 0px 3px 0px #18251C;
+	margin-top: 0px;
+}
+
+#charter section#mts_all_widgets .mts_widget_header{
+    text-align: center!important;
+}
+
+.icheckbox_minimal-purple{
+    margin: 5px 5px 0px!important;
+    width: 13px;
+    height: 13px;
+    float: left;
+    position: relative!important;
+    top: 0px;
+    left: 0px;
+    z-index: 20000;
+    text-align: left;
+}
+
+.icheckbox_minimal-purple input{
+    top: 0px;
+    left: 100px!important;
+    position: relative!important;
+    display: block;
+     z-index: 20000;
+    text-align: left;
+    float: left;
+}
+
+.mts_select_holder{
+    margin: 0px 5%!important;
+    width: 90%!important;
+}
+
+
+
+td.booker{
+    border-top: 2px solid #8ac8c1;
+}
+
+#mk-header{
+    display: none!important;
+}
+
+#ui-datepicker-div{
+    z-index: 9999!important;
+}
+
+.modal div{
+    position: relative;
+    z-index: 10050;
+}
+
+.mk-zindex-fix{
+    height: 0px;
+    display: none;
+}
+
+/*styles for sorting tble results*/
+#charter th#push_sorting_filters {
+	padding: 10px 0px;
+	margin: 10px 0;
+	display: block;
+}
+
+#push_sorting_filters a:hover{
+    color: #4f5d73;
+    background-color: rgb(242, 242, 242)!important;
+    
+}
+.sorting, .sorting_asc, .sorting_desc{
+    display: block;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+.name_sorting{
+    display: block;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+
+#sort_by_price{
+    width: 60px;
+}
+
+#sort_by_length{
+    width: 120px;
+}
+
+#sort_by_year{
+    width: 105px;
+}
+
+
+.sorting { background: rgb(242, 242, 242) url('images/sort_both.png') no-repeat center right!important; }
+.sorting:hover { background: rgb(242, 242, 242) url('images/sort_both.png') no-repeat center right!important; }
+.sorting_asc { background: rgb(242, 242, 242) url('images/sort_asc.png') no-repeat center right!important; }
+.sorting_desc { background: rgb(242, 242, 242) url('images/sort_desc.png') no-repeat center right!important; }
+
+.sorting_asc_disabled { background: rgb(242, 242, 242) url('images/sort_asc_disabled.png') no-repeat center right!important; }
+.sorting_desc_disabled { background: rgb(242, 242, 242) url('images/sort_desc_disabled.png') no-repeat center right!important; }
+ 
+table.dataTable thead th:active,
+table.dataTable thead td:active {
+	outline: none;
+}
+
+/*styles for modal window*/
+.modal-backdrop{
+    z-index: 900;
+}
+
+.modal-dialog{
+    
+    position: relative;
+    z-index: 9050;
+}
+
+.modal-dialog div{
+    
+    position: relative;
+    z-index: 9050;
+}
+
+#theme-page .theme-page-wrapper .theme-content{
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}
+
+.theme-page-wrapper.right-layout .theme-content, .theme-page-wrapper.left-layout .theme-content{
+    float: left;
+} 
+
+
+
+
+
+
+
+
+#charter .filter_cell {
+	display: none;
+}
+
+#charter .display_cell {
+	padding: 0 !important;
+	text-align:left;
+
+}
+/*  image for boat in result list */
+#charter .search-res-img {
+	min-width: 100%;
+	min-height: 100%;
+    margin: auto;
+
+}
+#charter .wrapp-search-res-img {
+	width: 100%;
+    min-height: 100%;
+    max-height: 230px!important;
+	display: block;
+	zoom: 1;
+	overflow: hidden;
+	position: relative;
+    margin: auto;
+    text-align: center;
+    border: 1px solid #fff;
+} 
+
+#charter .display_pic {
+	width: 100%;
+	float: left;
+	display: block;
+	/*min-height: 200px;*/
+    height: 100%;
+    min-height:  100%;
+	margin: 10px 0px 10px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 2px;
+	box-shadow: 0px 0px 3px 0px #333;
+    border: 1px solid gray;
+}
+
+#charter .left_info{
+    float: left;
+    width: 32%;
+    height: 100%;
+}
+
+/* price for boat  */
+#charter .display_price {
+	width: 17%;
+	float: left;
+	display: block;
+	min-height: 1px;
+	margin-top: 10px;
+}
+
+/* text for boat */
+#charter .display_info {
+	width: 48%;
+	float: left;
+	display: block;
+	min-height: 1px;
+	margin: 0 auto;
+}
+
+#charter .display_info.full {
+	width: 80%;
+	float: left;
+	display: block;
+	min-height: 1px;
+	margin: 0 auto;
+}
+
+#charter .display_content_mts{
+    font-size: 12px;
+    padding: 5px 0;
+}
+
+
+#chater .last_line{
+    clear: both;
+    padding-top: 3px 0px 3px;
+    border-top: 1px dashed #ddd;
+    text-align: left;
+    overflow: auto;
+    border-bottom: 1px dashed #ddd;
+}
+
+#chater .last_line .display_oper{
+    font-size: 90%;
+    font-weight: bold;
+    color: #666;
+}
+
+
+#charter .display_brand 
+{
+    float: right;
+    height:  54px;
+    width: 100px;
+}
+
+
+
+#charter .display_brand span.logo{
+        width: 100%;
+        height: 100%;
+        display: block;
+        border: 1px solid #DFDADA;
+        padding: 3px;
+        background-color:  #ffffff;
+        text-align: center;
+}
+
+#charter .display_brand span.logo img{
+    width: auto;
+    max-height: 100%;
+    position: relative;
+    margin: auto;
+}
+
+#charter .display_icons_mts .berth_icon{
+    width: 50px;
+    padding: 30px 2px 0px 0px;
+    background: url('img/berth_icon.png') top center no-repeat;
+    display: block;
+    float: left;
+}
+
+#charter .display_icons_mts .engine_icon{
+    width: 50px;
+    padding: 30px 2px 0px 0px;
+    background: url('img/engine_icon.png') top center no-repeat;
+    display: block;
+    float: left;
+}
+
+#charter .display_icons_mts .cabins_icon{
+    width: 50px;
+    padding: 30px 2px 0px 0px;
+    background: url('img/cabins_icon.png') top center no-repeat;
+    display: block;
+    float: left;
+}
+
+#charter .display_icons_mts .draft_icon{
+    width: 50px;
+    padding: 30px 2px 0px 0px;
+    background: url('img/draught_icon.png') top center no-repeat;
+    display: block;
+    float: left;
+}
+
+#charter .display_icons_mts .size_icon{
+    width: 50px;
+    padding: 30px 2px 0px 0px;
+    background: url('img/size_icon.png') top center no-repeat;
+    display: block;
+    float: left;
+}
+
+#charter h3{
+    margin: 0px 0px 5px 0px;
+    font-size: 16px;
+}
+
+#charter .display_icons_mts .berth_icon span,
+#charter .display_icons_mts .engine_icon span,
+#charter .display_icons_mts .cabins_icon span,
+#charter .display_icons_mts .draft_icon span,
+#charter .display_icons_mts .size_icon span{
+    text-align: center;
+    font-size: 10px;
+    display: block;
+    border: 1px solid #DFDADA;
+    line-height: 11px;
+}
+
+#charter .display_icons_mts{
+    text-align: left;
+    overflow: auto;
+    clear: both;
+    border: 0px solid #fff;
+    border-top: 1px dashed #ddd;
+    padding: 4px 0px 0px 0px;
+}
+
+
+#charter table.dataTable thead th {
+	cursor: default;
+	text-align: left;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#charter p.sld-top-legend {
+	color: #273623;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 95%!important;
+}
+#charter div.mts_radio_holder {
+	width: 30%;
+	display: inline-block;
+}
+#charter .mark {
+	background-color: yellow;
+	color: #2C1AFF;
+}
+#charter table.dataTable thead th {
+	border-bottom: 1px transparent;
+}
+#charter a.mts_display_book_link {
+	display: block;
+	clear: both;
+	margin: 10% auto;
+	text-align: center;
+	background: #ed702d;
+	border-radius: 4px;
+	font-size: 100%;
+	box-shadow: 0px 0px 2px 0px #F1C022;
+	width: 90%;
+	color: #fff;
+    padding: 6px 0px!important;
+    height: 22px
+}
+
+
+#charter span.mts_display_price {
+	margin: 20px auto;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+	width: 90%;
+	vertical-align: middle;
+	text-align: center;
+	font-weight: 700;
+	cursor: pointer;
+	zoom: 1;
+	letter-spacing: 1px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	-webkit-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+	-moz-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+	-ms-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+	-o-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+	transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+	border-color: #8ac8c1 !important;
+	color: #8ac8c1;
+	border-width: 1px!important;
+	border-style: solid!important;
+	box-shadow: 0px 0px 2px 0px #F1C022;
+}
+
+#charter .first{
+    margin-top: 0px!important;
+}
+
+#charter a.mts_display_book_link:hover {
+	background-color: #8ac8c1;
+	color: #ed702d;
+	outline: 0 none;
+	text-decoration: none;
+}
+#charter span.our_discount {
+	font-weight: bold;
+	font-size: 110%;
+	color: rgb(35, 87, 35);
+	text-shadow: 0px 0px 11px #fff;
+}
+#charter span.mts_our_price {
+	display: block;
+	border-bottom: 1px solid #fff;
+	font-size: 12px;
+}
+#charter div.display_result {
+	display: block;
+	padding: 10px 0 5px;
+	box-shadow: 0px 0px 1px 0px #0D3018;
+	margin: 10px 2px;
+	background: #F8FAF9;
+}
+#charter div.display_info {
+	padding: 10px 10px 0px 10px;
+	color: #333;
+	border-left: 1px solid #F5F5F5;
+}
+
+#charter p.other_info {
+	font-size: 90%;
+	font-weight: bold;
+	color: #666;
+	padding-top: 3px;
+	border-top: 1px dashed #ddd;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	margin-top: 3px;
+}
+#charter div.display_result:hover {
+	box-shadow: 0px 0px 3px #0d3018;
+	background: #fff;
+}
+#charter div#mts_res_table_length select {
+	display: inline-block;
+	zoom: 1;
+}
+#charter div.mts_filter_widget {
+	padding: 10px 0;
+	border-bottom: 1px dashed #ddd;
+}
+#charter p.mts_widget_header {
+	font-weight: bold!important;
+	margin-top: 20px;
+	margin-bottom: 4px;
+}
+#charter div#mts_res_table_wrapper {
+	margin-top: 0px;
+}
+
+
+#charter div.display_header_mts {
+	border-bottom: 1px dashed #ddd;
+}
+#charter div.display_header_mts p {
+	margin: 0;
+	padding: 0;
+	color: #333;
+}
+
+#charter input#mts_date_fromSS {
+	width: 36%;
+	float: left;
+	margin-left: 9px;
+}
+#charter input#mts_date_toSS {
+	width: 36%;
+	float: left;
+	margin-left: 50px;
+}
+#charter a#chtripdate {
+	color: #fff!important;
+	background: #5B856D;
+	display: block;
+	width: 92%;
+	margin: 10px auto;
+	overflow: hidden;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	top: 8px;
+	border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+	-moz-border-radius: 0!important;
+	outline: none!important;
+}
+#charter h3.refine_search {
+	font-size: 16px!important;
+	margin-bottom: -10px;
+	text-align: center;
+	padding-top: 10px;
+}
+#charter .squarebrd {
+	border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+	-moz-border-radius: 0!important;
+	outline: none!important;
+}
+
+#charter .mes {
+	font-weight:  normal!important;
+    color: #14695e!important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+	-moz-border-radius: 0!important;
+	outline: none!important;
+	border: 0!important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	background: #d3a44c;
+}
+
+.ui-datepicker {
+	/*z-index: 999!important;*/
+	font-size: 94%;
+}
+
+
+
+@media only screen and (min-width: 1024px) 
+{
+    .mk-grid{
+        max-width: 100%!important;
+    }
+    
+#theme-page{
+    text-align: center;
+    width: 100%!important;
+}
+
+#theme-page .theme-page-wrapper .theme-content{
+    width: 100%!important;
+    margin: 0px auto!important;
+}
+
+#theme-page .theme-page-wrapper{
+    margin: 0px auto!important;
+    width: 100%!important;
+}
+
+
+#charter .list-boats{
+    float: left;
+    width: 70%;
+    margin: 0px 0px 0px 0px;
+}
+
+#side_filter{
+    float: left;
+    width: 25%;
+    margin: 0px 3px 0px 2%;
+}
+
+}
+
+
+@media only screen and (max-width: 768px) 
+{
+    .mk-grid{
+        max-width: 100%!important;
+    }
+    
+    #theme-page{
+    text-align: center;
+    width: 100%!important;
+}
+
+#theme-page .theme-page-wrapper .theme-content{
+    width: 100%!important;
+    margin: 0px auto!important;
+}
+
+#theme-page .theme-page-wrapper{
+    margin: 0px auto!important;
+    width: 100%!important;
+}
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 1024px) 
+{
+    
+    #charter{
+        margin: 20px 4% 0px 2%;
+    
+    }
+}

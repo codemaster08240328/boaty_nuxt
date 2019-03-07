@@ -1,0 +1,114 @@
+table.subscribeunlock_useroptions {
+	width: 100%;
+	border-collapse: collapse;
+}
+table.subscribeunlock_useroptions em {
+	font-size: 11px;
+	color: #A0A0A0;
+}
+table.subscribeunlock_useroptions td,
+table.subscribeunlock_useroptions th {
+	padding: 5px 5px 5px 5px;
+	vertical-align: top;
+	border: 0px solid #C0C0C0;
+	text-align: left;
+}
+table.subscribeunlock_useroptions th {
+	width: 180px;
+}
+table.subscribeunlock_useroptions a{
+	color: #0080FF;
+	text-decoration: none;
+}
+table.subscribeunlock_useroptions a:hover{
+	text-decoration: underline;
+}
+
+.admin_subscribeunlock_wrap table.subscribeunlock_users {
+	width: 100%;
+	border-collapse: collapse;
+}
+.admin_subscribeunlock_wrap table.subscribeunlock_users tr {
+
+}
+.admin_subscribeunlock_wrap table.subscribeunlock_users td,
+.admin_subscribeunlock_wrap table.subscribeunlock_users th {
+	padding: 5px 5px 5px 5px;
+	vertical-align: top;
+	border: 1px solid #C0C0C0;
+}
+
+.admin_subscribeunlock_wrap table.subscribeunlock_users th {
+	background-color: #E0DBD0;
+	vertical-align: middle;
+}
+
+.admin_subscribeunlock_wrap table.subscribeunlock_users a{
+	color: #0080FF;
+	text-decoration: none;
+}
+.admin_subscribeunlock_wrap table.subscribeunlock_users a:hover{
+	text-decoration: underline;
+}
+.subscribeunlock_buttons {text-align: right; margin-bottom: 10px; margin-top: 10px; float: right;}
+.subscribeunlock_pageswitcher {
+	margin-right: 200px;
+	float: left;
+}
+.subscribeunlock_pageswitcher div {float: none !important;}
+
+.subscribeunlock_legend  {margin-top: 50px;}
+.subscribeunlock_legend  p {margin-top: 2px; margin-bottom: 2px; height: 100%; overflow: hidden;}
+.subscribeunlock_legend  img {float: left; margin-right: 10px;}
+
+div.subscribeunlock_postbox div.inside {overflow: hidden; height: 100%;}
+
+#subscribeunlock_icontact_progress {display: none;}
+
+#subscribeunlock-aweber-loading {
+	margin: 0 10px !important;
+	padding: 0 !important;
+	background: transparent !important;
+	border-width: 0 !important;
+	display: none;
+	vertical-align: middle;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+}
+#subscribeunlock-aweber-message {
+	display: none; 
+	line-height: 22px; 
+	background: #FBE3E4 url('../images/error.gif') no-repeat 10px 6px; 
+	padding: 3px 10px 3px 35px; 
+	color:#8a1f11;
+	border: 1px solid #FBC2C4; 
+	border-radius: 3px; 
+	-moz-border-radius: 3px; 
+	-webkit-border-radius:3px; 
+	font-size: 13px;
+	font-family: arial, verdana;
+	margin-bottom: 10px;
+}
+#subscribeunlock-aweber-message ul { margin: 0 0 0 15px !important; padding: 0; list-style: disc !important;}
+#subscribeunlock-aweber-message ul li {line-height: 20px; color:#333; margin-top: 0px; margin-bottom: 0px;}
+
+.subscribeunlock_useroptions textarea {
+	height: 120px;
+}
+.subscribeunlock_useroptions .ic_input_xxs {
+	width: 100px;
+}
+.subscribeunlock_useroptions .ic_input_xs {
+	width: 120px;
+}
+.subscribeunlock_useroptions .ic_input_s {
+	width: 150px;
+}
+.subscribeunlock_useroptions .ic_input_m {
+	width: 200px;
+}
+.subscribeunlock_useroptions .ic_input_number {
+	width: 100px;
+	text-align: right;
+}

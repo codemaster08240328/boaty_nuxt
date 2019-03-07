@@ -1,0 +1,1 @@
+[31-Oct-2014 21:11:11 UTC] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 19

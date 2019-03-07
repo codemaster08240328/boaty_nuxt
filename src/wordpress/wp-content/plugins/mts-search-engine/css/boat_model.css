@@ -1,0 +1,1089 @@
+#theme-page .theme-page-wrapper .theme-content {
+width: 95%!important;
+}
+
+.clear_margin{
+    clear: both;
+}
+
+.single-social-section{
+    margin: 10px 0px 0px 0px!important;
+}
+
+/*block for phot of boat model*/
+#images_model{
+    border: 0px solid #fff;
+    border-bottom: 10px solid transparent;
+    overflow: auto;
+    padding: 0px 0px 20px 0px;
+}
+
+#respons_image{
+    width: 95%!important;
+    margin: 0px!important;
+}
+
+#images_model img{
+    border: rgba(102,102,102,0.3) 1px solid;
+    box-shadow: 3px 5px 3px 5px rgba(102,102,102,0.3);
+    padding: 2px;
+    -webkit-box-shadow: 3px 5px 3px 5px rgba(102,102,102,0.3);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 5px 3px 5px rgba(102,102,102,0.3);  /* Firefox 3.5 - 3.6 */
+}
+
+
+/* block for general characteristics of boat model*/
+#general_chars{
+    font-size: 12px; 
+    font-family: Verdana;
+    border: 0px solid #fff;
+    overflow: auto;
+}
+
+ h2#data_title{
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+ }
+ 
+ 
+#general_chars .short .name_char{
+    font-weight: normal !important;
+}
+
+#general_chars span{
+       text-align: right;
+       font-weight: bold;
+       line-height: 100%;
+}
+
+hr {
+    border: 0px solid #fff;
+    border-bottom: 1px dashed #4f5d73;
+    height: 1px;
+    clear: both;
+    background: transparent!important;
+    color: transparent!important;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+
+
+
+
+
+
+/*block for detailed characteristics*/
+#detailed h3{
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+ }
+ 
+#detailed .specific .name_char{ 
+  font-weight: bold!important;
+        float: left!important;
+        display: block;
+        width: 60%;
+        margin: 0px 0px 3px 0px!important;
+        text-align: left!important;
+        color: #14695e;
+ }
+
+
+@media only screen and (min-width: 1280px) {
+
+    #theme-page .theme-page-wrapper .theme-content 
+    {
+        padding: 0px 20px 30px!important;
+    }
+    
+    #theme-page .theme-page-wrapper {
+margin: 0px auto!important;
+}
+    
+    .mk-love-holder{
+        margin-top: 10px!important;   
+    }
+    
+    .mk-blog-print{
+        margin-top: 10px!important;
+    }
+
+    .blog-modern-comment
+    {
+        display: none!important;
+    }
+    
+    .mk-moon-bubble-9{
+        display: none!important;
+    }
+    
+    #images_model
+    {
+        float: left;
+        width: 55%;
+        margin:  0px 2% 0px 0px;
+    }
+
+    #model_chars
+    {
+        float: left;
+        width: 40%;
+        margin: 0px 0px 0px 0px;
+    }
+
+    #general_chars
+    {
+        float: left;
+        width: 100%;
+        margin: 0px 0px 0px 0px;
+        min-height: 130px;
+    }
+
+ h1#model_title{
+    font-size:24px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    margin: 0px 0px 15px;
+    line-height: 100%;
+  }  
+ 
+ h1 span.model{
+    text-transform: uppercase!important;
+ }
+ 
+ h2#data_title{
+    font-size:22px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+    margin: 5px 0px 10px;
+    line-height: 100%;
+ }
+     #detailed{
+        float: left;
+        width: 100%;
+        padding: 0px 0px 0px 0px;
+    }
+ 
+ #detailed h2{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: Tahoma,Verdana, "Trebuchet MS",Arial,sans-serif;
+    margin: 15px 0px 20px;
+ }
+ 
+  #detailed .specific{
+        font-size: 14px;
+        font-family: Arial,Verdana, "Trebuchet MS",sans-serif;
+        margin: 0px;
+        clear: both;
+  }
+  
+  #detailed .specific .name_char{
+        font-weight: bold!important;
+        display: block;
+        float: left;
+        width: 75%;
+        text-align: left;
+        margin: 0px 0px 7px!important;
+        text-transform: capitalize;
+  }
+  
+   #detailed .specific span{
+        font-weight: bold;
+        display: block;
+        float: right;
+        width: 15%;
+        margin: 0px 5% 7px 0px;
+        text-align: right;
+  }
+ 
+ #general_chars .short{
+    width: 18%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px;
+    text-align: center;
+}
+
+#general_chars .first{
+    width: 15%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .last{
+    width: 20%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .short .name_char{
+    display: block;
+    margin: 4px 2px 0px 2px!important;
+    text-align: center;
+    line-height: 100%;
+    height: 40px;
+    text-transform: capitalize;
+}
+
+#general_chars span{
+       display: block;
+       margin: 0px 2px 0px!important;
+       text-align: center;
+       line-height: 100%;
+       height: 30px;
+}
+
+#general_chars .first img{
+    margin: 0px auto 0px 0px;
+}
+
+#general_chars .short span{
+    margin: 0px;
+}
+
+#general_chars .short img{
+    margin: 0px auto;
+    display: block;
+    border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+#general_chars .icon_length img{
+    width: 33px;
+    height: 26px;
+    padding:3px 7px 3px 8px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 26px;
+    height: 28px;
+    padding:2px 11px 2px 11px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 34px;
+    height: 27px;
+    padding:2px 7px 3px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 40px;
+    height: 27px;
+    padding: 2px 4px 3px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 27px;
+    height: 27px;
+    padding:2px 10px 3px 11px;
+    }
+    
+ #general_chars .name_char{
+    display: block;
+    width: 100%;
+    text-align: center;
+ }
+ 
+ .to_search ul{
+    width: 25%;
+    margin: 0px 0px 0px 4%;
+    padding: 0px;
+    list-style-type: square;
+    float: left;
+    display: block;
+ }
+ 
+ .to_search ul li{
+    margin: 0px 0px 8px 0px;
+    padding: 0px;
+    font-weight: bold;
+ }
+ 
+ #screen{
+    margin: 30px 20px 0px 0px;
+ }
+ 
+  #screen p{
+    margin: 10px 0px 0px 0px;
+    line-height: 140%;
+ }
+ 
+ #screen span{
+    font-weight: bold;
+ }
+ 
+ 
+
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+ h1#model_title{
+    font-size:28px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    }
+ 
+ h1 span.model{
+    text-transform: uppercase!important;
+ }
+ 
+ h2#data_title{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+     margin: 15px 0px 15px;
+ }
+ 
+
+ 
+
+ 
+ #general_chars .short{
+    width: 18%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px;
+    text-align: center;
+}
+
+#general_chars .first{
+    width: 15%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .last{
+    width: 20%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .short .name_char{
+    display: block;
+    margin: 4px 2px 0px 2px!important;
+    text-align: center;
+    line-height: 100%;
+    text-transform: capitalize;
+}
+
+#general_chars span{
+       display: block;
+       margin: 5px 2px 0px!important;
+       text-align: center;
+       line-height: 100%;
+}
+
+#general_chars .first img{
+    margin: 0px auto 0px 0px;
+}
+
+#general_chars .short span{
+    margin: 0px;
+}
+
+#general_chars .short img{
+    margin: 0px auto;
+    display: block;
+    border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+#general_chars .icon_length img{
+    width: 33px;
+    height: 26px;
+    padding:3px 7px 3px 8px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 26px;
+    height: 28px;
+    padding:2px 11px 2px 11px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 34px;
+    height: 27px;
+    padding:2px 7px 3px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 40px;
+    height: 27px;
+    padding: 2px 4px 3px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 27px;
+    height: 27px;
+    padding:2px 10px 3px 11px;
+    }
+    
+ #general_chars .name_char{
+    display: block;
+    width: 100%;
+    text-align: center;
+ }
+ 
+ #screen p{
+    margin: 10px 0px 0px 0px;
+    line-height: 130%;
+ }
+  
+}
+
+@media only screen and (max-width: 533px) {
+
+ h1#model_title{
+    font-size:24px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+    }
+    
+  h2#data_title{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+ }
+ 
+ #general_chars{
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif!important;
+    font-size: 12px!important;
+ }
+ 
+  #general_chars .short{
+    width: 100%;
+    height: 25px;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 0px 4px;
+}
+ 
+
+
+#general_chars .icon_length img{
+    width: 26px;
+    height: 20px;
+    padding: 0px;
+    margin: 0px 0px 2px;
+    display: inline;
+    padding:2px;
+   border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+
+#general_chars .icon_berth img{
+    width: 19px;
+    height: 20px;
+    padding: 0px;
+    display: inline;
+    padding:2px 5px 2px 5px;
+   border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+
+    
+ #general_chars .icon_cabin img{
+    width: 25px;
+    height: 20px;
+    margin: 0px 0px 2px;
+    display: inline;
+    padding:2px 2px 2px 3px;
+   border:1px solid #14695e;
+   background-color:#ffffff;
+    }
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+ h1#model_title{
+    font-size:24px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    margin: 20px 0px 15px 0px;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+    }
+    
+  h2#data_title{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    margin: 8px 0px 18px 0px;
+ }
+ 
+ #general_chars{
+    font-family: Tahoma,"Trebuchet MS",Arial,Verdana, sans-serif!important;
+    font-size: 12px!important;
+    min-height: 130px;
+    margin: 0px 0px 10px 0px;
+ }
+ 
+#general_chars .short{
+    width: 18%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px;
+    text-align: center;
+}
+
+#general_chars .first{
+    width: 15%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .last{
+    width: 20%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .short .name_char{
+    display: block;
+    margin: 4px 2px 0px 2px!important;
+    text-align: center;
+    line-height: 100%;
+}
+
+#general_chars span{
+       display: block;
+       margin: 5px 2px 0px!important;
+       text-align: center;
+       line-height: 100%;
+}
+
+#general_chars .short img{
+    margin: 0px auto;
+    display: block;
+    border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+#general_chars .icon_length img{
+    width: 33px;
+    height: 26px;
+    padding:3px 7px 3px 8px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 26px;
+    height: 28px;
+    padding:2px 11px 2px 11px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 34px;
+    height: 27px;
+    padding:2px 7px 3px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 40px;
+    height: 27px;
+    padding: 2px 4px 3px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 27px;
+    height: 27px;
+    padding:2px 10px 3px 11px;
+    }
+    
+ #general_chars .name_char{
+    display: block;
+    width: 100%;
+    text-align: center;
+ }
+
+}
+
+@media only screen and (max-width: 568px) 
+{
+    h1#model_title{
+        margin-top: 20px;
+        font-family: "Trebuchet MS",Arial,Verdana, sans-serif;
+        }
+    #general_chars .short{
+    width: 18%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px;
+    text-align: center;
+}
+
+#general_chars{
+    min-height: 120px;
+    margin: 0px 0px 10px 0px;
+}
+
+#general_chars .first{
+    width: 15%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .last{
+    width: 20%;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    margin: 0px 1% 0px 0px!important;
+    text-align: center;
+}
+
+#general_chars .short .name_char{
+    display: block;
+    margin: 4px 2px 0px 2px!important;
+    text-align: center;
+    line-height: 100%;
+}
+
+#general_chars span{
+       display: block;
+       margin: 5px 2px 0px!important;
+       text-align: center;
+       line-height: 100%;
+}
+
+#general_chars .short img{
+    margin: 0px auto;
+    display: block;
+    border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+#general_chars .icon_length img{
+    width: 33px;
+    height: 26px;
+    padding:3px 7px 3px 8px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 26px;
+    height: 28px;
+    padding:2px 11px 2px 11px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 34px;
+    height: 27px;
+    padding:2px 7px 3px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 40px;
+    height: 27px;
+    padding: 2px 4px 3px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 27px;
+    height: 27px;
+    padding:2px 10px 3px 11px;
+    }
+    
+ #general_chars .name_char{
+    display: block;
+    width: 100%;
+    text-align: center;
+ }
+}
+
+@media only screen and (max-width: 375px) {
+    
+#theme-page .theme-page-wrapper .theme-content {
+width: 90%!important;
+}
+
+ h1#model_title{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    }
+ h2#data_title{
+    font-size:12px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif!important;
+     margin: 5px 0px 15px!important;
+ }
+ 
+ #general_chars{
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif!important;
+    font-size: 12px!important;
+ }
+ 
+
+#general_chars .short{
+    width: 100%;
+    height: 25px;
+    padding: 0px 0px 0px 0px;
+    clear: both;
+    margin: 0px 0px 4px;
+}
+
+#general_chars .short span{
+    margin: 0px 0px 0px 5px;
+}
+
+#general_chars .short img{
+    margin: 0px;
+    display: inline;
+    border:1px solid #14695e;
+   background-color:#ffffff;
+}
+
+
+#general_chars .icon_length img{
+    width: 23px;
+    height: 18px;
+    padding:2px 4px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 17px;
+    height: 18px;
+    padding:2px 7px 2px 7px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 23px;
+    height: 18px;
+    padding:2px 4px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 27px;
+    height: 18px;
+    padding:2px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 18px;
+    height: 18px;
+    padding:2px 5px 2px 6px;
+    }
+    
+ #images_model{
+    width: 100%;
+    margin:  0px 5% 0px 5%;
+}
+
+#images_model img{
+    border: rgba(102,102,102,0.3) 1px solid;
+    box-shadow: 3px 5px 3px 5px rgba(102,102,102,0.3);
+    padding: 2px;
+    -webkit-box-shadow: 3px 5px 3px 5px rgba(102,102,102,0.3);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 5px 3px 5px rgba(102,102,102,0.3);  /* Firefox 3.5 - 3.6 */
+}
+
+#general_chars{
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+
+
+}
+
+@media only screen and (max-width: 320px) {
+    #un-button{
+        display: none!important;
+    }
+    
+    #theme-page .theme-page-wrapper .theme-content {
+    width: 95% !important;
+    padding-top: 5px!important;
+}
+    #theme-page .theme-page-wrapper{
+        padding: 0px!important;
+    }
+    #theme-page .theme-content{
+        width: 100%!important;
+    }
+    
+    #mk-responsive-wrap{
+        overflow: hidden!important;
+    }
+    
+    #mk-responsive-nav li a {
+        margin: 8px 5%;
+        background-color: rgba(232, 180, 72, 0.85)!important;
+        padding: 0px!important;
+        width: 90%;
+    }
+    
+    #mk-responsive-nav li a {
+        margin: 0!important;
+        background-color: rgba(232, 180, 72, 0.85)!important;
+        padding: 5px 2% 5px 3%!important;
+        width: 90%;
+    }
+    
+    .blog-modern-comment{
+        display: none!important;
+    }
+    .mk-moon-bubble-9{
+        display: none!important;
+    }
+    
+    #mk-responsive-nav > li {
+    border-bottom: 1px solid #14695E!important;
+}
+
+    .single-social-section{
+        padding: 0px 0px 0px 20px!important;
+        margin: 0px 0px 5px 0px!important;
+    }
+    
+    #mk-responsive-nav > li > ul {
+    display: none;
+    border-top: 1px solid #14695E!important;
+}
+
+.theme-page-wrapper .theme-content:not(.no-padding) {
+    padding: 15px 0px !important;
+}
+ h1#model_title{
+    font-size:14px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    margin: 0px 0px 15px!important;
+    font-family: Tahoma, Verdana,"Trebuchet MS",Arial,sans-serif!important;
+    }
+    
+ h2#data_title{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif!important;
+    margin: 0px 0px 15px 0px!important;
+ }
+ 
+ #detailed h2{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif!important;
+    margin: 5px 0px 5px 0px!important;
+ }
+ 
+ #detailed{
+    clear: both;
+    width: 80%;
+    margin: 0px 40px 0px 20px!important;
+    overflow: visible;
+    padding: 10px 0px 10px!important;
+ }
+ 
+ .to_search h3{
+    font-size:16px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    font-family: "Trebuchet MS",Arial,Verdana, sans-serif!important;
+    margin: 0px 0px 15px 0px!important;
+ }
+ 
+ #images_model{
+    clear: both;
+    margin:  0px 0px 0px 20px;
+}
+
+ #images_model div{
+    margin:  0px 25px 0px 0px!important;
+}
+
+
+
+ 
+ #general_chars{
+    clear: both;
+    width: 80%;
+    margin: 0px 40px 5px 20px!important;
+    overflow: auto;
+    border: 0px solid #fff;
+}
+
+hr {
+    width: 95%;
+    margin: 0px 5% 0px 5%;
+}
+
+
+
+#general_chars .short{
+    float: left;
+    width: 100%;
+    margin: 0px 0px 5px 0px!important;
+}
+
+#general_chars .short img{
+    float: left;
+}
+
+#general_chars .short .name_char{
+    float: left!important;
+    display: block;
+    width: 35%;
+    margin: 5px 0px 0px 5px!important;
+}
+
+#general_chars .short span{
+    float: right;
+    display: block;
+    width: 40%;
+    font-size: 14px!important;
+    margin: 5px 0px 0px 0px!important;
+}
+
+#general_chars .icon_length img{
+    width: 23px;
+    height: 18px;
+    padding:2px 4px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 17px;
+    height: 18px;
+    padding:2px 7px 2px 7px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 23px;
+    height: 18px;
+    padding:2px 4px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 27px;
+    height: 18px;
+    padding:2px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 18px;
+    height: 18px;
+    padding:2px 5px 2px 6px;
+    }
+    
+    
+     #detailed .specific{
+        font-size: 12px;
+        font-family: Arial,Verdana, "Trebuchet MS",sans-serif;
+        border: 0px solid #fff;
+        overflow: auto;
+  }
+  
+  #detailed .specific .name_char{
+        font-weight: bold!important;
+        float: left!important;
+        display: block;
+        width: 60%;
+        margin: 0px 0px 3px 0px!important;
+        text-align: left!important;
+        color: #14695e;
+  }
+  
+   #detailed .specific span{
+        float: right;
+    display: block;
+    width: 30%;
+    font-size: 14px!important;
+    margin: 0px 0px 0px 0px!important;
+    font-weight: bold;
+    text-align: right;
+  }
+ 
+
+}
+
+@media only screen and (max-width: 240px) {
+    
+    body{
+        min-width: 240!important;
+    }
+    
+    #theme-page{
+        min-width: 240!important;
+    }
+    
+    #theme-content{
+        min-width: 240!important;
+    }
+
+ h1#model_title{
+    font-size:14px!important;
+    font-weight:bold!important;
+    text-transform: capitalize!important;
+    }
+    
+    #general_chars .icon_length img{
+    width: 23px;
+    height: 18px;
+    padding:2px 4px;
+
+}
+
+#general_chars .icon_berth img{
+    width: 17px;
+    height: 18px;
+    padding:2px 7px 2px 7px;
+}
+    
+ #general_chars .icon_cabin img{
+    width: 23px;
+    height: 18px;
+    padding:2px 4px;
+    }
+    
+ #general_chars .icon_draft img{
+    width: 27px;
+    height: 18px;
+    padding:2px;
+    }
+    
+    
+ #general_chars .icon_engine img{
+    width: 18px;
+    height: 18px;
+    padding:2px 5px 2px 6px;
+    }
+
+
+}

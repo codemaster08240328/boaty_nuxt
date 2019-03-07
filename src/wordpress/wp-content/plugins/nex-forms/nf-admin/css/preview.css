@@ -1,0 +1,52 @@
+div.updated, .update-nag , div.error{display:none; !important}
+#wpcontent {
+    margin-left: 0 !important;
+    padding: 20px;
+}
+#wpadminbar, #adminmenumain, #wpfooter {
+    display: none;
+}
+#wpbody {
+    padding-top: 0 !important;
+}
+html{
+	background:#fff !important;
+	padding-top:0 !important;
+}
+#wpwrap{
+	background:#fff !important;
+}
+.wp-admin select {
+    height: auto !important;
+}
+.wp-admin .nex-forms-container select {
+    height: 34px !important;
+}
+.wp-admin .nex-forms-container .multi-select select {
+    height: auto !important;
+}
+#wpfooter{
+	display:none;
+}
+#wpcontent {
+    padding-left: 0 !important;
+}
+.row.outer_container {
+    margin: 0 !important;
+}
+
+#wpadminbar {
+    z-index: 999999999999 !important;
+}
+
+#nex-forms .star-rating {
+    white-space: unset;
+}
+.sticky-menu #adminmenuwrap{
+	z-index:100000000 !important;
+}
+
+#adminmenuback{
+	z-index:2000 !important;
+}
+

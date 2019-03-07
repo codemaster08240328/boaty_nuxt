@@ -1,0 +1,5 @@
+0 * * * * sh -c "cd /usr/src/app/admin && /usr/local/bin/adonis bbapi:updateHA" >> /var/log/cron.log 2>&1
+30 * * * * sh -c "cd /usr/src/app/admin && /usr/local/bin/adonis wp:getWPPosts" >> /var/log/cron.log 2>&1
+40 * * * * sh -c "cd /usr/src/app/admin && /usr/local/bin/adonis bbapi:getSearchListings" >> /var/log/cron.log 2>&1
+5 * * * * sh -c "cd /usr/src/app/admin && /usr/local/bin/adonis bbapi:getBoatInfo" >> /var/log/cron.log 2>&1
+0 * * * * sh -c "cd /usr/src/app/admin && /usr/local/bin/adonis bbapi:getSearchListings --images=true" >> /var/log/cron.log 2>&1

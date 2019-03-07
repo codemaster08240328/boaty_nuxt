@@ -1,0 +1,93 @@
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: QUtJQUlHUk5LTk80WDVKVTJaTUE=
+CLIENT -> SERVER: QWhMaDc3RlNJWkJ3dTRCODJrdDE3SVkxTUlPVkxRQndQSFc0RTBKV0VOKzQ=
+CLIENT -> SERVER: MAIL FROM:<info@sailchecker.com>
+CLIENT -> SERVER: RCPT TO:<matt@sAOWAPAN.COM>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 20 Mar 2018 11:12:20 +0000
+CLIENT -> SERVER: To: matt@sAOWAPAN.COM
+CLIENT -> SERVER: From: You <info@sailchecker.com>
+CLIENT -> SERVER: Subject: NEX-Forms Test Mail
+CLIENT -> SERVER: Message-ID: <d7c75090fdaa0d5c5405ec2de7351a5b@sailchecker.dev>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8\n\n
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This is a test message in <strong>HTML</strong>. If you received this your email settings are working correctly :)<br /><br />You are using <strong>wp_mailer</strong> as your emailing method
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+SMTP ERROR: DATA END command failed: 554 Transaction failed: Duplicate header 'MIME-Version'.
+SMTP Error: data not accepted.CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: QUtJQUlHUk5LTk80WDVKVTJaTUE=
+CLIENT -> SERVER: QWhMaDc3RlNJWkJ3dTRCODJrdDE3SVkxTUlPVkxRQndQSFc0RTBKV0VOKzQ=
+CLIENT -> SERVER: MAIL FROM:<info@sailchecker.com>
+CLIENT -> SERVER: RCPT TO:<matt@sAOWAPAN.COM>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 20 Mar 2018 11:15:02 +0000
+CLIENT -> SERVER: To: matt@sAOWAPAN.COM
+CLIENT -> SERVER: From: You <info@sailchecker.com>
+CLIENT -> SERVER: Subject: NEX-Forms Test Mail
+CLIENT -> SERVER: Message-ID: <6cecd5ee862d0854b12d9f4543f73668@sailchecker.dev>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8\n\n
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This is a test message in <strong>HTML</strong>. If you received this your email settings are working correctly :)<br /><br />You are using <strong>wp_mailer</strong> as your emailing method
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+SMTP ERROR: DATA END command failed: 554 Transaction failed: Duplicate header 'MIME-Version'.
+SMTP Error: data not accepted.CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: QUtJQUlHUk5LTk80WDVKVTJaTUE=
+CLIENT -> SERVER: QWhMaDc3RlNJWkJ3dTRCODJrdDE3SVkxTUlPVkxRQndQSFc0RTBKV0VOKzQ=
+CLIENT -> SERVER: MAIL FROM:<info@sailchecker.com>
+CLIENT -> SERVER: RCPT TO:<matt@sAOWAPAN.COM>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 20 Mar 2018 11:15:40 +0000
+CLIENT -> SERVER: To: matt@sAOWAPAN.COM
+CLIENT -> SERVER: From: You <info@sailchecker.com>
+CLIENT -> SERVER: Subject: NEX-Forms Test Mail
+CLIENT -> SERVER: Message-ID: <304e67224b7e47299bb33145f6e677fc@sailchecker.dev>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8\n\n
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This is a test message in <strong>HTML</strong>. If you received this your email settings are working correctly :)<br /><br />You are using <strong>wp_mailer</strong> as your emailing method
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+SMTP ERROR: DATA END command failed: 554 Transaction failed: Expected ';', got "\"
+SMTP Error: data not accepted.CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO sailchecker.dev
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: QUtJQUlHUk5LTk80WDVKVTJaTUE=
+CLIENT -> SERVER: QWhMaDc3RlNJWkJ3dTRCODJrdDE3SVkxTUlPVkxRQndQSFc0RTBKV0VOKzQ=
+CLIENT -> SERVER: MAIL FROM:<info@sailchecker.com>
+CLIENT -> SERVER: RCPT TO:<matt@sAOWAPAN.COM>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 20 Mar 2018 11:17:51 +0000
+CLIENT -> SERVER: To: matt@sAOWAPAN.COM
+CLIENT -> SERVER: From: You <info@sailchecker.com>
+CLIENT -> SERVER: Subject: NEX-Forms Test Mail
+CLIENT -> SERVER: Message-ID: <5ed193de29c0a009013863c60a3075b0@sailchecker.dev>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This is a test message in <strong>HTML</strong>. If you received this your email settings are working correctly :)<br /><br />You are using <strong>wp_mailer</strong> as your emailing method
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT

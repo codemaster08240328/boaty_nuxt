@@ -1,0 +1,8 @@
+[20-Oct-2014 22:53:08 UTC] PHP Fatal error:  Class 'Swift_Mime_MimePart' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/SimpleMessage.php on line 18
+[27-Oct-2014 12:08:00 UTC] PHP Fatal error:  Interface 'Swift_Mime_Header' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/ParameterizedHeader.php on line 19
+[30-Oct-2014 01:41:39 UTC] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/ContentEncoder.php on line 19
+[30-Oct-2014 02:17:26 UTC] PHP Fatal error:  Interface 'Swift_Mime_HeaderSet' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/SimpleHeaderSet.php on line 19
+[30-Oct-2014 14:55:20 UTC] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/SimpleMimeEntity.php on line 19
+[31-Oct-2014 22:01:04 UTC] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/HeaderEncoder.php on line 19
+[01-Nov-2014 08:37:07 UTC] PHP Fatal error:  Class 'Swift_Mime_SimpleMimeEntity' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/MimePart.php on line 19
+[01-Nov-2014 17:37:08 UTC] PHP Fatal error:  Interface 'Swift_Mime_CharsetObserver' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mime/MimeEntity.php on line 18

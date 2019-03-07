@@ -1,0 +1,309 @@
+.transparent_form{
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    z-index: 999;
+    clear: both;
+    font-family: Arial!important;
+    font-size: 13px!important;
+}
+
+
+.ui-autocomplete{
+    z-index: 10001;
+}
+
+.ui-datepicker-week-end{
+    color: #14695e!important;
+}
+
+.ui-datepicker-week-end a{
+    color: #14695e!important;
+}
+
+#ui-datepicker-div{
+    margin-top: 0px;
+}
+
+
+
+
+
+
+/* styles for searching form*/
+#front{
+   margin: 0px 0px 0px; 
+   position: relative;
+   text-align: left;
+}
+
+#front input{
+  border: 1px solid white;  
+}
+
+
+#front .mts_n_input {
+  color: gray;
+  width:  100%;
+  margin: 0px 0px 15px 0px;
+  border-radius: 3px 3px;   
+}
+
+
+#front .mts_n_input.dark-text {
+  color: #000;
+}
+
+
+#front #start_search{
+	width: 45%;
+	float: left;
+    background:  transparent;
+    margin: 5px 0px 20px 10%;
+    text-align: center;
+    padding: 10px 12px!important;
+    color: #fff !important;
+}
+
+#front #start_search:hover{
+  background-color: #c75c5c !important;
+  color: #fff !important;
+}
+
+
+#front input::-webkit-input-placeholder {
+   color: gray;
+   font-family: Arial!important;
+}
+
+#front input:-moz-placeholder { /* Firefox 18- */
+   color: gray; 
+   font-family: Arial!important;
+}
+
+#front input::-moz-placeholder {  /* Firefox 19+ */
+   color: gray; 
+   font-family: Arial!important;
+}
+
+#front input:-ms-input-placeholder {  
+   color: gray;
+   font-family: Arial!important;  
+}
+
+
+#front select{
+    font-size:  13px;
+    font-weight: normal!important;
+    background:  transparent;
+    padding: 10px 12px!important;
+    -webkit-appearance: none;
+}
+
+#front option {
+	color: #000!important;
+}
+
+
+#front input#mts_date_from{
+	width: 45%!important;
+	float: left;
+	margin: 5px 0px 20px 0px;
+  background:  transparent url('img/icon_cal_front2.png') right center no-repeat;
+  cursor: pointer;
+  color: #fff;
+}
+
+#front #mts_boat_type{
+	width: 45%;
+	float: left;
+	margin: 5px 0px 20px 0px;
+    border:  1px solid #fff!important;
+    color: #fff;
+    border-radius: 3px 3px!important;
+    background: transparent url('https://sailchecker.com/wp-content/themes/jupiter/images/selectbox-arrow.png') right center no-repeat!important;
+    min-width: 40px!important;
+      -webkit-appearance: none!important;
+      -moz-appearance:none;
+}
+
+#front  input#mts_date_to{
+	width: 45%!important;
+	float: left;
+	margin: 5px 0px 20px 10%;
+  background:  transparent url('img/icon_cal_front2.png') right center no-repeat;
+  cursor: pointer;
+  color: #fff;
+}
+
+#front  input#mts_date_from::-webkit-input-placeholder ,
+#front  input#mts_date_to::-webkit-input-placeholder {  
+   color: #fff; 
+}
+#front  input#mts_date_from:-moz-placeholder ,
+#front  input#mts_date_to:-moz-placeholder {  
+   color: #fff; 
+}
+#front  input#mts_date_from::-moz-placeholder ,
+#front  input#mts_date_to::-moz-placeholder {  
+   color: #fff; 
+}
+#front  input#mts_date_from:-ms-input-placeholder ,
+#front  input#mts_date_to:-ms-input-placeholder {  
+   color: #fff; 
+}
+
+/* styles for searching form in footer*/
+
+#front2{
+   margin: 0px 0px 0px; 
+   position: relative;
+   text-align: left;
+}
+
+#front2 input{
+  border: 1px solid white;  
+}
+
+
+#front2 .mts_n_input {
+	color: gray;
+    width:  100%;
+    margin: 0px 0px 15px 0px;
+    border-radius: 3px 3px;
+   
+}
+
+#front2 input::-webkit-input-placeholder {
+   color: gray;
+   font-family: Arial!important;
+}
+
+#front2 input:-moz-placeholder { /* Firefox 18- */
+   color: gray; 
+   font-family: Arial!important;
+}
+
+#front2 input::-moz-placeholder {  /* Firefox 19+ */
+   color: gray; 
+   font-family: Arial!important;
+}
+
+#front2 input:-ms-input-placeholder {  
+   color: gray;
+   font-family: Arial!important;  
+}
+
+#front2 input#mts_date_from2{
+	width: 45%!important;
+	float: left;
+	margin: 5px 0px 20px 0px;
+    background:  transparent url('img/icon_cal_front2.png') right center no-repeat;
+    cursor: pointer;
+}
+
+#front2 #mts_boat_type2{
+	width: 45%;
+	float: left;
+	margin: 5px 0px 20px 0px;
+    border:  1px solid #fff!important;
+    color: #fff;
+    border-radius: 3px 3px!important;
+    background: transparent url('https://sailchecker.com/wp-content/themes/jupiter/images/selectbox-arrow.png') right center no-repeat!important;
+    min-width: 40px!important;
+      -webkit-appearance: none!important;
+      -moz-appearance:none;
+}
+
+#front2  input#mts_date_to2{
+	width: 45%!important;
+	float: left;
+	margin: 5px 0px 20px 10%;
+    background:  transparent url('img/icon_cal_front2.png') right center no-repeat;
+    cursor: pointer;
+}
+
+#front2 select{
+    font-size:  13px;
+    font-weight: normal!important;
+    background:  transparent;
+    padding: 10px 12px!important;
+    -webkit-appearance: none;
+}
+
+#front2 option {
+	color: #000!important;
+}
+
+#front2 input#start_search2{
+	width: 45%;
+	float: left;
+    background:  transparent;
+    margin: 5px 0px 20px 10%!important;
+    text-align: center;
+    padding: 10px 12px!important;
+    color: #fff !important;
+}
+
+#front2 input#start_search2:hover{
+  background-color: #c75c5c !important;
+  color: #fff !important;
+}
+
+
+#front input#mts_date_from2{
+	width: 45%!important;
+	float: left;
+	margin: 5px 0px 20px 0px;
+    background:  transparent url('img/icon_cal_front2.png') right center no-repeat;
+    cursor: pointer;
+}
+
+#front #mts_boat_type2{
+	width: 45%;
+	float: left;
+	margin: 5px 0px 20px 0px;
+    border:  1px solid #fff!important;
+    color: #fff;
+    border-radius: 3px 3px!important;
+    background: transparent url('https://sailchecker.com/wp-content/themes/jupiter/images/selectbox-arrow.png') right center no-repeat!important;
+    min-width: 40px!important;
+      -webkit-appearance: none!important;
+      -moz-appearance:none;
+}
+
+#front input#mts_date_to2{
+	width: 45%!important;
+	float: left;
+	margin: 5px 0px 20px 10%;
+    background:  transparent url('img/icon_cal_front2.png') right center no-repeat;
+    cursor: pointer;
+}
+
+
+
+
+
+#front input#start_search2{
+	width: 45%;
+	float: left;
+    background:  transparent;
+    margin: 5px 0px 20px 10%!important;
+    text-align: center;
+    padding: 10px 12px!important;
+    color: #fff !important;
+}
+
+#front input#start_search2:hover{
+  background-color: #c75c5c !important;
+  color: #fff !important;
+}
+
+.mts_ckbx_holder {
+  clear: both;
+}
+
+.left_info .search-res-img {
+  width: 100%;
+}

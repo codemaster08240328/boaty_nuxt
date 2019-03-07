@@ -1,0 +1,258 @@
+/*/////////////////////////////////// TOP MENU /////////////////////////////////*/
+div.toolbar {
+		background: #d2d2d2 none repeat scroll 0 0;
+		box-shadow:0px 2px 2px #ccc;
+		border-bottom: 1px solid #bbb;
+	}
+.toolbar .disabled {
+		color: #888 !important;
+		cursor: not-allowed !important;
+	}
+div.toolbar .menu-item, div.toolbar .menu-item button {
+		background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+		color: #444 !important;
+		text-shadow: 0 0 1px #fff;
+	}
+div.toolbar .menu-item:hover,
+div.toolbar .menu-item.active,
+div.toolbar .dropdown.menu-item.open
+	{
+	background: #dfdfdf none repeat scroll 0 0 !important;
+	/*border-radius: 4px  !important;*/
+	color: #444  !important;
+	box-shadow: 0px 0px 1px #888 !important;
+	}
+.menu-item .dropdown-menu {
+		background: #efefef;
+		box-shadow: 2px 1px 4px #777;
+	}
+.menu-item .dropdown-header {
+		color: #999;
+	}
+.menu-item .dropdown-menu li.divider {
+		background-color:#e7e7e7;
+	}
+.menu-item .dropdown-menu li a {
+		color: #444;
+	}
+.menu-item .dropdown-menu li a:hover {
+		background: #d9edf7;
+		color: #444;
+		border-left:4px solid #5bc0de;
+	}	
+	
+	
+/*/////////////////////////////////// FIELDS PANEL /////////////////////////////////*/
+.panel_head {
+    background: rgba(0, 0, 0, 0) linear-gradient(to top, #f9f9f9, #fff) repeat scroll 0 0;
+    border-bottom: 1px solid #ccc;
+    color: #555;
+}
+.fields-column {
+  	background: #f9f9fa none repeat scroll 0 0;
+	border: 1px solid #bbb;
+	box-shadow: 0 2px 3px #aaa;
+	}
+.fields-column .inner{
+	background:#e7e7e7 url("images/grained-bg.png") repeat scroll 0 0;
+}
+.fields-column .form_field
+	{
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	}
+.fields-column .form_field .draggable_object:hover
+	{
+	background: #fff none repeat scroll 0 0;
+	color: #444
+	}
+	.fields-column .form_field .draggable_object:hover i.fa {
+		color: #269ec1;
+	}	
+
+/*/////////////////////////////////// FORM CANVAS /////////////////////////////////*/
+.form-name-col
+	{
+    background:#e7e7e7 url("images/grained-bg.png") repeat scroll 0 0;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+	}
+.form-controls
+	{
+	background:#e7e7e7 url("images/grained-bg.png") repeat scroll 0 0;
+	border: 1px solid #ccc;
+	}
+.panel_label {
+	color: #555;
+	}
+.panel_label i {
+	color: #ccc;
+}
+.form-canvas-column .form-controls .form_field {
+	border: 1px solid #ccc;
+	background:#eee !important;	
+}
+.form-canvas-column .form-controls .form_field {
+	 background:linear-gradient(to top, #f9f9f9, #fff);
+}
+.form-canvas-column .form-controls .form_field:hover
+	{
+	background: #82b440 !important;
+	color: #82b440;
+	border-color: #82b440 !important;
+	}
+	
+	
+/*/////////////////////////////////// FIELD SETTING PANEL ///////////////////////////////////*/
+.field-settings-column .field-setting-categories,
+.con-logic-column .field-setting-categories,
+.third_panel .field-setting-categories
+	{
+	border-bottom: 1px solid #bbb;
+	background:linear-gradient(to top, #f9f9f9, #fff);
+	}
+.field-settings-column .field-setting-categories .tab,
+.con-logic-column .field-setting-categories .tab,
+.third_panel .field-setting-categories .tab
+	{
+	color: #555;
+	}
+.field-settings-column .field-setting-categories .tab:hover,
+.con-logic-column  .field-setting-categories .tab:hover,
+.third_panel .field-setting-categories .tab:hover
+	{
+	background: #ececef none repeat scroll 0 0;
+	box-shadow: 0 0 1px #888;
+	color: #444;
+	}
+div.close-area:hover {
+    background: #ddd;
+}
+div.close-area {
+    background: #eee;
+    border-left: 1px solid #bbb;
+}
+.field-settings-column .inner .btn:hover,
+.field-settings-column .inner .btn:active,
+.field-settings-column .inner .btn.active,
+.field-settings-column .inner .input-group-addon:hover,
+.field-settings-column .inner .input-group-addon:active,
+.field-settings-column .inner .input-group-addon.active
+	{
+	background: #d9edf7 none repeat scroll 0 0;
+	border-bottom: 4px solid #5bc0de;
+	color:#1A5073;
+	border-color: #5bc0de;
+	}
+.right_hand_col .inner input.form-control:focus,
+.right_hand_col .inner select.form-control:focus,
+.right_hand_col .inner textarea.form-control:focus
+ {
+	border-bottom: 2px solid #82b440 !important;
+	border-color: #82b440 !important;
+	border-bottom-color: #82b440 !important;
+	background:#EEF7EA;
+}
+
+
+/*/////////////////////////////////// STYLING BAR ///////////////////////////////////*/
+.styling-bar {
+    background: #e5e5e5 none repeat scroll 0 0;
+    border-left: 1px solid #bbb;
+    box-shadow: -2px 0 4px #ccc;
+}
+.styling-bar h3 {
+    border-bottom: 1px solid #ccc;
+}
+.styling-bar .divider {
+    background: #ccc;
+}
+.styling-bar button, .styling-bar button:active {
+    background: #555 !important;
+    color: #e7e7e7  !important;
+}
+.styling-bar button.active{
+	 background: #ccc !important;
+	 color:#f2f2f2 !important;
+}
+.styling-bar .input-group-addon:hover, .styling-bar .btn:hover {
+    background: #d9edf7 !important;
+}
+.styling-bar .input-group-addon, .styling-bar .btn, .styling-bar .input-group-addon:active, .styling-bar .btn:active {
+    background: #f1f1f1 none repeat scroll 0 0 !important;
+    color: #666 !important;
+	border: 1px solid #bbb !important;
+	border-bottom: 3px solid #bbb !important;
+}
+.styling-bar .input-group-addon.active, .styling-bar .btn.active, .styling-bar .input-group-addon:active, .styling-bar .btn:active {
+	background: #d9edf7 none repeat scroll 0 0 !important;
+	border-bottom: 4px solid #5bc0de !important;
+	color:#1A5073 !important;
+}
+.task-items-bar .task-window.btn {
+    background: #ccc none repeat scroll 0 0;
+	color: #444;
+}
+
+/*/////////////////////////////////// WINDOWS ///////////////////////////////////*/
+#nex-forms .modal-header {
+    background:linear-gradient(to top, #ddd, #fff);
+    color: #444;
+}
+.modal.active_window .modal-header {
+    background: #00b9eb !important;
+    color: #fff !important;
+    border: none !important;
+}
+.modal.active_window .modal-dialog {
+    border: 1px solid #269ec1 !important;
+}
+.minimize:hover, .close:hover {
+    background: #269ec1;
+    color: #fff !important;
+}
+
+
+/*/////////////////////////////////// TASKBAR ///////////////////////////////////*/
+div.toolbar.taskbar{
+	background:#555;
+}
+div.toolbar.taskbar .menu-item .dropdown-menu li a {
+    color: #f2f2f2 !important;
+}
+.toolbar.taskbar .menu-item .dropdown-menu li a:hover {
+	background: #333 !important;
+	color: #5bc0de !important;
+}
+div.toolbar.taskbar .menu-item, div.toolbar.taskbar .menu-item button {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+	color: #f2f2f2 !important;
+	text-shadow: 0 0 1px #000;
+}
+div.toolbar.taskbar .menu-item .dropdown-menu {
+	background: #444;
+}
+.task-items-bar .task-window.btn.active {
+    background: #5bc0de;
+    color: #fff;
+}
+
+
+/*/////////////////////////////////// OVERALL ///////////////////////////////////*/
+#wpwrap{
+	background:#ddd !important;
+}
+.form-name input.form-control:focus,
+.admin-modal input.form-control:focus,
+.admin-modal select:focus,
+.admin-modal textarea.form-control:focus,
+.modal-footer.test_mail input.form-control:focus{
+	border-bottom: 2px solid #82b440 !important;
+	border-color: #82b440 !important;
+	border-bottom-color: #82b440 !important;
+	background:#EEF7EA;
+}
+
+
+

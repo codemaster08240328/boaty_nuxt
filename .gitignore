@@ -1,0 +1,7 @@
+tmp/*
+db/*
+.vscode/*
+redis-data/*
+.env
+src/admin/newrelic_agent.log
+.srl

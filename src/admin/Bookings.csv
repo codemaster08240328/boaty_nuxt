@@ -1,0 +1,260 @@
+ID,ClientID,PartnerID,DateFrom,DateTo,StartingBaseID,StartingBaseName,EndingBaseID,EndingBaseName,BoatID,BoatName,CharterCompanyID,CharterCompanyName,BoatModelID,BoatModelName,YearOfBuild,BookingDate,BookingStatusID,ListPrice,ClientPrice
+6148,85766,500474,07/23/16,08/06/16,376,Milta Bodrum Marina,376,Milta Bodrum Marina,20294,Anna,161,Pupa Yachting,888,Lagoon 450,2013,01/28/15,4,12000,9873.6
+6154,86843,500528,06/05/15,06/12/15,1097,Skiathos Marina,1097,Skiathos Marina,3729,-,273,Athenian Yachts,81,Sun Odyssey 43,2003,01/22/15,4,2400,2000
+6183,87046,NULL,02/21/15,02/28/15,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,28517,Danube,847,Dream Yacht Charter,1122,Catana 47 Custom,2011,01/26/15,4,9691,10103
+6237,85808,500435,09/19/15,09/26/15,1476,Club Nautico de San Antonio Abad,1476,Club Nautico de San Antonio Abad,1027,Passion     ,87,Rumbo Norte,4,Sun Odyssey 40.3,2006,01/30/15,4,1480,1268.92
+6256,78890,500612,05/16/15,05/23/15,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),20249,-,486,Kavas Yachting,134,Oceanis 43 (4 cab),2009,02/04/15,4,2205,1200
+6343,88525,500435,07/18/15,07/25/15,1476,Club Nautico de San Antonio Abad,1476,Club Nautico de San Antonio Abad,9281,Icarus,87,Rumbo Norte,1609,Sun Odyssey 439 (4 cab),2011,02/16/15,4,3850,3657.5
+6418,89022,500548,08/08/15,08/15/15,818,Albatros Marina,818,Albatros Marina,28780,Olivia,314,Offshore Sailing Yachtcharters,2458,Lipari 41 Evolution (3 cab),2014,02/24/15,4,4170,3994.85
+6544,87475,500773,08/08/15,08/15/15,733,AD Marina Bar,733,AD Marina Bar,20126,Izida,900,Yacht Montenegro d.o.o.,1377,Jeanneau NC 11,2011,02/28/15,4,4380,3744.9
+6626,84674,1841614,03/26/15,04/02/15,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39897,Mamangua,1699,Alquila Vela Charter - BVI,601,Sun Odyssey 50 DS,2011,03/09/15,4,5985,4460
+6898,91178,500433,08/15/15,08/29/15,96,Marina Ka?tela,96,Marina Ka?tela,30920,Giordano Bruno,85,Sail Croatia,270,Salona 44,2010,04/17/15,4,6800,5794.57
+7023,91956,500759,07/18/15,07/25/15,1557,Marina Zadar,1557,Marina Zadar,37859,Reina del Mar,883,Bruneko Charter,3036,Elan 45 Impression,2015,05/08/15,4,3800,3040
+8139,93749,NULL,09/12/15,09/19/15,368,Lefkas Marina,368,Lefkas Marina,38262,-,1661,Ionian Travel Sailing,660,Fidji 39,2013,05/26/15,4,2725,2725
+8171,93882,500813,09/26/15,10/03/15,1575,Port du Crouesty,1575,Port du Crouesty,23642,Tikehau,943,Crouesty Location,123,Oceanis 37,2011,06/01/15,4,1815,1660.73
+8222,94405,500492,07/04/15,07/11/15,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,7155,Argosy,197,Adriatic Yacht Charter,324,Bavaria 46 Cruiser,2007,06/09/15,4,3510,2808
+8310,95050,500433,08/29/15,09/12/15,96,Marina Ka?tela,96,Marina Ka?tela,42072,Tesa,85,Sail Croatia,3331,Elan impression 35,2015,06/30/15,4,4600,3990
+8360,105555,1742277,08/22/15,08/29/15,1476,Club Nautico de San Antonio Abad,1476,Club Nautico de San Antonio Abad,42105,-,1685,Papillon Charter,129,Athena 38,2008,07/03/15,4,4950,4702.5
+8364,105574,500758,08/01/15,08/08/15,805,Marina Tivat,805,Marina Tivat,26158,Yulia,882,Yacht Voyage,888,Lagoon 450,2012,07/06/15,4,8850,8707.5
+8394,105869,500433,09/05/15,09/12/15,96,Marina Ka?tela,96,Marina Ka?tela,30988,Sapphira,85,Sail Croatia,385,Grand Soleil 46.3,2004,07/11/15,4,3270,2913.12
+8402,105847,500600,08/09/15,08/15/15,1056,Baoti? Marina,1056,Baoti? Marina,14487,Baghira Blu,433,Wimmer Yachting,382,Lavezzi 40,2006,07/13/15,4,4500,3589.3
+8418,84653,1841614,02/06/16,02/12/16,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39893,Zoe,1699,Alquila Vela Charter - BVI,1504,Dufour 410 Grand' Large,2013,07/16/15,4,3848,3463.2
+8450,106119,500756,09/19/15,09/26/15,1939,Lavrio Port,1939,Lavrio Port,25122,Elixir,878,HDM Sailing ,70,Sun Odyssey 37,2003,07/22/15,4,1800,1530
+8460,106322,1765512,09/12/15,09/19/15,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),39794,Nireus,1690,Axion Yachts MCYP,387,Bavaria 39 Cruiser,2007,07/24/15,4,1850,1665
+8470,106410,500500,09/12/15,09/19/15,96,Marina Ka?tela,96,Marina Ka?tela,33197,-,214,Bavadria,289,Bavaria 37 Cruiser (3 cab),2006,07/24/15,4,1800,1620
+8472,106367,500433,08/29/15,09/05/15,96,Marina Ka?tela,96,Marina Ka?tela,39335,Mladena,85,Sail Croatia,3036,Elan 45 Impression,2015,07/27/15,4,3850,2935
+8480,106588,500732,08/08/15,08/15/15,1097,Skiathos Marina,1097,Skiathos Marina,42088,Ekavi,847,Dream Yacht Charter,2201,Bavaria Cruiser 41 (3 cab),2015,07/27/15,4,3810,3476.16
+8496,106331,500449,06/18/16,06/25/16,96,Marina Ka?tela,96,Marina Ka?tela,34345,Kioni,101,Noa Yachting,2225,Oceanis 38,2015,08/01/15,4,2350,2115
+8514,105649,500957,08/29/15,09/05/15,368,Lefkas Marina,368,Lefkas Marina,26684,Why not 9,1102,Avelecazzate Nepa Company ,389,Bavaria 33 Cruiser,2013,08/05/15,4,1800,1800
+8515,107374,500796,08/18/15,08/22/15,712,Marina Frapa,712,Marina Frapa,23487,Atreides,925,Pelsys charter,80,Sun Odyssey 36i,2007,08/05/15,4,1200,1090.38
+8527,107501,500634,09/12/15,09/16/15,96,Marina Ka?tela,96,Marina Ka?tela,20839,Bibi,672,Yacht4you,1359,Dufour 34 (3 cab),2005,08/07/15,4,1550,1298.47
+8539,107679,500759,09/05/15,09/12/15,1557,Marina Zadar,1557,Marina Zadar,41465,Buba III,883,Bruneko Charter,1610,Bavaria 34,2001,08/11/15,4,1300,975
+8571,108365,500433,09/30/15,10/04/15,96,Marina Ka?tela,96,Marina Ka?tela,24359,Maja,85,Sail Croatia,1293,Oceanis 393 Clipper,2006,08/24/15,4,1001,2030.51
+8614,105574,500449,07/16/16,07/23/16,96,Marina Ka?tela,96,Marina Ka?tela,39321,The Graduate,101,Noa Yachting,888,Lagoon 450,2015,09/10/15,4,8590,8160.5
+8633,108643,500497,08/27/16,09/10/16,361,Marina Punat,361,Marina Punat,17392,Diniva,209,Garant d.o.o.,401,Elan 384 Impression,2006,09/15/15,4,4300,3700.69
+8693,87046,500732,02/20/16,02/28/16,1036,Port Louis Marina,1036,Port Louis Marina,33965,Babage,847,Dream Yacht Charter,1118,Dufour 405 Grand' Large,2012,10/10/15,4,3869,4056.54
+8711,85341,500647,08/06/16,08/13/16,1476,Club Nautico de San Antonio Abad,1476,Club Nautico de San Antonio Abad,14736,-,695,Moloko Charter,3,Cyclades 50.5,2007,10/20/15,7,5000,5000
+8761,131505,NULL,06/25/16,07/02/16,96,Marina Ka?tela,96,Marina Ka?tela,19969,Safranek,892,Candor Charter,902,Sun Odyssey 409,2012,11/06/15,4,2650,2385
+8764,116582,500498,07/02/16,07/09/16,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,2813,Nimfa,212,Croatia Yachting,366,Elan 434 Impression (4 cab),2006,11/08/15,4,3140,2562.24
+8802,118149,500413,09/24/16,10/01/16,1,Roga? (Split),3,ACI Marina Dubrovnik,2531,Greenland,2,SailingEurope Charter,722,Lagoon 400,2012,11/17/15,4,2990,3551
+8843,131706,500670,08/06/16,08/13/16,711,Marina Kremik,711,Marina Kremik,41602,Maverick,728,Veritas Yachting,383,Lagoon 380 S2,2003,11/26/15,4,4000,3420
+8847,118149,500548,08/27/16,09/03/16,818,Albatros Marina,818,Albatros Marina,46812,Babe,314,Offshore Sailing Yachtcharters,1010,Dufour 335 Grand' Large,2012,11/27/15,7,1890,1620
+8863,131800,500534,12/22/15,12/28/15,589,Cienfuegos Marina,589,Cienfuegos Marina,20166,Victoria,285,Platten Sailing Cuba,353,Lagoon 440,2007,12/01/15,4,3000,2850
+8864,132933,1538998,05/18/16,05/22/16,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,35600,Figlio,1643,Dubrovnik Yachting,917,Bavaria 49,2003,12/01/15,4,1514,1544.72
+8911,19467,734377,07/09/16,07/16/16,705,Marina ?pinut,705,Marina ?pinut,46777,Val,1295,Adria Sail Charter,1393,Bavaria 46 Vision,2016,12/11/15,4,4190,3771
+8929,134684,NULL,06/04/16,06/11/16,1512,Porto Colom,1512,Porto Colom,43021,Beta Persei,1236,Porto Colom Yachting,722,Lagoon 400,2011,12/20/15,7,3860,3281
+8936,133031,1841614,02/22/16,03/01/16,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39895,Noa,1699,Alquila Vela Charter - BVI,2163,Dufour 500 Grand' Large (4 cab),2014,12/21/15,4,5825,5533.75
+8939,134687,NULL,06/25/16,07/02/16,365,Corfu (Gouvia marina),365,Corfu (Gouvia marina),42803,Le Grand Bleu,920,Tsirigotis Yachts Charter,1629,Lagoon 39 (4 cab),2015,12/23/15,4,5240,4019.19
+8952,133019,500498,07/02/16,07/16/16,96,Marina Ka?tela,96,Marina Ka?tela,37938,Wind Rose,212,Croatia Yachting,3002,Hanse 455,2015,12/24/15,4,8420,6979.14
+8953,133019,500498,07/02/16,07/16/16,96,Marina Ka?tela,96,Marina Ka?tela,33874,Veni Vidi Vixi,212,Croatia Yachting,3002,Hanse 455,2015,12/24/15,4,8420,6979.14
+8976,134782,1841614,04/02/16,04/09/16,1991,JY Harbour View Marina,1991,JY Harbour View Marina,42089,Iris,1699,Alquila Vela Charter - BVI,3016,Dufour 382 Grand Large,2015,12/30/15,4,3091,2991
+8986,134965,500498,07/02/16,07/16/16,96,Marina Ka?tela,96,Marina Ka?tela,28145,Ginger,212,Croatia Yachting,914,Hanse 445,2014,01/05/16,4,8120,7082.6
+9008,134696,500775,08/27/16,09/02/16,1017,Propriano Marina,1017,Propriano Marina,47564,-,902,Corse Catamarans,708,Cumberland 44 (4 cab),2015,01/11/16,7,3400,3583.45
+10045,140733,500441,08/13/16,08/17/16,1972,Marina Trogir - SCT,1972,Marina Trogir - SCT,14447,Lydia,93,Pitter Yachting,1339,Bavaria Cruiser 45 (4 cab),2012,01/19/16,4,2342.86,2342.86
+10048,130467,500498,09/24/16,10/01/16,96,Marina Ka?tela,96,Marina Ka?tela,35574,Stella,212,Croatia Yachting,888,Lagoon 450,2015,01/19/16,4,4660,4513.8
+10059,85808,500797,06/04/16,06/11/16,1651,G?cek Municipality Marina,1651,G?cek Municipality Marina,29431,-,926,Kiriacoulis,34,Oceanis 40,2008,01/21/16,4,2100,1496.25
+10124,139439,500829,07/30/16,08/06/16,540,Paros,540,Paros,29672,-,961,South Aegean Yachting,383,Lagoon 380 S2,2016,02/02/16,4,7128,6013.5
+10216,143837,500732,04/08/17,04/16/17,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,15828,Spyglass,847,Dream Yacht Charter,888,Lagoon 450,2012,02/22/16,4,10364,10258.51
+10317,85808,500797,06/04/16,06/11/16,1651,G?cek Municipality Marina,1651,G?cek Municipality Marina,46934,-,926,Kiriacoulis,34,Oceanis 40,2007,03/08/16,4,2100,1496.25
+10328,131554,500470,06/25/16,06/30/16,711,Marina Kremik,711,Marina Kremik,37870,Adriatic star,154,More Charter,1435,Lagoon 52,2015,03/09/16,4,13500,13837.5
+10387,144963,856247,07/02/16,07/09/16,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),33546,Konstantinos,1356,AF Yachting,912,Oceanis 45 (4 cab),2013,03/17/16,4,4208,3366.4
+10535,94405,500436,07/16/16,07/23/16,1065,Marina Nava,1065,Marina Nava,25237,Jofra,88,Nautika Centar Nava,1629,Lagoon 39 (4 cab),2014,04/14/16,4,5640,5300
+10537,145886,NULL,06/18/16,06/25/16,805,Marina Tivat,805,Marina Tivat,32574,Ecumene,1498,Yacht Charter Company - YCCOM,1118,Dufour 405 Grand' Large,2011,04/14/16,4,2450,2180.5
+10540,260313,500528,07/09/16,07/23/16,365,Corfu (Gouvia marina),365,Corfu (Gouvia marina),28331,-,273,Athenian Yachts,729,Sun Odyssey 33i,2014,04/14/16,4,4500,3633.75
+10550,85808,500797,06/04/16,06/11/16,1651,G?cek Municipality Marina,1651,G?cek Municipality Marina,46934,-,926,Kiriacoulis,34,Oceanis 40,2007,04/18/16,4,2100,1496.25
+10563,260516,2679704,08/27/16,09/03/16,353,ACI Marina Split,353,ACI Marina Split,48976,Mumu,2927,Virtual fleet,309,Lagoon 380,2014,04/19/16,4,4700,4230
+10567,145805,500556,12/24/16,01/07/17,422,Royal Phuket Marina,422,Royal Phuket Marina,20730,Vanora,335,Elite Yachting,888,Lagoon 450,2012,04/20/16,4,19680,16657.15
+10574,260545,500486,08/13/16,08/20/16,1056,Marina Baoti?,1056,Marina Baoti?,19945,Sunshine,178,Baotic Yachting,888,Lagoon 450,2012,04/20/16,4,7800,7800
+10582,145801,500441,07/02/16,07/16/16,335,ACI Marina Trogir,335,ACI Marina Trogir,1399,Annabella,93,Pitter Yachting,589,Bavaria 43 Cruiser,2010,04/22/16,4,6100,4400
+10602,260827,NULL,05/13/16,05/15/16,2078,Hamble Point Marina,2078,Hamble Point Marina,42014,Aeolus,1793,Hamble Point Yacht Charters,1556,Hallberg Rassy 36,1996,04/27/16,4,965,965
+10608,85808,1926965,09/17/16,09/24/16,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),41360,Rurik,1713,Royal Eagle Greece 2,383,Lagoon 380 S2,2007,04/28/16,4,4000,3288
+10750,266537,NULL,08/27/16,09/10/16,96,Marina Ka?tela,96,Marina Ka?tela,20854,Golf,432,Burin Yacht Charter d.o.o.,493,Elan 340,2007,05/20/16,7,2780,2915.97
+10779,266574,2679704,08/21/16,09/04/16,368,Lefkas Marina,368,Lefkas Marina,49467,-,2927,Virtual fleet,173,Sun Odyssey 32.2,2002,05/25/16,4,2750,2750
+10781,266864,856247,08/20/16,08/27/16,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),38183,-,1356,AF Yachting,2203,Bavaria Cruiser 46 (4 cab),2015,05/25/16,4,4163,3413.66
+10874,267338,2438005,05/28/17,06/04/17,368,Lefkas Marina,368,Lefkas Marina,46687,Stardust,1868,Riginos Yachts,309,Lagoon 380,2016,06/09/16,4,3000,2794.5
+10930,133031,500732,02/18/17,02/27/17,1036,Port Louis Marina,1036,Port Louis Marina,33960,Ouessant,847,Dream Yacht Charter,1121,Catana 41 OC,2009,06/15/16,4,4667,4754
+10951,267849,500768,06/26/16,07/01/16,1557,Marina Zadar,1557,Marina Zadar,19983,Mateja,895,Albatros Yachting,289,Bavaria 37 Cruiser (3 cab),2007,06/17/16,4,2200,1691.25
+10957,95050,500768,09/10/16,09/24/16,1557,Marina Zadar,1557,Marina Zadar,47813,HaMa,895,Albatros Yachting,2202,Bavaria Cruiser 37 (3 cab),2016,06/20/16,4,4900,3956.75
+10992,78890,1841614,02/08/17,02/22/17,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39901,Deia,1699,Alquila Vela Charter - BVI,1458,Lagoon 400 S2,2014,06/24/16,4,11930,9000
+11022,134696,500775,08/27/16,09/03/16,1017,Propriano Marina,1017,Propriano Marina,49242,Vision,902,Corse Catamarans,3786,FlashCat 43,2015,06/29/16,7,4900,2983.45
+11055,269335,500469,07/09/16,07/16/16,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),43029,Argo,153,Istion Yachting,2,Cyclades 43.4,2008,07/05/16,4,3100,1906.5
+11056,106322,500624,09/24/16,10/01/16,778,Marmaris Netsel Marina,778,Marmaris Netsel Marina,14130,Ametist,505,Yuksel Yachting,34,Oceanis 40,2010,07/05/16,7,2350,2062.12
+11062,267627,2679704,10/01/16,10/08/16,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),49953,Anemoessa,2927,Virtual fleet,1458,Lagoon 400 S2,2016,07/05/16,4,3550,3796.88
+11065,269305,2679704,07/23/16,07/30/16,1049,Marina Betina,1049,Marina Betina,49937,Sea Pearl,2927,Virtual fleet,478,Dufour 455 Grand' Large,2008,07/05/16,4,3100,2360
+11075,85341,500435,08/06/16,08/13/16,1476,Club Nautic Sant Antoni de Portmany,1476,Club Nautic Sant Antoni de Portmany,39998,The King Of Cool,87,Rumbo Norte,1018,Sun Odyssey 509,2015,07/06/16,4,6350,6350
+11113,269762,NULL,07/23/16,08/06/16,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),49988,-,2927,Virtual fleet,387,Bavaria 39 Cruiser,2007,07/12/16,4,3000,3000
+11130,266537,NULL,08/13/16,08/20/16,719,Marina Kornati,719,Marina Kornati,14219,Tango,432,Burin Yacht Charter d.o.o.,1941,Elan 350 Perfomance (3 cab),2012,07/15/16,4,2420,2327.2
+11146,118149,856247,08/27/16,09/03/16,366,Kos Marina,366,Kos Marina,49317,-,1356,AF Yachting,3016,Dufour 382 Grand Large,2016,07/20/16,4,2768,1937.6
+11155,134696,500775,08/27/16,09/02/16,1017,Propriano Marina,1017,Propriano Marina,49242,Vision,902,Corse Catamarans,3786,FlashCat 43,2015,07/21/16,4,4900,2983.45
+11204,269506,500484,08/20/16,08/27/16,719,Marina Kornati,719,Marina Kornati,32909,Delta,175,ASC Yachting,493,Elan 340,2007,07/26/16,4,1650,1386
+11232,106322,500499,09/24/16,10/01/16,1555,Olympic marina,1555,Olympic marina,14281,Freija,213,Navigare Yachting,292,Bavaria 40 Cruiser,2010,08/02/16,4,2410,2213.5
+11258,269314,1795332,09/25/16,10/02/16,1252,Nikiana port,1252,Nikiana port,39844,Oversea,1696,Floating Holidays,1386,Dufour 425 Grand' Large,2010,08/05/16,4,1850,1716.11
+11263,270664,500469,09/19/16,09/26/16,1095,Kalamaki (Alimos Marina),470,Mykonos Marina Tourlos,25368,Idea!,153,Istion Yachting,2019,Lagoon 500 (5 cab),2009,08/08/16,4,14350,16241.65
+11296,270570,856247,09/24/16,10/01/16,366,Kos Marina,366,Kos Marina,42907,-,1356,AF Yachting,297,Bavaria 50 Cruiser (5cab),2007,08/15/16,4,3240,2592
+11320,270913,1008990,09/20/16,09/25/16,759,Marina di Portorosa,759,Marina di Portorosa,48705,Lattica,1416,Aura Charter,3710,Lady Hawke 37 Cabrio,2007,08/19/16,4,1800,1800
+11362,271091,500732,11/05/16,11/19/16,1539,Port La Royale,1539,Port La Royale,42878,Einstein,847,Dream Yacht Charter,1385,Catana 42 Carbon infusion,2012,08/26/16,4,9200,9129.8
+11370,271283,500528,09/17/16,09/24/16,1939,Lavrio Port,1939,Lavrio Port,46851,-,273,Athenian Yachts,71,Sun Odyssey 42i,2008,08/27/16,4,2295,2350.94
+11427,260313,500528,05/27/17,06/10/17,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),21926,-,273,Athenian Yachts,80,Sun Odyssey 36i (3 cab),2008,09/12/16,4,3800,3068.5
+11466,270001,500499,04/23/17,04/30/17,1667,Joma marina,1667,Joma marina,28167,Sara,213,Navigare Yachting,1398,Sun Odyssey 469,2013,09/22/16,4,4200,5072.25
+11483,272136,2679704,09/09/17,09/16/17,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,50586,-,2927,Virtual fleet,3016,Dufour 382 Grand Large,2015,09/29/16,4,3350,3146.9
+11485,272082,500469,07/08/17,07/15/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),30407,Caroline,153,Istion Yachting,34,Oceanis 40,2010,09/30/16,4,2500,2380
+11509,272346,500732,07/01/17,07/08/17,589,Cienfuegos Marina,589,Cienfuegos Marina,50749,Dream 60 - Jamaica,847,Dream Yacht Charter,2238,Catlante 600,2010,10/13/16,4,22050,22050
+11517,272362,500732,12/11/16,12/21/16,1034,Marina Uturoa,1034,Marina Uturoa,20477,Curie,847,Dream Yacht Charter,1387,Catana 55 Carbon Infusion,2013,10/15/16,4,8086,9239
+11519,85341,500732,03/31/17,04/10/17,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,42128,Magic Bus,847,Dream Yacht Charter,383,Lagoon 380 S2,2015,10/15/16,4,7871,8177.45
+11563,273157,500612,06/10/17,07/01/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),50669,Kos 41.6,486,Kavas Yachting,3536,Oceanis 41.1,2017,11/02/16,4,9000,7156.8
+11568,272541,500756,06/24/17,07/01/17,1939,Lavrio Port,1939,Lavrio Port,30031,Veni I,878,HDM Sailing ,81,Sun Odyssey 43,2002,11/02/16,4,2500,1825
+11630,270301,500889,05/20/17,06/03/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),34229,Liberta,1028,Vastardis Yachting,1000,Oceanis 41,2015,11/21/16,4,5300,4395.56
+11683,275035,1309343,07/15/17,07/29/17,368,Lefkas Marina,368,Lefkas Marina,39851,Pandimilia,1585,Manos Yachting,200,Sun Odyssey 39i,2007,12/01/16,4,5200,2990
+11695,275141,500732,12/17/16,12/24/16,1030,Baie Ste Anne,1030,Baie Ste Anne,28637,Julienas,847,Dream Yacht Charter,1398,Sun Odyssey 469,2014,12/03/16,4,2500,2505
+11696,275128,500732,01/05/17,01/14/17,1030,Baie Ste Anne,1030,Baie Ste Anne,28638,Montana,847,Dream Yacht Charter,501,Mahe 36,2010,12/03/16,4,3687,4162.65
+11708,274653,2679704,07/08/17,07/15/17,1850,Port of Split,3,ACI Marina Dubrovnik,51241,Luna,2927,Virtual fleet,855,Gulet Luna,2008,12/06/16,4,28000,26600
+11715,275211,500449,06/17/17,06/24/17,96,Marina Ka?tela,96,Marina Ka?tela,37843,Nutka,101,Noa Yachting,2203,Bavaria Cruiser 46 (4 cab),2015,12/07/16,4,3400,3060
+11729,275242,500732,07/01/17,07/08/17,589,Cienfuegos Marina,589,Cienfuegos Marina,51260,Giorgiasin,847,Dream Yacht Charter,3029,Bali 4.5,2017,12/09/16,4,4000,8535
+11732,275184,1841614,12/23/16,12/28/16,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39896,Oceanus,1699,Alquila Vela Charter - BVI,2163,Dufour 500 Grand' Large (4 cab),2015,12/09/16,4,4000,2700
+11741,272220,500528,10/05/17,10/12/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),21931,- ,273,Athenian Yachts,63,Sun Odyssey 32,2005,12/13/16,4,850,784.12
+11743,275317,500732,01/08/17,01/21/17,1036,Port Louis Marina,1036,Port Louis Marina,33965,Babage,847,Dream Yacht Charter,1118,Dufour 405 Grand Large,2012,12/13/16,4,6286,9135
+11796,275464,NULL,06/24/17,07/01/17,2116,Ploce City Port,2116,Ploce City Port,50647,-,2918,Ploce Sailing,3461,Sun Odyssey 419 (3 cab),2017,12/23/16,4,2780,2326.86
+11797,275036,1841614,03/13/17,03/20/17,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39894,Lua,1699,Alquila Vela Charter - BVI,1845,Dufour 450 Grand' Large (4 cab),2014,12/24/16,4,3994,3721.02
+11843,275807,500641,07/22/17,07/29/17,782,Marti Marina,782,Marti Marina,41855,Frezya,683,Yelkenli yachting,722,Lagoon 400,2011,01/06/17,4,4750,3383
+11899,276095,500878,06/17/17,06/24/17,2,Marina Dalmacija,2,Marina Dalmacija,24848,Mika,1015,Nautic Adria,1604,Bavaria 35 Holiday,1995,01/16/17,4,1090,981
+11951,274328,500612,05/06/17,05/13/17,368,Lefkas Marina,368,Lefkas Marina,50460,Kos 40.6,486,Kavas Yachting,3474,Bali 4.0,2017,01/23/17,4,5050,3171.5
+11958,269275,500823,07/01/17,07/08/17,1419,Marmaris Yacht Marina,1419,Marmaris Yacht Marina,50512,Sky Selin,954,SK Yachting,3473,Sun Odyssey 479,2017,01/25/17,4,3490,2718.71
+11966,276379,500486,08/05/17,08/12/17,1056,Marina Baoti?,1056,Marina Baoti?,35403,Matija,178,Baotic Yachting,888,Lagoon 450,2015,01/25/17,4,9250,9344.5
+11986,276095,795217,03/25/17,04/01/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),31047,Tomy,1341,GrecoSail Yachting,2513,Sun Odyssey 33,1994,01/28/17,4,750,750
+11989,276516,500634,06/03/17,06/10/17,96,Marina Ka?tela,96,Marina Ka?tela,20841,Pinky,672,Yacht4you,302,Elan 333,2005,01/29/17,4,1200,900
+11995,260858,500612,07/22/17,08/05/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),1709,Sifnos 37.2,486,Kavas Yachting,123,Oceanis 37,2008,01/30/17,4,4550,3890.25
+11997,276393,500528,06/25/17,07/01/17,1939,Lavrio Port,1939,Lavrio Port,46843,-,273,Athenian Yachts,6,Sun Odyssey 45 (4 cab),2005,01/30/17,4,2900,2320
+12003,143799,1309343,08/19/17,09/02/17,368,Lefkas Marina,368,Lefkas Marina,50670,IZZI,1585,Manos Yachting,3461,Sun Odyssey 419 (3 cab),2017,01/31/17,4,6900,5100
+12040,276826,2185253,06/24/17,07/01/17,1545,Port Herceg Novi,1545,Port Herceg Novi,42069,Vagabund,1796,Goran Kova?evi?,128,Y-40,2008,02/05/17,4,2400,2162.91
+12080,276963,500556,01/20/18,01/31/18,1023,Yacht Haven Marina,1023,Yacht Haven Marina,3163,Hermione,335,Elite Yachting,309,Lagoon 380,2008,02/09/17,1,7810,7048.52
+12081,276201,NULL,07/01/17,07/08/17,2116,Ploce City Port,2116,Ploce City Port,50647,-,2918,Ploce Sailing,3461,Sun Odyssey 419 (3 cab),2017,02/09/17,4,2990,2758.28
+12109,277189,500500,07/01/17,07/08/17,96,Marina Ka?tela,96,Marina Ka?tela,50349,-,214,Bavadria,2589,Bavaria Cruiser 34,2017,02/13/17,4,2250,2248.59
+12127,277191,500509,09/02/17,09/09/17,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,52009,Cinto 2,229,Dream Yacht Charter Croatia,410,Dufour 325 Grand large,2010,02/16/17,4,1780,1992
+12129,277152,500719,07/08/17,07/15/17,759,Marina di Portorosa,759,Marina di Portorosa,29026,Mohito,797,Jonio Yachting,171,Cyclades 50.4,2007,02/16/17,4,2800,2660
+12135,276119,500732,10/21/17,10/28/17,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,51684,Loumilis,847,Dream Yacht Charter,3499,Lagoon 450 F,2017,02/16/17,4,5250,11908.45
+12233,277442,500758,08/26/17,09/02/17,1563,Marina Naviera Balear,1563,Marina Naviera Balear,26144,Ludmila,882,Yacht Voyage,888,Lagoon 450,2012,03/01/17,4,10500,9461.89
+12267,274328,500451,07/08/17,07/15/17,353,ACI Marina Split,353,ACI Marina Split,48339,Jean Michel,103,Orvas Yachting,3011,Oceanis 35,2016,03/06/17,4,2550,2295
+12268,277773,1227601,05/20/17,05/27/17,353,ACI Marina Split,353,ACI Marina Split,46673,Adria Breeze,1708,Adria Yachting d.o.o.,2327,Bavaria Cruiser 33,2016,03/06/17,4,1390,1283.73
+12270,278155,1841614,03/28/17,04/04/17,1991,JY Harbour View Marina,1991,JY Harbour View Marina,41916,Seamount,1699,Alquila Vela Charter - BVI,2988,Dufour 560 Grand Large (3 cab),2015,03/07/17,4,6427,6295.51
+12275,118078,500732,04/08/17,04/18/17,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,49113,Wazodezil 2,847,Dream Yacht Charter,3486,Lagoon 450 S (4 cab),2016,03/07/17,4,12650,12736.62
+12282,278558,500742,08/26/17,09/02/17,1511,Real Club Nautico de Palma,1511,Real Club Nautico de Palma,18511,Tartaruga,858,Sun Charter,2244,Helia 44 (3 cab),2017,03/08/17,4,9560,12648.4
+12296,278988,500878,06/24/17,07/01/17,2,Marina Dalmacija,2,Marina Dalmacija,24848,Mika,1015,Nautic Adria,1604,Bavaria 35 Holiday,1995,03/09/17,4,1090,920.01
+12299,272721,500413,09/16/17,09/23/17,1,Roga? (Split),1,Roga? (Split),37926,Siberia,2,SailingEurope Charter,2549,Sun Odyssey 349,2015,03/09/17,4,1700,1660
+12355,260545,500433,08/05/17,08/12/17,96,Marina Ka?tela,96,Marina Ka?tela,51546,Bellvista,85,Sail Croatia,3552,Lagoon 421 (5 cab),2011,03/19/17,4,6450,6226.35
+12375,278805,500414,08/12/17,08/19/17,1599,Port ?ibenik,1599,Port ?ibenik,27654,Mu?ula,64,Kaiser Yachting,2101,Adria 1002 (2 cab),2008,03/21/17,4,2100,1995
+12409,280357,500499,05/13/17,05/20/17,1056,Marina Baoti?,1056,Marina Baoti?,50973,Swedish Lady,213,Navigare Yachting,3499,Lagoon 450 F,2017,03/23/17,4,4170,3529.31
+12412,277937,500449,06/17/17,06/24/17,96,Marina Ka?tela,96,Marina Ka?tela,39321,The Graduate,101,Noa Yachting,888,Lagoon 450,2015,03/23/17,4,8090,7082.8
+12417,280357,500417,05/20/17,05/27/17,1056,Marina Baoti?,1056,Marina Baoti?,51301,Bingo,67,Jadranka yachting d.o.o.,3008,Elan 50 Impression (5 cab),2017,03/24/17,4,3700,2525.25
+12455,280486,3096136,07/15/17,07/22/17,368,Lefkas Marina,368,Lefkas Marina,51138,Koyin E,3024,More Yachting,1589,Feeling 39 DI,2000,03/28/17,4,1700,1742.5
+12494,280512,500469,06/17/17,06/24/17,1095,Kalamaki (Alimos Marina),1939,Lavrio Port,52316,Calypso,153,Istion Yachting,3472,Bali 4.3,2016,04/01/17,4,6100,6252.5
+12495,280668,500497,08/19/17,08/26/17,361,Marina Punat,361,Marina Punat,2810,Jana,209,Garant d.o.o.,289,Bavaria 37 Cruiser (3 cab),2006,04/01/17,4,2100,1785
+12503,106588,2438005,07/29/17,08/05/17,368,Lefkas Marina,368,Lefkas Marina,46688,Silvestar II,1868,Riginos Yachts,954,Lagoon 421 (4 cab),2015,04/03/17,4,7900,7876.7
+12524,280876,NULL,07/29/17,08/05/17,335,ACI Marina Trogir,335,ACI Marina Trogir,41531,Sileb,1729,Nova Eurospectra d.o.o.,1606,Bavaria 36,2004,04/06/17,4,1900,1558
+12540,280835,1765512,09/30/17,10/07/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),39796,Asteria,1690,Axion Yachts MCYP,69,Sun Odyssey 35,2005,04/08/17,4,1090,1005.52
+12541,280793,NULL,06/24/17,07/01/17,2116,Ploce City Port,2116,Ploce City Port,50648,-,2918,Ploce Sailing,2549,Sun Odyssey 349,2017,04/08/17,4,1870,1916.75
+12548,280946,500446,09/16/17,09/23/17,353,ACI Marina Split,353,ACI Marina Split,908,Seagoll,98,Nautika Kufner,921,Bavaria 41 (3 cab),2003,04/10/17,4,1500,1549.13
+12559,281006,500604,07/29/17,08/12/17,1780,Preveza marina,1780,Preveza marina,3796,Constantina,439,Kekeris Yachts,589,Bavaria 43 Cruiser,2009,04/10/17,4,6000,4849.27
+12573,280606,3256107,06/17/17,06/24/17,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,52162,Helios,3079,Cata Sailing,914,Hanse 445,2014,04/12/17,4,3750,3000
+12584,281155,NULL,06/03/17,06/10/17,368,Lefkas Marina,368,Lefkas Marina,52367,Calma,3092,Ionianyachts.gr,1637,Sun Odyssey 37.1,1995,04/15/17,4,885.5,885.5
+12586,281155,NULL,06/03/17,06/10/17,368,Lefkas Marina,368,Lefkas Marina,52367,Calma,3092,Ionianyachts.gr,1637,Sun Odyssey 37.1,1995,04/15/17,4,885.5,885.5
+12590,280962,500889,08/06/17,08/12/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),25147,Vori,1028,Vastardis Yachting,38,Oceanis 473 (4 cab),2002,04/17/17,4,3600,3000
+12593,281377,500498,07/29/17,08/05/17,719,Marina Kornati,719,Marina Kornati,47325,Natali,212,Croatia Yachting,1384,Hanse 415,2016,04/17/17,4,3420,2907
+12616,281577,2679704,09/12/17,09/16/17,368,Lefkas Marina,368,Lefkas Marina,51406,-,2927,Virtual fleet,3473,Sun Odyssey 479,2016,04/21/17,4,2800,1332.5
+12645,280144,500564,07/15/17,07/22/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),49558,The Dreamer,347,Fyly Yachting and Travel Ltd,1885,Oceanis 55 (5 cab),2016,04/26/17,4,7300,5510
+12668,282082,500498,09/09/17,09/16/17,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,47713,Celia,212,Croatia Yachting,353,Lagoon 440,2009,05/01/17,4,6120,5973.89
+12687,282084,NULL,08/26/17,09/02/17,720,Marina ?angulin,720,Marina ?angulin,1308,Zmorac,92,Angelina Yacht Charter,324,Bavaria 46 Cruiser (4 cab),2007,05/04/17,4,2950,2360
+12698,282006,500499,06/24/17,07/01/17,667,Gashaga,667,Gashaga,51884,AfterSkii,213,Navigare Yachting,34,Oceanis 40,2008,05/06/17,4,2940,2781.03
+12740,282671,500889,05/27/17,06/24/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),25146,Firenze,1028,Vastardis Yachting,123,Oceanis 37,2012,05/12/17,4,8000,6250
+12770,116165,501053,06/17/17,07/01/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),28004,Nikolaos,1202,CV Yachts,321,Sun Odyssey 43 DS,2002,05/17/17,4,4000,3149
+12783,281937,500701,09/09/17,09/16/17,1659,Marina di Sancio Cattolico,1659,Marina di Sancio Cattolico,15217,-,776,ProgettOceano,387,Bavaria 39 Cruiser,2008,05/22/17,4,2370,2429.25
+12791,108575,500413,06/10/17,06/17/17,1,Roga? (Split),1,Roga? (Split),37926,Siberia,2,SailingEurope Charter,2549,Sun Odyssey 349,2015,05/22/17,4,2000,1568.25
+12801,276764,NULL,07/01/17,07/15/17,805,Marina Tivat,805,Marina Tivat,32575,Andromeda,1498,Yacht Charter Company - YCCOM,752,Lipari 41 (4 cab),2012,05/23/17,4,9900,7950
+12829,282805,500417,08/05/17,08/12/17,566,Marina Mali Lo?inj,566,Marina Mali Lo?inj,30870,Lampetia,67,Jadranka yachting d.o.o.,2491,Elan 444 Impression (3 cab),2014,05/27/17,4,3650,3007.6
+12873,283347,1309343,09/30/17,10/07/17,368,Lefkas Marina,365,Corfu (Gouvia Marina),39851,Pandimilia,1585,Manos Yachting,200,Sun Odyssey 39i,2007,06/01/17,4,1550,1332.5
+12878,283261,500641,07/29/17,08/05/17,782,Marti Marina,782,Marti Marina,51253,Anna,683,Yelkenli yachting,888,Lagoon 450,2013,06/02/17,4,5420,5149
+12889,283331,500641,08/04/18,08/25/18,782,Marti Marina,782,Marti Marina,41859,Calypso,683,Yelkenli yachting,3016,Dufour 382 Grand Large,2015,06/05/17,1,7860,6199.48
+12900,282162,500423,07/15/17,07/22/17,1435,Cala dei Sardi,1435,Cala dei Sardi,50474,Alfa Centauri I,74,North Sardinia Sail,912,Oceanis 45 (4 cab),2017,06/06/17,4,4700,4465
+12941,283452,500498,09/09/17,09/16/17,96,Marina Ka?tela,96,Marina Ka?tela,33881,Elena,212,Croatia Yachting,1384,Hanse 415,2015,06/10/17,4,2890,2876.79
+12943,266537,500553,08/12/17,08/26/17,353,ACI Marina Split,353,ACI Marina Split,14960,Cicko,329,Sun Life Charter,402,Elan 344 Impression,2007,06/11/17,4,3904,3334.91
+12947,283594,500437,07/15/17,07/22/17,353,ACI Marina Split,353,ACI Marina Split,51003,-,89,Ultra Sailing,3011,Oceanis 35,2016,06/12/17,4,3050,2448
+12960,277785,500632,07/01/17,07/08/17,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),51715,-,1660,MG Yachts,912,Oceanis 45 (4 cab),2014,06/13/17,4,4000,3321
+12963,283799,500441,07/01/17,07/08/17,353,ACI Marina Split,353,ACI Marina Split,14411,Stoncica 2,93,Pitter Yachting,917,Bavaria 49,2003,06/13/17,4,3800,2350
+12981,85204,NULL,06/23/17,06/25/17,2078,Hamble Point Marina,2078,Hamble Point Marina,50567,Tenacious,1793,Hamble Point Yacht Charters,1635,Hanse 345,2013,06/15/17,4,1150,1125.28
+13024,106322,3300465,08/29/17,09/05/17,873,Kavala,873,Kavala,52388,Ilectra,3097,Kavala Yachting,292,Bavaria 40 Cruiser,2008,06/26/17,4,1800,1800
+13030,284182,2679704,07/31/17,08/07/17,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),53328,Jason,2927,Virtual fleet,63,Sun Odyssey 32,2003,06/27/17,4,1250,1235
+13032,85321,500747,08/26/17,09/02/17,1939,Lavrio Port,1939,Lavrio Port,44384,Theano,867,Nomicos Yachts,2203,Bavaria Cruiser 46 (4 cab),2016,06/27/17,4,3700,3792.5
+13044,275310,NULL,09/09/17,09/16/17,368,Lefkas Marina,368,Lefkas Marina,32059,Britannia,429,Omegasail.Com,729,Sun Odyssey 33i,2014,06/29/17,4,1700,1392
+13045,284402,500889,07/05/17,07/12/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),34229,Liberta,1028,Vastardis Yachting,1000,Oceanis 41,2015,06/29/17,4,3200,2460
+13052,284416,500784,09/16/17,09/23/17,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),31276,Kydonia,913,Greek Isles Yachting,2549,Sun Odyssey 349,2014,06/30/17,4,2130,1821.15
+13055,284404,500732,12/26/17,01/02/18,678,Royal Langkawi Yacht Club,1023,Yacht Haven Marina,28574,Santa Cruz,847,Dream Yacht Charter,1121,Catana 41 OC,2008,07/02/17,1,6285,7555.77
+13056,283005,500732,12/26/17,01/02/18,678,Royal Langkawi Yacht Club,1023,Yacht Haven Marina,20420,Virgin Buoy,847,Dream Yacht Charter,568,Leopard 40,2007,07/02/17,1,6635,8964.31
+13077,284403,1227601,08/19/17,09/02/17,353,ACI Marina Split,353,ACI Marina Split,40074,Luna II,1708,Adria Yachting d.o.o.,172,Sun Odyssey 49i,2008,07/06/17,4,8280,6867.02
+13094,284513,500498,07/08/17,07/12/17,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,5065,Time Out,212,Croatia Yachting,401,Elan 384 Impression,2007,07/07/17,4,1938.6,1397.73
+13106,284803,500645,09/02/17,09/09/17,1476,Club Nautic Sant Antoni de Portmany,1476,Club Nautic Sant Antoni de Portmany,12885,Silenzio Bianco,693,Ibiza Charter,34,Oceanis 40,2007,07/10/17,4,2990,2911.51
+13132,283504,2562046,08/05/17,08/12/17,1056,Marina Baoti?,1056,Marina Baoti?,51822,Kristina of Sweden ,2894,Smart Sail d.o.o. ,1339,Bavaria Cruiser 45 (4 cab),2011,07/15/17,4,4095,3148.03
+13134,285047,500514,07/16/17,07/29/17,474,Salerno Marina,474,Salerno Marina,3869,Elvira,239,Sailing Sicily,18,Cyclades 43.3,2006,07/15/17,4,5000,4650
+13159,285049,NULL,08/19/17,08/26/17,1563,Marina Naviera Balear,1563,Marina Naviera Balear,31292,Nenita,851,Sailactive,3023,Bavaria Cruiser 32,2011,07/20/17,4,2070,2200
+13163,284948,500528,08/06/17,08/12/17,368,Lefkas Marina,368,Lefkas Marina,46868,-,273,Athenian Yachts,3473,Sun Odyssey 479,2016,07/20/17,4,5840,4300
+13169,285217,500872,09/10/17,09/23/17,368,Lefkas Marina,368,Lefkas Marina,31455,Dimitra,1009,GR sailing,2549,Sun Odyssey 349,2014,07/21/17,4,4400,3375.35
+13194,285455,500415,07/29/17,08/05/17,690,Marina Mandalina,690,Marina Mandalina,47545,Agram,65,Ankora Charter,1610,Bavaria 34,2002,07/26/17,4,1849,1201.85
+13213,282671,500468,08/19/17,09/02/17,1418,Club Marina,1418,Club Marina,23254,Ikinci,152,Frankonia Yachtcharter,387,Bavaria 39 Cruiser,2007,07/29/17,4,4700,2537
+13222,285712,2679704,08/28/17,09/04/17,535,Marina di Olbia,553,Marina De Porto Vecchio,53566,Melarnie,2927,Virtual fleet,889,Lagoon 620 (4 cab),2017,08/02/17,4,22000,29436
+13232,283137,500480,08/19/17,08/26/17,690,Marina Mandalina,690,Marina Mandalina,13558,Free Willy,169,Yachting 2000,353,Lagoon 440,2009,08/03/17,4,7900,7530.67
+13239,285518,NULL,05/21/18,06/04/18,470,Mykonos Marina Tourlos,470,Mykonos Marina Tourlos,47871,Tiziano,1812,Gabriel Sailing M.C.P.Y.,3762,Saba 50 (5 cab),2016,08/04/17,1,24410,27830
+13240,285749,1227601,08/12/17,08/26/17,584,ACI Marina Pula,584,ACI Marina Pula,40082,Put 26/10,1708,Adria Yachting d.o.o.,200,Sun Odyssey 39i,2008,08/04/17,4,5140,3520.64
+13274,285781,500483,09/02/17,09/09/17,353,ACI Marina Split,353,ACI Marina Split,34292,Delmat,173,Aba Vela d.o.o.,290,Bavaria 38 Cruiser (3 cab),2008,08/11/17,4,2000,1648
+13279,285786,2679704,08/15/17,08/15/17,479,Zakynthos,479,Zakynthos,53627,Nefeli,2927,Virtual fleet,705,Sanlorenzo 58,1991,08/14/17,4,3350,3350
+13281,78890,1477255,12/02/17,12/09/17,1764,Marina del Sur,1764,Marina del Sur,33824,Arehucas,1633,Alboran Charter-Canary Islands,917,Bavaria 49,2003,08/14/17,4,2000,1800
+13283,282545,1841614,11/10/17,11/24/17,1991,JY Harbour View Marina,1991,JY Harbour View Marina,39893,Zoe,1699,Alquila Vela Charter - BVI,1504,Dufour 410 Grand' Large,2013,08/15/17,4,6000,5272.86
+13286,286074,500732,12/02/17,12/13/17,396,Marina Bas-du-Fort,396,Marina Bas-du-Fort,42873,Clarabella,847,Dream Yacht Charter,359,Dufour 385 (3 cab),2008,08/16/17,4,3771,3589.75
+13301,286245,500797,09/02/17,09/09/17,376,Milta Bodrum Marina,376,Milta Bodrum Marina,48686,-,926,Kiriacoulis,3022,Bavaria Cruiser 36 (3 cab),2012,08/20/17,4,1950,1359.66
+13308,286308,500786,08/26/17,09/02/17,1592,El Portet de Denia,1592,El Portet de Denia,38158,Chinook,915,Alquila Vela Charter,324,Bavaria 46 Cruiser (4 cab),2008,08/22/17,4,4090,3350
+13310,105574,500732,07/14/18,07/21/18,1976,Port Ol?mpic Calanova,1976,Port Ol?mpic Calanova,53648,Rambutan,847,Dream Yacht Charter,3504,Lagoon 52 F,2018,08/23/17,1,10610,10845
+13374,286628,500604,09/04/17,09/09/17,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),17659,Ioli,439,Kekeris Yachts,401,Elan 384 Impression,2010,09/02/17,4,2370,1700
+13376,95452,500413,07/07/18,07/14/18,1,Roga? (Split),1,Roga? (Split),2531,Greenland,2,SailingEurope Charter,722,Lagoon 400,2012,09/04/17,1,6600,5670
+13396,286574,500413,09/30/17,10/14/17,1,Roga? (Split),1,Roga? (Split),3,Alaska,2,SailingEurope Charter,1,Cyclades 39.3,2007,09/04/17,4,2100,1550
+13398,286653,500747,09/30/17,10/07/17,1136,Argostoli Marina,1136,Argostoli Marina,48088,Shenzhen,867,Nomicos Yachts,2202,Bavaria Cruiser 37 (3 cab),2016,09/05/17,4,1900,1570
+13405,286757,500441,09/23/17,09/30/17,1741,D-Marin G?cek,1741,D-Marin G?cek,48193,Gemini,93,Pitter Yachting,3013,Bavaria Cruiser 40,2012,09/07/17,4,2750,1787.5
+13407,286835,500509,09/13/17,09/16/17,1056,Marina Baoti?,1056,Marina Baoti?,52963,Happy,229,Dream Yacht Charter Croatia,752,Lipari 41 (4 cab),2011,09/11/17,4,5460,2957.13
+13411,286635,500509,09/16/17,09/23/17,1056,Marina Baoti?,1056,Marina Baoti?,39992,Molene,229,Dream Yacht Charter Croatia,595,Harmony 47,2008,09/12/17,4,2060,1617
+13412,286849,501009,09/13/17,10/11/17,1696,Puerto del Rey,1696,Puerto del Rey,53076,Kaiyo Maru,1158,Sail Caribe Yacht Charter,3529,Lagoon 42 (4 cab),2017,09/12/17,4,25800,31789.3
+13414,286849,501009,09/13/17,10/11/17,1696,Puerto del Rey,1696,Puerto del Rey,49355,Seven Winds,1158,Sail Caribe Yacht Charter,888,Lagoon 450,2016,09/12/17,4,31080,36850.18
+13425,286877,NULL,10/02/17,10/05/17,378,Port Gocek Marina,378,Port Gocek Marina,24201,Carmen,963,Sunny Holidays Yachts ,954,Lagoon 421 (4 cab),2012,09/14/17,4,1600,1640
+13431,286760,500889,10/06/18,10/14/18,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),25147,Vori,1028,Vastardis Yachting,38,Oceanis 473 (4 cab),2002,09/16/17,1,2300,2115.75
+13433,286912,500750,09/30/17,10/07/17,1555,Olympic marina,1555,Olympic marina,47908,Bibendum,871,Multihull Yachting,888,Lagoon 450,2015,09/16/17,4,6600,5073.75
+13441,286462,500876,02/21/18,03/02/18,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,47583,She Got the House,1013,Catamaran Company,1685,Gemini Legacy 35,2016,09/19/17,1,3800,4872.15
+13466,287168,500441,09/30/17,10/07/17,690,Marina Mandalina,690,Marina Mandalina,50047,Futuna Lua,93,Pitter Yachting,353,Lagoon 440,2006,09/22/17,4,2390,1702
+13489,287008,2679704,10/27/17,11/03/17,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),53328,Jason,2927,Virtual fleet,63,Sun Odyssey 32,2003,09/26/17,4,820,738
+13545,277812,500499,01/15/18,01/29/18,1025,Maya Cove-Hodges Creek Marina,1025,Maya Cove-Hodges Creek Marina,52876,Mo?t,213,Navigare Yachting,888,Lagoon 450,2018,10/12/17,1,16800,9773
+13548,287203,500437,10/14/17,10/21/17,3,ACI Marina Dubrovnik,3,ACI Marina Dubrovnik,16280,Triggerson,89,Ultra Sailing,123,Oceanis 37,2012,10/12/17,4,1280,1119.3
+14573,289666,2679704,05/19/18,06/02/18,732,Marina Kotor,732,Marina Kotor,54434,-,2927,Virtual fleet,4345,Dufour 360 Liberty,2018,10/24/17,1,3260,3346.63
+14595,286745,500469,06/23/18,06/30/18,1939,Lavrio Port,1939,Lavrio Port,53864,-,153,Istion Yachting,888,Lagoon 450,2018,10/28/17,1,8200,6550
+14606,290771,2679704,02/24/18,03/03/18,1758,Nassau Yacht Haven ,1758,Nassau Yacht Haven ,56512,-,2927,Virtual fleet,901,Sun Odyssey 379,2014,10/30/17,1,2600,3293.33
+14607,291840,2679704,02/24/18,03/03/18,1758,Nassau Yacht Haven ,1758,Nassau Yacht Haven ,56513,-,2927,Virtual fleet,3016,Dufour 382 Grand Large,2018,10/30/17,1,3000,3809.18
+14608,287201,500441,06/23/18,06/30/18,368,Lefkas Marina,368,Lefkas Marina,48105,Oceanos,93,Pitter Yachting,312,Nautitech 47,2006,10/30/17,1,5900,5044.5
+14618,291880,NULL,11/02/17,11/06/17,335,ACI Marina Trogir,335,ACI Marina Trogir,41537,Lasta,1729,Nova Eurospectra d.o.o.,3036,Elan 45 Impression,2017,11/01/17,4,1400,980
+14623,290777,500782,08/18/18,08/25/18,719,Marina Kornati,719,Marina Kornati,41527,Cicoco,911,Full Team,317,Sun Fast 26,2003,11/02/17,1,990,811.8
+14633,289644,NULL,02/04/18,02/16/18,1536,True Blue Bay Resort and Marina,1536,True Blue Bay Resort and Marina,53475,Ama,849,Horizon Yacht Charters,1834,Lagoon 39 (3 cab),2014,11/06/17,1,10277,9750
+14652,285346,2679704,03/31/18,04/16/18,1030,Praslin Marina,1030,Praslin Marina,56598,-,2927,Virtual fleet,1629,Lagoon 39 (4 cab),2014,11/09/17,1,9897,9725
+14657,292015,500742,06/30/18,07/07/18,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),33672,Gorgeous,858,Sun Charter,3251,Dufour 560 Grand Large (5 cab),2015,11/10/17,1,5400,4617
+14660,292130,2679704,01/28/18,02/04/18,395,Nanny Cay,395,Nanny Cay,52129,-,2927,Virtual fleet,3536,Oceanis 41.1,2017,11/13/17,1,4121,4369.95
+14677,290787,500719,06/09/18,06/16/18,759,Marina di Portorosa,759,Marina di Portorosa,39291,Peroxid,797,Jonio Yachting,309,Lagoon 380,2008,11/15/17,1,2500,2250
+14679,292111,500769,06/16/18,06/23/18,96,Marina Ka?tela,96,Marina Ka?tela,27723,Vosmoy,896,Vladimirovna d.o.o. - Vishe Radugi Yachting,914,Hanse 445,2013,11/15/17,1,3090,2200
+14686,260313,NULL,06/30/18,07/28/18,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),42983,Geneva,429,Omegasail.Com,3485,Sun Odyssey 389,2016,11/17/17,1,10600,8206
+14698,292122,NULL,09/15/18,09/22/18,1972,Marina Trogir - SCT,1972,Marina Trogir - SCT,54166,WHATEVER,92,Angelina Yacht Charter,3458,Dufour 460 Grand`Large (4 cab),2018,11/21/17,1,3800,3270
+14716,266537,500498,08/25/18,09/08/18,96,Marina Ka?tela,96,Marina Ka?tela,28146,Hana,212,Croatia Yachting,1635,Hanse 345,2014,11/24/17,1,4300,3666.8
+14723,291861,500413,07/07/18,07/14/18,1,Roga? (Split),1,Roga? (Split),50333,Galapagos,2,SailingEurope Charter,3529,Lagoon 42 (4 cab),2017,11/24/17,1,8400,7472
+14728,292434,NULL,06/09/18,06/16/18,96,Marina Ka?tela,96,Marina Ka?tela,32959,Krka,432,Burin Yacht Charter d.o.o.,549,Elan 410,2009,11/26/17,1,1850,1517
+14729,292395,NULL,07/14/18,07/28/18,96,Marina Ka?tela,96,Marina Ka?tela,20854,Golf,432,Burin Yacht Charter d.o.o.,493,Elan 340,2007,11/26/17,1,3530,2870
+14730,292439,500520,05/12/18,05/26/18,2,Marina Dalmacija,2,Marina Dalmacija,6880,Happy,263,Kroki,71,Sun Odyssey 42i,2009,11/27/17,1,2900,2341.75
+14739,260545,500486,08/04/18,08/11/18,1056,Marina Baoti?,1056,Marina Baoti?,19945,Sunshine,178,Baotic Yachting,888,Lagoon 450,2012,11/28/17,1,8250,7574.36
+14743,292188,856247,07/28/18,08/04/18,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),31254,Eftychia 2,1356,AF Yachting,309,Lagoon 380,2014,11/29/17,1,4100,3032.86
+15747,292378,500567,04/01/18,04/07/18,1541,Port de Lonvilliers,1541,Port de Lonvilliers,44454,Saphir,358,VPM Bestsail,1458,Lagoon 400 S2,2013,11/29/17,1,4450,3909.64
+15759,292520,NULL,09/01/18,09/08/18,2116,Ploce City Port,2116,Ploce City Port,50647,Luka Plo?e,2918,Ploce Sailing,3461,Sun Odyssey 419 (3 cab),2017,12/01/17,1,2240,2066.4
+15763,292384,500469,06/30/18,07/14/18,366,Kos Marina,366,Kos Marina,39440,Cataifi,153,Istion Yachting,1629,Lagoon 39 (4 cab),2015,12/03/17,1,11000,9666.9
+15802,293580,2679704,12/17/17,12/23/17,2315,Palm Cay,2315,Palm Cay,56512,-,2927,Virtual fleet,901,Sun Odyssey 379,2014,12/04/17,1,2500,4214.26
+15821,293626,500433,08/11/18,08/18/18,96,Marina Ka?tela,96,Marina Ka?tela,39333,dm Two,85,Sail Croatia,3075,Elan 40 Impression,2015,12/06/17,1,2600,2593.25
+15830,293557,500499,06/23/18,06/30/18,1056,Marina Baoti?,1056,Marina Baoti?,50976,Scalea,213,Navigare Yachting,3467,Sun Odyssey 449,2017,12/07/17,1,3800,3964
+15845,293610,500469,07/14/18,07/28/18,365,Corfu (Gouvia Marina),365,Corfu (Gouvia Marina),53865,-,153,Istion Yachting,3529,Lagoon 42 (4 cab),2018,12/08/17,1,14800,12020
+15846,276201,500747,07/07/18,07/21/18,1095,Kalamaki (Alimos Marina),1095,Kalamaki (Alimos Marina),50413,Odysseas,867,Nomicos Yachts,2202,Bavaria Cruiser 37 (3 cab),2017,12/09/17,1,5400,4397.25
+15847,275628,500441,09/29/18,10/06/18,690,Marina Mandalina,690,Marina Mandalina,14426,MareSalsa.com,93,Pitter Yachting,383,Lagoon 380 S2,2012,12/10/17,1,1600,1443.2

@@ -1,0 +1,257 @@
+/*search header */
+#search_fields{
+    padding: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    clear: both;
+    font-family: Arial;
+    font-size: 12px;
+    z-index: 50;
+    width: 100%;
+    margin: 0px auto;
+    border: 0px solid #fff;
+    overflow: auto;
+    }
+
+.ui-datepicker-week-end a{
+    background: #f97e76!important;
+}
+
+.vc_col-sm-12.wpb_column.column_container{
+    margin: 0px!important;
+    padding: 0px!important;
+}
+
+
+#post_type_top{
+    text-align: center;
+    min-width: 1200px;
+     box-shadow: 0px -3px 15px 2px #555;
+     background: #fff;
+     height: 60px;
+     padding: 0px 0px 0px 40px;
+}
+
+#post_type_top #search_fields div{
+    margin-top:  10px!important;
+}
+
+
+
+#search_fields .dest_block{
+    display: block;
+    float: left;
+    margin: 25px 2% 0px 3%;
+    width: 20%;
+    position: relative;
+}
+
+#search_fields .date_block{
+    display: block;
+    float: left;
+    margin: 25px 2% 0px 0px;
+    width: 13%;
+}
+
+#search_fields .button_block{
+    display: block;
+    float: left;
+    margin: 25px 3% 0px 0px;
+    width: 12%;
+}
+
+#search_fields .boat_type_block{
+    display: block;
+    float: left;
+    margin: 25px 2% 0px 0px;
+    width: 13%; 
+}
+    
+#search_fields .header_dest, #search_fields .header_date{
+    display: block;
+    float: left;
+    margin: 0px 0px 0px;
+    /*border: 1px solid #ccc !important;*/
+    width: 100%;
+    height: 26px;
+    padding: 2px;
+    color: #000;
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #fdfdfd;
+    border: 1px solid #14695e;
+    border-radius: 6px;
+}
+
+#search_fields .select_boat{
+    display: block;
+    float: left;
+    margin: 0px 0px 0px;
+    height: 26px;
+    padding: 2px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight:  normal;
+    border-radius: 6px!important;
+    border: 1px solid #14695e;
+    background: #fdfdfd url('http://sailchecker.com/wp-content/themes/jupiter/images/selectbox-arrow.png') right center no-repeat!important;
+    -webkit-appearance: none!important;
+    width: 100%!important;
+    min-width: 100%!important;
+    max-width: 100%!important;
+}
+
+#search_fields .header_start{
+   height: 26px;
+   float: left;
+   color: #ffffff;
+   font-size: 12px;
+   line-height: 100%;
+   font-weight: bold; 
+   width: 100%;
+   outline: none;
+    border: 1px outset #14695e;
+    border-radius: 6px;
+    background-color: #14695e;
+}
+
+#search_fields .header_start:hover{
+   height: 26px;
+   float: left;
+   color: #e8b448;
+   font-size: 12px;
+   line-height: 100%;
+   font-weight: bold; 
+   border: 0px solid #fff;
+   outline: none;
+    border: 1px outset #14695e;
+    border-radius: 6px;
+}
+
+
+#search_fields .logo_main{
+    display: block;
+    float: left;
+    margin: 5px 0px 0px;
+    width: 15%;
+}
+
+#search_fields .logo_main:hover{
+    background: none!important;
+}
+
+#search_fields .logo_main img{
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+
+
+#search_fields #load_locations{
+        width: 16px; 
+        height: 16px;
+        top: 5px;
+        left: 10px;
+        position:  absolute;
+        display:  none;
+}
+
+#page_search{
+    text-align: center;
+    width: 100%;
+     box-shadow: 0px -3px 15px 2px #555;
+     background: #fff;
+     height: 75px;
+     padding: 10px;
+     top: -25px;
+     margin: 0px!important;
+     position: relative;
+     height: 90px;
+}
+
+
+@media only screen and (max-width: 1024px) 
+{
+    
+    #page_search{
+    text-align: left;
+    height: 120px;
+    overflow:  hidden;
+}
+    
+    #search_fields .logo_main{
+    display: block;
+    float: left;
+    margin: 0px 0px 0px 0px;
+    width: 300px;
+}
+
+#search_fields .logo_main:hover{
+    background: none!important;
+}
+
+#search_fields .logo_main img{
+    margin: 0px 0px 0px 0px;
+    width: 300px;
+}
+    
+
+    
+#page_search #search_fields .dest_block{
+    display: block;
+    float: left;
+    margin: 18px 0px 10px 20px!important;
+    width: 300px;
+    position: relative;
+    padding: 2px 4px 2px 6px;
+}
+
+#page_search #search_fields .date_block{
+    display: block;
+    float: left;
+    margin: 18px 0px 10px 20px!important;
+    width: 120px;
+    padding: 2px 4px 2px 6px;
+}
+
+#page_search #search_fields .boat_type_block{
+    display: block;
+    float: left;
+    margin: 5px 0px 10px 20px!important;
+    width: 300px; 
+    padding: 2px 4px 2px 6px;
+}
+
+#page_search #search_fields .button_block{
+    display: block;
+    float: left;
+    margin: 5px 0px 10px 20px!important;
+    width: 270px;
+    padding: 2px 4px 2px 6px;
+}
+
+#search_fields .header_start{
+   height: 26px;
+   float: left;
+   width: 250px;
+}
+
+
+
+
+
+#post_type_top{
+    text-align: center;
+     width: 100%;
+     box-shadow: 0px -3px 15px 2px #555;
+     background: #fff;
+     height: 45px;
+     padding: 10px;
+}
+
+#search_fields .select_boat{
+    width: 300px!important;
+}
+
+}

@@ -1,0 +1,855 @@
+/* IMAGE SELECTION */
+/*#nex-forms .required::after {
+     content: "*";
+     font-size: 20px ! important;
+     position: absolute;
+     right: 5px;
+     top: 5px;
+	color: #cccccc;
+     z-index: 1000000000 ! important;
+}*/
+/*body, html {
+    height: 100%;
+    width: 100%;
+}*/
+
+/*.modal-backdrop {
+    z-index: 100000 !important;
+}*/
+
+#nex-forms form, #nex-forms {
+    width: 100% !important;
+}
+.nex_forms_modal .modal-body {
+    overflow-y: auto !important;
+}
+#nex-forms select {
+    -moz-appearance: menulist !important;
+}
+.bootstrap-datetimepicker-widget td {
+    color: #444 !important;
+}
+#nex-forms .fa {
+    font-family: "Fontawesome" !important;
+}
+#nex-forms .select2-hidden-accessible {
+    position: unset !important;
+    overflow: visible !important;
+    height: auto !important;
+}
+
+.nex_forms_modal .modal-dialog {
+    margin: 30px auto !important;
+}
+#nex-forms grammarly-btn {
+    display: none;
+}
+.single-image-select-group .label_container, .multi-image-select-group .label_container {
+    margin-bottom: -20px;
+}
+#nex-forms .required {
+    margin-left: auto;
+}
+div.bootstrap-datetimepicker-widget.dropdown-menu td, div.bootstrap-datetimepicker-widget.dropdown-menu th, div.bootstrap-datetimepicker-widget.dropdown-menu tr {
+    padding: 6px !important;
+    margin: 0px !important;
+}
+
+#nex-forms .select2-container {
+    display: none !important;
+}
+.nex_success_message.alert {
+    height: auto !important;
+    min-height: auto !important;
+    overflow: visible !important;
+    overflow-wrap: normal !important;
+    white-space: normal !important;
+    font-size: 100% !important;
+}
+#nex-forms input:focus {
+    /*border-bottom-width: 2px;*/
+    transition: all 500ms ease 0s;
+}
+#nex-forms .field-replication-enabled .input-group {
+    margin-bottom: 7px;
+}
+#nex-forms .ui-nex-forms-container {
+    font-size: 13px;
+    font-family: "Open Sans",sans-serif;
+}
+#nex-forms .the-radios.input_container {
+    padding-top: 2px;
+}
+#nex-forms .clearfix {
+    visibility: visible;
+}
+#nex-forms .sbHolder {
+    display: none !important;
+}
+#nex-forms .text-sm {
+    font-size: 12px !important;
+}
+#nex-forms .text-lg {
+    font-size: 16px !important;
+}
+
+
+#nex-forms .clear_digital_siganture .fa:hover {
+    color: #d43f3a;
+}
+#nex-forms .clear_digital_siganture .fa {
+    font-size: 14px;
+    cursor: pointer;
+}
+#nex-forms .clear_digital_siganture {
+    position: absolute;
+    left: 20px;
+    bottom: 5px;
+}
+#nex-forms .digital-signature-data {
+    display: none;
+}
+#nex-forms div.text_counter_holder .text_counter {
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin-bottom: -1px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 51px;
+    padding: 0 10px;
+    text-align: center;
+    white-space: nowrap;
+    width: 13%;
+}
+#nex-forms div.text_counter_holder {
+    position: absolute;
+    bottom: -18px;
+    z-index: 1000;
+    width: 93%;
+    text-align: center !important;
+}
+#nex-forms .form_field.has_max_lenght {
+    margin-bottom: 25px !important;
+}
+
+.nex_forms_modal {
+    z-index: 100000 !important;
+   /* position: relative;*/
+}
+
+#nex-forms .input-group-btn .btn .fa {
+   /* color: #555;
+    font-size: 15px ;*/
+}
+#nex-forms .input-group-btn .btn {
+    height: 34px;
+    /*color: #444 !important;*/
+}
+#nex-forms .select::after {
+    content: none !important;
+}
+#nex-forms .form_field.selection_fields select {
+   display:block !important;
+}
+#nex-forms .nf-input-sm {
+    height: 28px !important;
+}
+#nex-forms .nf-input-xlg {
+    height: 48px !important;
+}
+#nex-forms .nf-input-lg {
+    height: 40px !important;
+}
+
+#nex-forms .bootstrap-touchspin .btn.bootstrap-touchspin-up {
+    position: relative;
+    z-index: 100;
+}
+#nex-forms .bootstrap-touchspin .btn {
+    width: 46px !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    min-height: 36px;
+}
+#nex-forms .input-group-addon.nf-default{
+	background:#fff;
+}
+#nex-forms .input-group-addon.label-info,
+#nex-forms .input-group-addon.label-warning,
+#nex-forms .input-group-addon.label-primary,
+#nex-forms .input-group-addon.label-danger,
+#nex-forms .input-group-addon.label-success{
+	color:#fff;
+}
+#nex-forms .form_field .fileinput .form-control, 
+#nex-forms .form_field .selectpicker.btn, 
+#nex-forms .form_field input.form-control{
+    /*height: 42px;*/
+}
+#nex-forms .form-control:focus {
+    box-shadow: none !important;
+    transition: none !important;
+}
+#nex-forms .ui-nex-forms-container .touch_spinner .btn,
+#nex-forms .ui-nex-forms-container .touch_spinner .btn,
+#nex-forms .nex-forms-container .touch_spinner .btn,
+#nex-forms .nex-forms-container .touch_spinner .btn{
+   /* padding: 8px 12px !important;*/
+}
+#nex-forms .submit-button .btn {
+   /* padding: 10px 20px;*/
+}
+#nex-forms .form_field {
+   /* position: relative;*/
+}
+#nex-forms .ui-nex-forms-container .upload-single .glyphicon {
+    padding-top: 6px;
+}
+#nex-forms .req_inside::after {
+    color: #999;
+    content: "*";
+    font-size: 28px;
+    position: absolute;
+    right: 22px;
+    top: 3px;
+    z-index: 1001;
+}
+#nex-forms  .label_container label {
+    font-weight: normal !important;
+}
+#nex-forms  label.nexf_title.text-lg {
+    font-size: 16px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#nex-forms  label.nexf_title.text-sm {
+    font-size: 12px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#nex-forms .form_field.thumb-rating label span.fa.checked,
+#nex-forms .form_field.smily-rating label span.fa.checked {
+    transform: scale(1.2);
+	transition:all 200ms;
+}
+#nex-forms .form_field.thumb-rating label,
+#nex-forms .form_field.smily-rating label {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#nex-forms .form_field.thumb-rating label span.fa,
+#nex-forms .form_field.smily-rating label span.fa {
+    font-size: 40px !important;
+	transition:all 200ms;
+}
+#nex-forms .form_field.thumb-rating label input,
+#nex-forms .form_field.smily-rating label input {
+    display: none;
+}
+#nex-forms .the-thumb, #nex-forms .the-smile {
+    color: #aaa;
+}
+#nex-forms .the-thumb.fa-thumbs-o-up:hover,
+#nex-forms .the-smile.fa-smile-o:hover {
+    color: #3c763d;
+	opacity:0.7
+}
+#nex-forms .the-thumb.fa-thumbs-o-down:hover,
+#nex-forms .the-smile.fa-frown-o:hover {
+    color: #a94442;
+	opacity:0.7
+}
+#nex-forms .the-smile.fa-meh-o:hover{
+	color: #f0ad4e;
+	opacity:0.7
+}
+#nex-forms .radio-inline .tooltip {
+    top: -32px !important;
+    margin-left: -5px;
+	opacity:0.7;
+}
+
+
+#nex-forms .star-rating .input_container  .fa:hover {
+    color: #ec971f;
+    transition: all 100ms;
+}
+#nex-forms .star-rating .input_container  .fa {
+    font-size: 26px;
+    padding: 0 !important;
+    margin-left: -7px;
+    color: #bbb;
+    transition: all 100ms;
+}
+#nex-forms .star-rating .input_container .fa-star {
+    color: #f0ad4e;
+   /* text-shadow: 1px 1px 1px #666;*/
+    transform: scale(1.15);
+}
+#nex-forms .star-rating .input_container  .fa-star-half-o, #nex-forms .star-rating .input_container  .fa-star-half {
+    color: #f0ad4e;
+    transform: scale(1.07);
+}
+/*#nex-forms .error_msg {
+    color: #a94442;
+    padding-top: 5px;
+    font-size: 11px;
+	transition:all 300ms;
+	position:relative;
+	top:-20px;
+	text-align:right;
+	height:0px !important;
+	/*transform: scale(0)*//*
+}
+#nex-forms .error_msg.animate_right{
+	transition: all 300ms;
+	top:0;
+	height:20px !important;
+	/*transform: scale(1);*//*
+}
+
+*/
+#nex-forms .form_field {
+    position: relative;
+}
+.error_msg.popover {
+  border-radius: 0 !important;
+    border-top: 2px solid #d43f3a !important;
+    left: auto !important;
+    padding: 0 !important;
+    right: -15px !important;
+    top: -21px !important;
+}
+.error_msg.popover .popover-content {
+    font-family: arial;
+    font-size: 12px;
+    padding: 4px 8px !important;
+    text-align: left !important;
+}
+.error_msg{
+	color:#f44336;
+	font-size: 12px;
+	visibility:visible !important;
+}
+#nex-forms .nf-has-error label.nf_title .the_label, #nex-forms .nf-has-error .radio-label, #nex-forms .nf-has-error .is_required {
+   /* color: #d43f3a !important;*/
+}
+#nex-forms .error_msg.popover.top > .popover-arrow {
+    left: 15px;
+}
+.error_msg.popover i {
+    color: #d43f3a;
+    left: -2px;
+    padding: 2px;
+    position: relative;
+}
+
+#nex-forms .input {
+	position: relative;
+	z-index: 1;
+	display: inline-block;
+	width:100%;
+	vertical-align: top;
+}
+
+
+#nex-forms .form_field p {
+    color: #444;
+}
+#nex-forms #the-radios a {
+   /* background: #fff;*/
+}
+#nex-forms .input-label {
+    color: #444;
+}
+#nex-forms .panel-body.the-panel-body{
+    background: #fff;
+}
+#nex-forms .single-image-select-group .prettyradio a, #nex-forms .multi-image-select-group .prettycheckbox a {
+    background: none repeat scroll 0 0 #fff;
+    border-radius: 0 3px !important;
+    bottom: 0;
+    height: 25px !important;
+    line-height: 25px !important;
+    opacity: 0.8;
+    position: absolute;
+    width: 25px !important;
+}
+#nex-forms ul li::before {
+    content: none !important;
+}
+#nex-forms .radio-image {
+    border-radius: 2px;
+    width: 100%;
+}
+#nex-forms .radio-label.img-thumbnail, .check-label.img-thumbnail {
+    overflow: hidden;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+#nex-forms .single-image-select-group label.radio-inline, #nex-forms .multi-image-select-group label.radio-inline {
+    padding: 0;
+    position: relative;
+}
+#nex-forms span.img-thumbnail {
+    display: block;
+    height: 120px;
+    width: 120px;
+}
+#nex-forms .thumb-sm span.img-thumbnail {
+    height: 80px;
+    width: 80px;
+}
+#nex-forms .thumb-lg span.img-thumbnail {
+    height: 160px;
+    width: 160px;
+}
+#nex-forms .thumb-xlg span.img-thumbnail {
+    height: 200px;
+    width: 200px;
+}
+
+#nex-forms .radio-inline .img-thumbnail,
+#nex-forms .checkbox-inline .img-thumbnail {
+    background-size: cover !important;
+}
+
+/* STICKY RIGHT */
+#nex-forms .paddel-right .nf-sticky-paddel {
+    transform: rotate(270deg);
+}
+#nex-forms .nf-sticky-form.paddel-right .nf-sticky-paddel {
+    left: -87px;
+    position: absolute;
+    top: 40%;
+}
+#nex-forms .nf-sticky-form.paddel-right  {
+    position: fixed;
+    width: 252px;
+    top: 20%;
+    right: 0;
+	margin-right: -256px;
+    z-index: 1000000 !important;
+}
+#nex-forms .nf-sticky-form.paddel-right .nf-sticky-paddel.btn{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-width: 1px !important;
+}
+
+#nex-forms .nf-sticky-form.paddel-right .nf-sticky-container {
+    background: #fff;
+	min-height: 296px;
+	border-bottom-left-radius: 4px;
+	border-top-left-radius: 4px;
+	position: relative;
+    z-index: 1000;
+}
+
+
+/* STICKY LEFT */
+#nex-forms .paddel-left .nf-sticky-paddel {
+    transform: rotate(270deg);
+}
+#nex-forms .nf-sticky-form.paddel-left .nf-sticky-paddel {
+    right: -87px;
+    position: absolute;
+    top: 40%;
+}
+#nex-forms .nf-sticky-form.paddel-left  {
+    position: fixed;
+    width: 252px;
+    top: 20%;
+    left: 0;
+	margin-left: -256px;
+    z-index: 1000000 !important;
+}
+#nex-forms .nf-sticky-form.paddel-left .nf-sticky-paddel.btn{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-width: 1px !important;
+}
+#nex-forms .nf-sticky-form.paddel-left .nf-sticky-container {
+    background: #fff;
+	min-height: 296px;
+	border-bottom-right-radius: 4px;
+	border-top-right-radius: 4px;
+	position: relative;
+    z-index: 1000;
+}
+
+
+
+/* STICKY BOTTOM */
+#nex-forms .nf-sticky-form.paddel-bottom .nf-sticky-paddel {
+    top: -39px;
+    position: absolute;
+    right: 0;
+}
+#nex-forms .nf-sticky-form.paddel-bottom  {
+    position: fixed;
+    width: 252px;
+    bottom: 0;
+    right: 40px;
+	margin-bottom: -304px;
+	height:300px;
+	min-height:300px;
+    z-index: 1000000 !important;
+}
+#nex-forms .nf-sticky-form.paddel-bottom .nf-sticky-paddel.btn{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-width: 1px !important;
+}
+#nex-forms .nf-sticky-form.paddel-bottom .nf-sticky-container {
+    background: #fff;
+	min-height: 296px;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	position: relative;
+    z-index: 1000;
+}
+#nex-forms .nf-sticky-form.paddel-bottom .nf-sticky-paddel.btn {
+    width: auto !important;
+}
+
+
+/* STICKY TOP */
+#nex-forms .nf-sticky-form.paddel-top .nf-sticky-paddel {
+    bottom: -36px;
+    position: absolute;
+    right: 0;
+	z-index:-1 !important;
+}
+#nex-forms .nf-sticky-form.paddel-top  {
+    position: fixed;
+    width: 252px;
+    top: 0;
+    right: 40px;
+	margin-top: -304px;
+	height:300px;
+	min-height:300px;
+    z-index: 1000000 !important;
+}
+#nex-forms .nf-sticky-form.paddel-top .nf-sticky-paddel.btn{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-width: 1px !important;
+}
+#nex-forms .nf-sticky-form.paddel-top .nf-sticky-container {
+    background: #fff;
+	min-height: 296px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	height:296px;
+	overflow:hidden;
+	position: relative;
+    z-index: 1000;
+}
+#nex-forms .nf-sticky-form.paddel-top .nf-sticky-paddel.btn {
+    width: auto !important;
+}
+
+
+
+
+
+
+#nex-forms .nf-sticky-form .nf-sticky-container .panel{
+	margin-bottom:0 !important;
+}
+
+#nex-forms .nf-sticky-paddel.btn {
+    line-height: 25px;
+    overflow: hidden;
+    width: 135px;
+}
+
+#nex-forms .nf-sticky-form .input_container, #nex-forms .nf-sticky-container .input_holder, #nex-forms .nf-sticky-form .label_container {
+    width: 100% !important;
+}
+
+#nex-forms .panel {
+    background: inherit;
+}
+#nex-forms .panel .panel-body {
+	padding-bottom:0 !important;
+}
+
+#nex-forms div.ui-nex-forms-container .form_field {
+   margin-bottom: 15px;
+}
+
+.div.ui-nex-forms-container{
+	display:none;
+}
+
+#nex-forms .input-group-addon{
+	cursor:pointer;
+}
+#nex-forms .popover-content {
+    color: #555;
+}
+
+#nex-forms .input-group-addon span.fa {
+    width: 19px;
+}
+#nex-forms .the_spinner {
+    border-left: 0 none !important;
+    border-right: 0 none !important;
+}
+
+#nex-forms .input-group-addon span.fa {
+    width: 19px;
+}
+#nex-forms .the_spinner {
+    border-left: 0 none !important;
+    border-right: 0 none !important;
+}
+#nex-forms .fileinput-preview{
+	border:1px solid #ccc;
+}
+#nex-forms .color_pallet .input-group-addon span.caret {
+    margin: 0 6px;
+}
+#nex-forms .btn.fileinput-exists {
+    border-top-right-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+}
+#nex-forms .fileinput .btn {
+    border-width: 1px !important;
+}
+#nex-forms .upload-single .fileinput .btn {
+    border-left: 0 !important;
+}
+#nex-forms .btn.selectpicker, .btn.ui-slider-handle {
+    border-bottom-width: 1px !important;
+}
+#nex-forms input.check, #nex-forms input.radio {
+    display: none !important;
+}
+/*#nex-forms .full_width {width: 100% !important;}*/
+
+#nex-forms label.nexf_title.align_left {
+	margin-bottom:0 !important;
+}
+#nex-forms label.nexf_title{
+	font-size:14px;
+	/*padding-bottom: 8px;*/
+}
+#nex-forms .the_label {
+    color: #444;
+}
+#nex-forms .ui-widget-content .the_label {
+    color: inherit;
+}
+
+#nex-forms .style_bold{font-weight:bold !important;}
+#nex-forms .style_italic{font-style:italic !important;}
+
+#nex-forms .ui-nex-forms-container .upload-single .input-group{width:100%;}
+#nex-forms  div.fileinput a {position: relative;z-index: 100 !important;}
+#nex-forms .timepicker-picker a.btn span {text-align: center;width: 40px;}
+#nex-forms .bootstrap-datetimepicker-widget td span {height: 25px !important;line-height: 25px !important;}
+#nex-forms .align_right{text-align:right !important; right:0;}
+#nex-forms .align_left{text-align:left !important;}
+#nex-forms .align_center{text-align:center !important;}
+#nex-forms .align_justify{text-align:justify !important;}
+#nex-forms div.form_field .help-block.input-lg,
+#nex-forms div.form_field .help-block.input-sm{padding:0;height:auto;}
+#nex-forms .submit-button small {width: 100% !important;display: block !important;clear: both !important;margin-top: 7px !important;}
+
+#nex-forms input[name="company_url"]{position:absolute !important;z-index:-1 !important;top:-100000px !important; width:1px !important;}
+
+#nex-forms hr{border-color:#dddddd;margin:0 !important;}
+#nex-forms p {background: none !important;}
+#nex-forms .submit-button span.fa-spinner {}
+#nex-forms .panel-heading.btn-lg, 
+#nex-forms .panel-heading.btn-sm {border-bottom-left-radius: 0 !important;border-bottom-right-radius: 0 !important;}
+#nex-forms .ui-nex-forms-container{}
+.ui-nex-forms-container .trash-can{
+	display:none;
+}
+
+
+
+#nex-forms .ui-nex-forms-container .zero-clipboard{
+	display:none;
+}
+#nex-forms .popover-content {
+    min-width: 165px;
+    padding: 9px 14px;
+    text-align: center;
+}
+
+#nex-forms .form_field.select,
+#nex-forms .form_field.multi-select {
+   /* position: relative;*/
+}
+
+#nex-forms .bootstrap-select .dropdown-menu ul li {
+    margin-left: 0 !important;
+}
+#nex-forms .bootstrap-select .dropdown-menu .popover {
+    display: none !important;
+}
+
+
+/**********************************/
+/************* FIELDS *************/
+/**********************************/
+#nex-forms .form-control{
+	width:100%;
+	max-width: 100% !important;
+}
+
+
+#nex-forms .square .form-control,
+#nex-forms .square .input-group-addon,
+#nex-forms .square .selectpicker,
+#nex-forms .square .dropdown-menu,
+#nex-forms .square .btn,
+#nex-forms .square .ui-slider-range,
+#nex-forms .square #slider,
+#nex-forms .square .panel:first-child, 
+#nex-forms .square .panel-body:first-child, 
+#nex-forms .square .panel-heading:first-child{border-radius: 0 !important;}
+/* not available yet */
+#nex-forms .full_rounded .form-control,
+#nex-forms .full_rounded .input-group-addon,
+#nex-forms .full_rounded .selectpicker,
+#nex-forms .full_rounded .btn{border-radius: 50% !important;}
+#nex-forms div#nex-forms .color_pallet span.caret,
+#nex-forms .bootstrap-select.btn-group .btn .caret{margin-top:0 !important;}
+#nex-forms .btn.selectpicker {text-align: left;}
+#nex-forms small.sub-text{font-weight:normal;color:#999;}
+#nex-forms .ui-slider {margin-left: 6px;margin-right: 20px;position: relative;text-align: left; overflow:visible}
+#nex-forms .ui-slider .ui-slider-handle::before,
+#nex-forms .ui-slider .ui-slider-handle::after{ background-clip: unset !important;
+    background-color: transparent !important;
+    border: medium none !important;}
+#nex-forms .ui-slider .ui-slider-handle{width:auto !important;height:auto !important;padding:5px;text-decoration:none !important;outline:none;cursor:pointer !important;top:-10px !important;font-size:12px !important;}
+#nex-forms span.ui-spinner {width: 100%;}
+#nex-forms span.ui-spinner input{border:none;padding:0 !important;padding-left:10px !important;}
+#nex-forms div#star img,span.star_holder{position:relative;}
+#nex-forms div#star{width:100% !important;}
+#nex-forms span.ui-spinner.ui-widget-content{border:1px solid #ddd;}
+#nex-forms button.the_input_element,
+#nex-forms input.the_input_element,
+#nex-forms select.the_input_element,
+#nex-forms textarea.the_input_element{margin:0 !important;}
+#nex-forms .is_required.btn-xs {padding: 0 !important;margin-right: 2px;font-size: 8px;top: -2px;}
+#nex-forms .ui-slider-range-max:first-child {background: none repeat scroll 0 0 #F2F2F2;border:1px solid #ddd;}
+#nex-forms .ui-slider-range-max:last-child {background: none repeat scroll 0 0 #FFFFFF;border:1px solid #ddd;}
+#nex-forms .ui-slider{border:1px solid #ddd;}
+/*#nex-forms .autocomplete, .autocomplete div.input-inner {z-index: 1001 !important;}*/
+#nex-forms .ui-autocomplete {z-index: 1000 !important;background: #FFF !important;}
+
+/*.ui-autocomplete {
+    background: #fff none repeat scroll 0 0 !important;
+    max-height: 50vh;
+    overflow-y: scroll;
+}*/
+.ui-autocomplete li {
+    cursor: pointer;
+    list-style: outside none none;
+    margin-bottom: 0 !important;
+    padding-left: 10px;
+}
+.ui-autocomplete li:hover {
+    background: #e7e7e7 none repeat scroll 0 0;
+}
+#nex-forms .prefix span, 
+#nex-forms .postfix span {font-size: 17px;}
+#nex-forms .display-block{margin-right:0 !important;}
+
+
+#nex-forms .ui-widget-content .the_label, #nex-forms .the-radios label {
+    color: inherit;
+}
+#nex-forms .the-radios .col-sm-12 {padding-left: 0;}
+#nex-forms div.radio-group label.radio-inline,
+#nex-forms div.radio-group label.checkbox-inline,
+#nex-forms div.checkbox-group label{height: 30px;line-height: 20px;padding-left:27px;position: relative;}
+#nex-forms div.radio-group label a,
+#nex-forms div.checkbox-group label a{position:absolute;top:0;left:0;text-decoration:none;}
+#nex-forms label.radio-inline.display-block {
+    margin-bottom: 7px !important;
+}
+#nex-forms .slider.ui-slider {
+    margin-bottom: 9px;
+    margin-top: 9px;
+}
+
+#nex-forms .nex-step.align_right,
+#nex-forms .prev-step.align_right,
+#nex-forms .nex-submit.align_right {
+    float: right;
+}
+
+
+#nex-forms ul.selectpicker {display:block !important;}
+#nex-forms .popover h3 {display: none;}
+
+#nex-forms .ui-nex-forms-container .paragraph .input-group,
+#nex-forms .ui-nex-forms-container .heading .input-group {width: 100% !important;}
+#nex-forms h1.the_input_element,
+#nex-forms h2.the_input_element,
+#nex-forms h3.the_input_element,
+#nex-forms h4.the_input_element,
+#nex-forms h5.the_input_element,
+#nex-forms h6.the_input_element{color:#000;margin:0;font-weight:normal; }
+
+#nex-forms h1,
+#nex-forms h2,
+#nex-forms h3,
+#nex-forms h4,
+#nex-forms h5,
+#nex-forms h6,
+#nex-forms p{
+	 background:none; margin:0; padding:0;
+}
+
+.bootstrap-datetimepicker-widget{ display:none; }
+.bootstrap-datetimepicker-widget.dropdown-menu {
+    box-shadow: 1px 1px 12px #ccc;
+	z-index:1000000 !important;
+}
+
+#nex-forms .classic-check-group input.check, #nex-forms .classic-radio-group input.radio {
+    display: block !important;
+}
+#nex-forms .classic-check-group label input, #nex-forms .classic-radio-group label input {
+    margin-right: 5px !important;
+}
+#nex-forms .classic-check-group label, #nex-forms .classic-radio-group label {
+    padding-left: 0 !important;
+}
+#datetimepicker .dropdown-menu ul li {
+    list-style: none !important;
+    margin: 0 !important;
+}
+#datetimepicker .dropdown-menu {
+    min-width: 320px !important;
+}
+
+#nex-forms .text-primary{color:#337ab7}
+#nex-forms a.text-primary:focus,a.text-primary:hover{color:#286090}
+#nex-forms .text-success{color:#3c763d }
+#nex-forms a.text-success:focus,a.text-success:hover{color:#2b542c}
+#nex-forms .text-info{color:#31708f}
+#nex-forms a.text-info:focus,a.text-info:hover{color:#245269}
+#nex-forms .text-warning{color:#f0ad4e}
+#nex-forms a.text-warning:focus,a.text-warning:hover{color:#66512c}
+#nex-forms .text-danger{color:#a94442}
+#nex-forms a.text-danger:focus,a.text-danger:hover{color:#843534}
+
+#nex-forms .img-thumbnail {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+}

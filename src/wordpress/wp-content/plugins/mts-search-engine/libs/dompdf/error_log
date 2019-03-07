@@ -1,0 +1,2 @@
+[17-Oct-2014 11:17:52 UTC] PHP Warning:  DOMNode::cloneNode(): ID wrap already defined in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/dompdf/include/frame_decorator.cls.php on line 429
+[30-Oct-2014 18:25:25 UTC] PHP Warning:  Illegal string offset 'hex' in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/dompdf/include/style.cls.php on line 1418

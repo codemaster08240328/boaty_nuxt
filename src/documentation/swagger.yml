@@ -1,0 +1,784 @@
+swagger: "2.0"
+info:
+  description: "This is the full docs to the SailChecker API"
+  version: "1.0.0"
+  title: "SailChecker v3.0 API"
+  termsOfService: "https://sailchecker.com"
+  contact:
+    email: "matthew@sailchecker.cm"
+  license:
+    name: "Apache 2.0"
+    url: "http://www.apache.org/licenses/LICENSE-2.0.html"
+host: "sailchecker.com"
+basePath: "/api/v1/"
+tags:
+- name: "BB API"
+  description: "Requests information from BoatBooker API and saves in Database"
+- name: "Search"
+  description: "Search Data comes from the BoatBooker API, it contains the likes of boat brands, models, types etc, it also contains the route that handles the search request"
+- name: "User"
+  description: "User data is for admin only at the minute"
+- name: "SailChecker Admin"
+  description: "Various tasks on the website require someone to manually edit, in here you can do that"
+- name: "SEO"
+  description: "A collection of routes aimed at meta data for SEO, as well as some UX (gmaps etc)"
+- name: "Pages"
+  description: "A website requires pages, the pages API loads all data for a given page"
+schemes:
+- "http"
+paths:
+  /search/regionsraw:
+    get:
+      tags:
+        - "Search"
+      summary: "Returns a list of locations with countries as headers - used for simpleSearch component"
+      description: "We return an array of locations seperated by an object with a key 'header' this is used in the SimpleSearch component, also this route filters out any locations that do not have boats"
+      operationId: "requestData"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "successful operation"
+          schema:
+            $ref: "#/definitions/Region"
+        400:
+          description: "unsuccesful operation"
+  /search/countries:
+    get:
+      tags:
+        - "Search"
+      summary: "Returns a list of countries"
+      operationId: "RequestCountries"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/Country"
+        400:
+          description: "Unsuccessful Operation"
+  /search/areas:
+    get:
+      tags:
+        - "Search"
+      summary: "Returns a list of areas"
+      operationId: "RequestAreas"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/Area"
+  /search/boatbrands:
+    get:
+      tags:
+        - "Search"
+      summary: "Returns a list of boat brands"
+      operationId: "RequestBoatBrands"
+      produces:
+        - "Application/json"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/BoatBrand"
+  /search/boattypes:
+    get:
+      tags:
+        - "Search"
+      summary: "Returns a list of boat types"
+      operationId: "RequestBoatTypes"
+      produces:
+        - "Application/json"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/BoatType"
+  /search/boats/filter:
+    post:
+      tags: 
+        - "Search"
+      summary: "Returns a list of boats"
+      description: "Similar to /search/boats, however provides many filters to customise results"
+      operationId: "searchBoats"
+      consumes:
+        - "application/x-www-form-urlencoded"
+      produces:
+        - "application/json"
+      parameters:
+        - name: country
+          in: "formData"
+          description: "country name as a string"
+          required: false
+          type: "string"
+        - name: area
+          in: "formData"
+          description: "area name as a string"
+          required: false
+          type: "string"
+        - name: base
+          in: "formData"
+          description: "base name as a string"
+          required: false
+          type: "string"
+        - name: date
+          in: "formData"
+          description: "date yyyy-mm-dd format"
+          required: false
+          type: "string"
+        - name: type
+          in: "formData"
+          description: "The type of vessel (yacht, motor, catamaran etc)"
+          type: "integer"
+          required: false
+      responses:
+        200:
+          description: "successful operation"
+          schema:
+            $ref: "#/definitions/indexSearch"
+        400:
+          description: "unsuccesful operation"
+  /user/login:
+    post:
+      tags: 
+       - "User"
+      summary: "Returns an authenticated user"
+      operationId: "UserLogin"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "Success"
+          schema:
+            type: "object"
+            properties:
+              type:
+                type: "string"
+                example: "Bearer"
+              token:
+                type: "string"
+              refreshToken:
+                type: "string"
+                
+        401:
+          description: "Unauthorized"
+        400:
+          description: "Unsuccessful Operation"
+  /user/auth-test:
+    get:
+      tags:
+        - "User"
+      summary: "Tests an auth token and returns an authenticated user"
+      operationId: "UserAuthTest"
+      produces:
+        - "application/json"
+      security: 
+       - Bearer: []
+      responses:
+        200:
+          description: "Success"
+          schema:
+            $ref: "#/definitions/user"
+  
+  /pages/home:
+    get:
+      tags:
+        - "Pages"
+      summary: "Returns data to display homepage"
+      description: "Returns all data necessary for homepage, such as top yachts, top locations"
+      operationId: "Home"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "Successful operation"
+          schema:
+            allOf:
+              - $ref: "#/definitions/gmap"
+              - $ref: "#/definitions/popularLocations"
+  /pages/search:
+    post:
+      tags:
+        - "Pages"
+      summary: "Returns data to display search page"
+      description: "Returns data to display search - filters, boats, links to other resources, top locations, WP posts etc"
+      operationId: "Search"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "Successful operation"
+          schema:
+            allOf:
+              - properties:
+                  wp:
+                    type: "object"
+                    properties:
+                      blog:
+                        type: "array"
+                        items:
+                          allOf:
+                            - $ref: "#/definitions/blog"
+                      last_minute:
+                        type: "array"
+                        items:
+                          allOf:
+                            - $ref: "#/definitions/blog"
+                      sailing_itinerary:
+                        type: "array"
+                        items:
+                          allOf:
+                            - $ref: "#/definitions/blog"
+              - $ref: "#/definitions/page"
+              - $ref: "#/definitions/indexSearch"
+        400:
+          description: "unsuccessful operation"
+  /pages/yachtcharter:
+    post:
+      tags:
+        - "Pages"
+      summary: "Returns the data to display a yacht charter page"
+      operationId: "YachtCharter"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            allOf:
+              - properties:
+                  wp:
+                    type: "object"
+                    properties:
+                      blog:
+                        type: "array"
+                        items:
+                          allOf:
+                            - $ref: "#/definitions/blog"
+                      last_minute:
+                        type: "array"
+                        items:
+                          allOf:
+                            - $ref: "#/definitions/blog"
+                      sailing_itinerary:
+                        type: "array"
+                        items:
+                          allOf:
+                            - $ref: "#/definitions/blog"
+                  location:
+                    type: "string"
+                  topDestinations:
+                    type: "object"
+                    properties:
+                      title:
+                        type: "string"
+                      fileName:
+                        type: "string"
+                      altText:
+                        type: "string"
+                      titleText:
+                        type: "string"
+                      boat_count:
+                        type: "integer"
+                      url:
+                        type: "string"
+              - $ref: "#/definitions/destination"
+              - $ref: "#/definitions/page"
+              - $ref: "#/definitions/indexSearch"
+        400:
+          description: "unsuccessful operation"
+
+securityDefinitions:
+  Bearer:
+    type: apiKey
+    name: Authorization
+    in: header
+definitions:
+  boatsPaginate:
+    type: "object"
+    properties:
+      total:
+        type: "integer"
+        format: "int64"
+        example: 54
+  indexSearch:
+    type: "object"
+    properties:
+      boats_paginate:
+        $ref: "#/definitions/boatsPaginate"
+      boats:
+        type: array
+        items:
+          allOf:
+            - $ref: "#/definitions/Boat"
+            - properties:
+                base_id:
+                  type: "integer"
+                country_name: 
+                  type: "string"
+                  example: "croatia"
+                area_name:
+                  type: "string"
+                base_name:
+                  type: "string"
+                boatModelImagePrimary:
+                  type: "string"
+                  example: "s3.url.image/image.png"
+                boatPeriodFrom:
+                  type: "string"
+                  example: "2018-03-31"
+                boatPeriodTo:
+                  type: "string"
+                  example: "2018-03-31"
+                boat_base_price:
+                  type: "integer"
+                boatAvailabilityStatus:
+                  type: "integer"
+                boatPriceWithDiscount:
+                  type: "integer"
+                boat_currency:
+                  type: "string"
+                  example: "$"
+                boatUrl:
+                  type: "string"
+                countryUrl:
+                  type: "string"
+                areaUrl:
+                  type: "string"
+                baseUrl:
+                  type: "string"
+  Success:
+    type: "object"
+    properties:
+      success:
+        type: "boolean"
+  Country:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+      Popular: 
+        type: "integer"
+  Area:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+  Base:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+  Boat:
+    type: "object"
+    properties:
+      ID:
+        type: "integer"
+      Name:
+        type: "string"
+      ModelID:
+        type: "integer"
+      ModelName:
+        type: "string"
+      BrandID:
+        type: "integer"
+      BrandName:
+        type: "string"
+      TypeID:
+        type: "integer"
+      TypeName:
+        type: "string"
+      BuildYear:
+        type: "integer"
+      Berths:
+        type: "string"
+      Toilets:
+        type: "integer"
+      OverallLength:
+        type: "number"
+      HullLength:
+        type: "number"
+      LengthOfWaterline:
+        type: "number"
+      Beam:
+        type: "number"
+      Draft:
+        type: "number"
+      Balast:
+        type: "number"
+      WaterCapacity:
+        type: "number"
+      FuelCapacity:
+        type: "number"
+      Weight:
+        type: "number"
+      Engine:
+        type: "string"
+      Commission:
+        type: "number"
+      VAT:
+        type: "number"
+      CommissionBasedOnNetPrice:
+        type: "integer"
+      RealTimeAvailability:
+        type: "integer"
+      Cabins:
+        type: "string"
+      YearOfLastReconstruction:
+        type: "string"
+  BoatBrand:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+  BoatModel:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+  BoatType:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+  Cabin:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+  Fleet_operator:
+    type: "object"
+    properties:
+      updated_at: 
+        type: "string"
+        format: "timestamp"
+      created_at: 
+        type: "string"
+        format: "timestamp"
+      ID: 
+        type: "integer"
+      Name: 
+        type: "string"
+  Region:
+    type: "object"
+    properties:
+      base_id:
+        type: "integer"
+      base_name:
+        type: "string"
+      base_coordinates:
+        type: "string"
+      area_id:
+        type: "integer"
+      area_name_en:
+        type: "string"
+      country_id:
+        type: "integer"
+      country_name_en:
+        type: "string"
+        
+  gmap:
+    description: "Holds all data to create markers on a map (google maps) count relates to the number of boats found in that location, we filter out any locations that do not have a boat currently available"
+    type: "object"
+    properties:
+      gmap:
+        type: array
+        items:
+          properties:
+            country:
+              type: "string"
+              example: "panama"
+            area:
+              type: "string"
+            base:
+              type: "string"
+            countryUrl:
+              type: "string"
+            areaUrl:
+              type: "string"
+            baseUrl:
+              type: "string"
+            count:
+              type: "integer"
+            priceFrom:
+              type: "integer"
+            position:
+              type: "object"
+              properties:
+                lat:
+                  type: "integer"
+                  format: "float"
+                  example: "5.454545"
+                lng:
+                  type: "integer"
+                  format: "float"
+  popularLocations:
+    description: "We choose, from our admin, which countries (locations) are popular, this route will provide data to create a card and provide links to move to other pages"
+    type: "object"
+    properties:
+      popularLocations:
+        type: array
+        items:
+          properties:
+            title:
+              type: "string"
+            fileName:
+              type: "string"
+              description: "filename of the S3 resource - full route is inferred from the type"
+            altText:
+              type: "string"
+            titleText:
+              type: "string"
+            boat_count:
+              type: "integer"
+            slug:
+              type: "string"
+            url:
+              type: "string"
+  blogs:
+    description: "a list of sailing itineraries"
+    type: "object"
+    properties: 
+      sailing_itinerary:
+        type: array
+        items:
+          - $ref: "#/definitions/blog"
+  blog:
+    description: "a blog item"
+    type: "object"
+    properties:
+      id:
+        type: "integer"
+      title:
+        type: "string"
+      link:
+        type: "string"
+      seo_meta:
+        type: "object"
+        properties:
+          title: 
+            type: "string"
+          description:
+            type: "string"
+      image:
+        type: "string"
+  user:
+    description: "A user with all meta"
+    type: "object"
+    properties:
+      id:
+        type: "integer"
+      first_name:
+        type: "string"
+      last_name:
+        type: "string"
+      email:
+        type: "string"
+      full_name:
+        type: "string"
+      created_at:
+        type: "string"
+      updated_at:
+        type: "string"
+      
+  page:
+    description: "a premium content page"
+    type: "object"
+    properties:
+      page:
+        type: "object"
+        properties:
+          id:
+            type: "integer"
+          title: 
+            type: "string"
+          body:
+            type: "string"
+          description:
+            type: "string"
+          country_id:
+            type: "integer"
+          area_id:
+            type: "integer"
+          base_id:
+            type: "integer"
+          user_id:
+            type: "integer"
+          search_description:
+            type: "string"
+          slug:
+            type: "string"
+          updated_at:
+            type: "string"
+          created_at:
+            type: "string"
+          pageImage:
+            type: array
+            items:
+              type: "object"
+              properties:
+                page_id:
+                  type: "integer"
+                fileName:
+                  type: "string"
+                altText:
+                  type: "string"
+                titleText:
+                  type: "string"
+                isSearchPrimary:
+                  type: "integer"
+                isYCPrimary:
+                  type: "integer"
+                content:
+                  type: "string"
+                updated_at:
+                  type: "string"
+                created_at:
+                  type: "string"
+          pageChequer:
+            type: array
+            items:
+              type: "object"
+              properties:
+                id:
+                  type: "integer"
+                page_id:
+                  type: "integer"
+                title:
+                  type: "string"
+                body:
+                  type: "string"
+                altText:
+                  type: "string"
+                titleText:
+                  type: "string"
+                fileName:
+                  type: "string"
+          pageCategory:
+            type: array
+            items:
+              type: "object"
+              properties:
+                page_id:
+                  type: "integer"
+                category_id:
+                  type: "integer"
+          pageBoatBrand:
+            type: array
+            items:
+              type: "object"
+              properties:
+                page_id:
+                  type: "integer"
+                brand_id:
+                  type: "integer"
+          pageBoatType:
+            type: array
+            items:
+              type: "object"
+              properties:
+                page_id:
+                  type: "integer"
+                type_id:
+                  type: "integer"
+  destination:
+    type: "object"
+    properties:
+      destination:
+        type: "array"
+        items:
+          type: "object"
+          properties:
+            url:
+              type: "string"
+            popular:
+              type: "boolean"
+            name:
+              type: "string"
+            areas:
+              type: "array"
+              items:
+                type: "object"
+                properties:
+                  url:
+                    type: "string"
+                  name:
+                    type: "string"
+                  bases:
+                    type: "array"
+                    items:
+                      type: "object"
+                      properties:
+                        url:
+                          type: "string"
+                        name:
+                          type: "string"              
+
+externalDocs:
+  description: "Find out more about SailChecker"
+  url: "https://sailchecker.com"

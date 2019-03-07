@@ -1,0 +1,6 @@
+[06-Apr-2014 15:21:14 UTC] PHP Fatal error:  Class 'Helper' not found in /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/apis/sedna.php on line 15
+[06-Apr-2014 15:21:17 UTC] PHP Fatal error:  Class 'Helper' not found in /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/apis/sedna.php on line 15
+[06-Apr-2014 15:22:16 UTC] PHP Fatal error:  Class 'Helper' not found in /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/apis/sedna.php on line 15
+[06-Apr-2014 15:22:18 UTC] PHP Fatal error:  Class 'Helper' not found in /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/apis/sedna.php on line 15
+[06-Apr-2014 15:22:19 UTC] PHP Fatal error:  Class 'Helper' not found in /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/apis/sedna.php on line 15
+[06-Apr-2014 15:23:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/config.php:8) in /home/meita104/devwksp/todo/393d58c4407f5cf31fc70588aaeb19f2/search/apis/sedna.php on line 11

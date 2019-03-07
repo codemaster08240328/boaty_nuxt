@@ -1,0 +1,1 @@
+[24-Oct-2014 15:49:14 UTC] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Mailer/ArrayRecipientIterator.php on line 19

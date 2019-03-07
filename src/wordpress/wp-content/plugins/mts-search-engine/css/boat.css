@@ -1,0 +1,344 @@
+/****************************************************/
+/*********** main styles for boat order**************/
+.mts_slider_img{
+    width: 100%;
+}
+.item.active{
+    display: block;
+    overflow: hidden;
+    max-height: 400px;
+}
+
+.item{
+    overflow: hidden;
+    max-height: 400px;
+}
+
+#charter .back_link{
+    margin: 0px 0px 10px 30px;
+}
+
+
+#charter .back_link a{
+    color: #14695e;
+}
+
+
+#charter.boat h1{
+   margin: 20px 0px 20px 0px;
+   font-size: 20px;
+}
+
+#charter.vital {
+    font-weight: bold;
+}
+
+#myModal .warring{
+    color: red;
+}
+
+#myModal .last_msg .head {
+padding: 15px;
+border-bottom: 1px solid #e5e5e5;
+min-height: 16.42857143px;
+}
+
+#myModal .last_msg .head {
+padding: 15px;
+border-bottom: 1px solid #e5e5e5;
+min-height: 16.42857143px;
+height: 80px;
+}
+
+#myModal .last_msg .footer{
+    margin-top: 15px;
+    padding: 19px 20px 20px;
+    text-align: right;
+    border-top: 1px solid #e5e5e5;
+    height: 80px;
+}
+
+#myModal .last_msg .footer #close_modal{
+   float: right;
+}
+
+#myModal .last_msg .content {
+margin: 10px 20px 0px;
+text-align: center;
+}
+
+#myModal .last_msg {
+clear: both;
+}
+
+
+#charter .desc_boat {
+    width: 70%;
+    padding: 0px 0px;
+    margin: 0px;
+    float: left;
+    position: relative;
+    margin: 0px 0px 0px 30px;
+}
+
+
+/****************************************************/
+/********** styles for sidebar    *******************/
+#charter #available{
+ width: 25%;
+ margin: 0px; 
+ float: left;  
+ position: relative;
+ height: 100%;
+}
+
+
+#charter #available p{font-size: 12px;   color: #666666;    font-weight: normal;}
+#charter #available .widgettitle {text-transform: uppercase; font-size: 14px;    color: #333333; font-weight: bolder;}
+#charter #available .widgettitle a {color: #333333;}
+#charter #available .widget a{color: #333333;}
+
+#charter div#myScrollspy {
+    padding: 0px;
+    margin: 0px 0px 0px 30px;
+}
+
+
+#charter .affix{
+    margin: 0px 0px 0px 0px;
+    /*position: fixed;*/
+}
+
+#charter ul.nav-tabs.affix {
+	/*top: 60px;  Set the top position of pinned element */
+}
+
+
+
+#charter ul.nav-tabs {
+	width: 221px;
+	min-height: 570px;
+	margin: 0px;
+	border-radius: 4px;
+	/*border: 1px solid #ddd;*/
+    border: 1px solid #14695e;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
+#charter ul.nav-tabs li {
+	margin: 0;
+	border-top: 1px solid #ddd;
+}
+#charter ul.nav-tabs li:first-child {
+	border-top: none;
+}
+#charter ul.nav-tabs li a {
+	margin: 0;
+	padding: 8px 16px;
+	border-radius: 0;
+	font-size: 16px;
+}
+#charter ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover {
+	color: #fff;
+	background: #e8b448;
+	/*border: 1px solid #0088cc;*/
+    border: 1px solid #14695e;
+}
+#charter ul.nav-tabs li:first-child a {
+	border-radius: 4px 4px 0 0;
+}
+#charter ul.nav-tabs li:last-child a {
+	border-radius: 0 0 4px 4px;
+}
+
+#charter .panel-body {
+	
+}
+#charter #mts_avail {
+	background-color: #fff!important;
+	height: 320px;
+}
+
+#charter .affix-bottom {
+  position: absolute; /* Start scrolling again. */
+  top: auto; /* Override the top position above. */
+  bottom: 600px; /* It should stop near the bottom of its parent. */
+}
+#charter .mts_slider_img {
+	width: 100%;
+	height: 300px;
+	background-size: 100% auto;
+	display: block;
+	background-position: center center; 
+}
+#charter .mts_plan {
+	width: 100%;
+	height: auto;
+}
+#charter .in_progress {
+	background: url(img/ajax-loader.gif) no-repeat center center !important;
+	background-size: 80%;
+	opacity: 0.8;
+	position: relative;
+}
+#charter #processingwait {
+	width: 100%;
+	height: 100%;
+	opacity: 1;
+	z-index: 11111;
+	position: relative;
+}
+#charter .boat_avail_ctrl {
+	display: none;
+}
+#charter .boat_avail_ctrl.show_y {
+	display: block;
+} 
+#charter .descr_type {
+	display: block;
+	min-height: 1px;
+	clear:both;
+	width: 90%;
+	margin: 0 auto;
+}
+#charter span.descr_av_1 {
+font-weight: bold;
+width: 99px;
+display: block;
+float: left;
+}
+#charter div.trip_info {
+padding-top: 10px ;
+overflow: auto;
+border: 0px solid #fff;
+clear: both;
+}
+#charter .price_info {
+	padding-bottom: 0px;
+    border: 0px solid #fff;
+    overflow: auto;
+    clear: both;
+}
+#charter div.book_btn button {
+font-size: 14px!important;
+display: block;
+width: 80%;
+margin: 0 auto!important;
+
+}
+#charter .header_mts_avail {
+font-size: 16px;
+background: #eee;
+color: #333;
+display: block;
+text-align: center;
+padding: 10px 0 15px;
+border-bottom: 1px solid #ccc;
+}
+#charter a.chgtd.mts_check_availability {
+width: 100%;
+text-align: center;
+padding: 0!important;
+display: block;
+color: blue;
+font-size: 13px;
+margin-top: -13px;
+}
+#charter div.xhts_holder label {
+float: left;
+font-size: 12px;
+width: 40%;
+padding-top: 10px;
+}
+#charter div.xhts_holder input {
+float: right;
+width: 55%;
+}
+#charter div.xhts_holder {
+width: 90%;
+margin: 10px auto;
+}
+#charter a.button.check_availb {
+font-size: 13px;
+width: 90%;
+position: relative;
+left: 5%;
+top: 30px;
+background-color: #e8b448!important;
+border: 1px solid #cc6666!important;
+}
+
+#charter a.button.check_availb:hover {
+background-color: #cc6666!important;
+border: 1px solid #ffffff!important;
+}
+
+#charter div.boat_avail_ctrl.not_avails h3 {
+font-size: 14px!important;
+text-align: center;
+width: 90%;
+padding: 20px 0;
+}
+#charter .squarebrd {
+	border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+	-moz-border-radius: 0!important;
+	outline: none!important;
+}
+#charter #mts_book_boat {
+    margin-top: 8px!important;
+text-align: center;
+line-height: 120%!important;
+background-color: #e8b448!important;
+border: 1px solid #cc6666!important;
+}
+
+#charter #mts_book_boat:hover {
+background-color: #cc6666!important;
+border: 1px solid #ffffff!important;
+}
+
+#charter label.col-sm-5.control-label {
+font-size: 13px;
+}
+#charter h4#myModalLabel {
+text-align: center;
+}
+
+#charter label.col-lg-4.control-label {
+font-size: 13px;
+line-height: 100%;
+}
+#charter .radioopt {
+	width: 25px;
+	border: 0;
+	box-shadow: none;
+}
+#charter span.opt_req {
+font-size: 10px;
+color: #999;
+position: relative;
+left: 4px;
+}
+#charter label.col-md-4.control-label {
+line-height: 100%;
+}
+#charter .wrapp_opac {
+	position: relative;
+}
+
+
+#charter #sharethissss{
+    height: 75px;
+    left: -170px;
+    position: relative;
+    top: -55px;
+    z-index: 10000;
+    
+}
+
+#charter{
+        position: relative;
+    z-index: 9999;
+    margin-top: 40px;
+}
+

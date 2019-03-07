@@ -1,0 +1,49 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+## [2.0.2] - 09.11.2016
+- fixed issue on rich snippets & localseo shortcodes
+
+## [2.0.1] - 07.11.2016
+- Fixed caching issue on dashboard loading
+- fixed 404 error module not redirecting
+- fixed google+ authorship display issue
+
+## [2.0] -04.11.2016
+- Implemented a new framework 
+
+## [1.9.1.4] - 25.05.2016
+- added SERP support for Google.rs(Serbian)
+- fixed OnPage Optimization to show up in category/taxonomy details page
+
+
+## [1.9.1.3]
+- added "Close button" to the 'Install default config' message
+- solved bug "SEO Insert Code > Insert code in <head>, <wp footer> sections, any codes after the & character (including the & itself) is chopped away."
+- solved some issues with woocommerce permalinks regarding sitemap module
+
+## [1.9.1.2]
+- solved the bug "shortcodes don't work anymore in tinymce per post/page editor"
+
+## 03.11.2015
+- added option to anonymize IP for google analytics script (required by some countries)!
+
+## 21.10.2015 /version 1.9.1
+- solved "Mass Optimization pagination" bug
+- solved "Shortcodes not working Tinymce editor" bug
+- solved "W3C validator module - rows information not updated" bug
+- solved "backlink module not importing rows" bug
+
+## 13.05.2015
+[ADDED] NEW Module "Tiny Compress" which uses the TinyPNG.com API service to compress images (PNG & Jpegs) - a replacement for the Old "Smushit" Module
+
+## 18.03.2015
+[ADDED] Custom Stop Words List for Meta-Keywords. (On Page Optimization -> Mass Optimization -> Settings)
+
+## 14.03.2015
+[ADDED] Module Title & Meta Format, meta tags "title", "description", "keywords", "robots" have a new option "Products" which differentiate them from "Posts"
+
+## 06.03.2015
+[FIX] Sitemap for woocommerce products is printed incorrectly(it prints the product category link). Now it prits the correct product link.
+
+## 23.02.2015
+[FIX] 301 redirect now works even if a 404 template is not present

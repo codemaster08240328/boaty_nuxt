@@ -1,0 +1,75 @@
+'use strict'
+
+/** @type {import('@adonisjs/lucid/src/Schema')} */
+const Schema = use('Schema')
+
+class MmkBoatSchema extends Schema {
+  up () {
+    this.create('mmk_boats', (table) => {
+      table.increments()
+      table.bigint('mmk_id').unsigned().unique()
+      table.bigint('mmk_gid')
+      table.string('name')
+      table.integer('base_id')
+      table.string('model')
+      table.integer('model_id')
+      table.integer('berths')
+      table.integer('year')
+      table.float('length')
+      table.integer('cabins')
+      table.integer('heads')
+      table.string('water_capacity')
+      table.string('fuel_capacity')
+      table.string('engine')
+      table.float('deposit')
+      table.float('deposit_with_waiver')
+      table.float('commission')
+      table.string('kind')
+      table.integer('kind_id')
+      table.string('draught')
+      table.string('beam')
+      table.string('length_at_waternline')
+      table.float('max_discount')
+      table.string('service_type')
+      table.integer('service_type_id')
+      table.boolean('discounts_have_subtotals')
+      table.string('checkin_time')
+      table.string('checkout_time')
+      table.boolean('discount_without_vat')
+      table.float('taxable_amount')
+      table.float('tax_rate')
+      table.string('generic_type_name')
+      table.integer('generic_type_id')
+      table.integer('checkin_day')
+      table.string('user_code_id')
+      table.integer('company_id')
+      table.integer('transit_log')
+      table.float('cleaning_cost')
+      table.string('shipyard_id')
+      table.float('sale_price')
+      table.boolean('license_required')
+      table.bigint('owner_id')
+      table.string('mainsail')
+      table.string('genoa')
+      table.float('price')
+      table.timestamps()
+      table.index('base_id')
+      table.index('company_id')
+      table.index('length')
+      table.index('cabins')
+      table.index('year')
+      table.index('berths')
+      table.index('heads')
+      table.index('model_id')
+      table.index('kind_id')
+      table.index('service_type_id')
+      table.index('generic_type_id')
+    })
+  }
+
+  down () {
+    this.drop('mmk_boats')
+  }
+}
+
+module.exports = MmkBoatSchema

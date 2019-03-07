@@ -1,0 +1,281 @@
+/* CSS Document */
+div.toolbar {
+		background: #627C83 none repeat scroll 0 0;
+		box-shadow:0px 2px 2px #ccc;
+		border-bottom: 1px solid #627C83;
+	}
+.toolbar .disabled, .shortcut-key {
+		color: #eee !important;
+	}
+div.toolbar .menu-item, div.toolbar .menu-item button {
+		background: none !important;
+		color: #fff !important;
+	}
+div.toolbar .menu-item button:hover {
+		background: #738E96 ;
+		color: #fff !important;
+	}
+div.toolbar .menu-item:hover,
+div.toolbar .menu-item.active,
+div.toolbar .menu-item.active button,
+div.toolbar .dropdown.menu-item.open,
+div.toolbar .dropdown.menu-item.open button
+	{
+	background: #738E96 none repeat scroll 0 0 !important;
+	/*border-radius: 4px  !important;*/
+	color: #fff  !important;
+	box-shadow: 0px 0px 0px #888 !important;
+	}
+.menu-item .dropdown-menu {
+		background: #738E96 ;
+	}
+.menu-item .dropdown-header {
+		color: #e7e7e7;
+	}
+.menu-item .dropdown-menu li.divider {
+		background-color:#e7e7e7;
+	}
+
+.menu-item .dropdown-menu li a {
+		color: #fff;
+	}
+.menu-item .dropdown-menu li a:hover {
+		background: #9EBAA0;
+		color: #fff;
+		border-left:4px solid #627C83;
+	}
+
+/*/////////////////////////////////// FIELDS PANEL /////////////////////////////////*/
+.panel_head {
+    background: #e5e5e5;
+    border-bottom: 1px solid #ccc;
+    color: #333;
+}
+.fields-column {
+  	background: #fff none repeat scroll 0 0;
+	border: 1px solid #ccc;
+	box-shadow: 0 2px 3px #aaa;
+	}
+ .fields-column .inner{
+		background:#fff;
+	}
+.fields-column .form_field
+	{
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	}
+.fields-column .form_field .draggable_object
+	{
+	color: #333
+	}
+.fields-column .form_field .draggable_object:hover
+	{
+	background: #e5e5e5 none repeat scroll 0 0;
+	color: #333
+	}
+.fields-column .form_field .draggable_object:hover i.fa {
+	color: #333;
+}
+
+/*//////////////////////////////////// FORM CANVAS ///////////////////////////////////*/
+.form-name-col
+	{
+    background:#e5e5e5;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+	}
+.form-controls
+	{
+	background:#e5e5e5;
+	border: 1px solid #ccc;
+	}
+.panel_label {
+	color: #333;
+	}
+.panel_label i {
+	color: #333;
+}
+.form-canvas-column .form-controls .form_field,  .btn.make_full_screen {
+	border: 1px solid #ccc;
+	background:#fff !important;	
+	color:#333 !important;
+}
+.form-canvas-column .form-controls .form_field,  .btn.make_full_screen {
+	 background:linear-gradient(to top, #fff, #fff);
+}
+.form-canvas-column .form-controls .form_field:hover, .btn.make_full_screen:hover
+	{
+	background: #9EBAA0 !important;
+	color: #fff !important;
+	border-color: #738E96 !important;
+	}
+
+/*/////////////////////////////////// FIELD SETTING PANEL ///////////////////////////////////*/
+.field-settings-column .field-setting-categories,
+.con-logic-column .field-setting-categories,
+.third_panel .field-setting-categories
+	{
+	border-bottom: 1px solid #999;
+	background:#e5e5e5;
+	}
+.field-settings-column .field-setting-categories .tab,
+.con-logic-column .field-setting-categories .tab,
+.third_panel .field-setting-categories .tab
+	{
+	color: #333;
+	}
+.field-settings-column .field-setting-categories .tab:hover,
+.con-logic-column  .field-setting-categories .tab:hover,
+.third_panel .field-setting-categories .tab:hover
+	{
+	background: #fff none repeat scroll 0 0;
+	box-shadow: 0 0 1px #888;
+	color: #333;
+	}
+div.close-area:hover {
+    background: none;
+	color:#59524c !important;
+}
+
+div.close-area {
+    background: none;
+    border-left: 1px solid #999;
+	color:#333 !important;
+}
+.field-settings-column .inner .btn:hover,
+.field-settings-column .inner .btn:active,
+.field-settings-column .inner .btn.active,
+.field-settings-column .inner .input-group-addon:hover,
+.field-settings-column .inner .input-group-addon:active,
+.field-settings-column .inner .input-group-addon.active
+	{
+	background: #9EBAA0 none repeat scroll 0 0;
+	border-bottom: 4px solid #738E96;
+	color:#fff;
+	border-color: #738E96;
+	}
+	
+.right_hand_col .inner input.form-control:focus,
+.right_hand_col .inner select.form-control:focus,
+.right_hand_col .inner textarea.form-control:focus
+ {
+	border-bottom: 2px solid #9EBAA0 !important;
+	border-color: #9EBAA0 !important;
+	border-bottom-color: #9EBAA0 !important;
+	background:#fff;
+}
+
+
+/*/////////////////////////////////// STYLING BAR ///////////////////////////////////*/
+.styling-bar {
+    background: #fff none repeat scroll 0 0;
+    border-left: 1px solid #999;
+    box-shadow: -2px 0 4px #ccc;
+}
+.styling-bar h3 {
+    border-bottom: 1px solid #ccc;
+	color:#333;
+}
+.styling-bar .divider {
+    background: #ccc;
+}
+.styling-bar button, .styling-bar button:active {
+    background: #F98444 !important;
+    color: #fff  !important;
+}
+.styling-bar button.active{
+	 background: #e5e5e5 !important;
+	 color:#333 !important;
+	 border:#ccc !important;
+}
+.styling-bar .input-group-addon:hover, .styling-bar .btn:hover {
+    background: #fff !important;
+	color:#333 !important;
+}
+.styling-bar .input-group-addon, .styling-bar .btn, .styling-bar .input-group-addon:active, .styling-bar .btn:active {
+    background: #e5e5e5 none repeat scroll 0 0 !important;
+    color: #333 !important;
+	border: 1px solid #ccc !important;
+	border-bottom: 1px solid #ccc !important;
+}
+.styling-bar .input-group-addon.active, .styling-bar .btn.active, .styling-bar .input-group-addon:active, .styling-bar .btn:active {
+	background: #9EBAA0 none repeat scroll 0 0 !important;
+	border-bottom: 3px solid #738E96 !important;
+	color:#fff !important;
+}
+
+
+
+/*/////////////////////////////////// WINDOWS ///////////////////////////////////*/
+#nex-forms .modal-header {
+    background:#fff;
+    color: #333;
+}
+.modal.active_window .modal-header {
+    background: #AA9D88 !important;
+    color: #fff !important;
+    border: none !important;
+}
+.modal.active_window .modal-dialog {
+    border: 1px solid #9EBAA0 !important;
+}
+.modal.active_window .modal-header button.close:hover {
+    color: #333 !important;
+    opacity: 1 !important;
+}
+.minimize:hover, .close:hover {
+    background: #e7e7e7;
+    color: #333 !important;
+}
+/*/////////////////////////////////// TASKBAR ///////////////////////////////////*/
+div.toolbar.taskbar{
+	background:#e5e5e5;
+}
+div.toolbar.taskbar .menu-item .dropdown-menu li a {
+    color: #333 !important;
+}
+.toolbar.taskbar .menu-item .dropdown-menu li a:hover {
+	background: #e5e5e5 !important;
+	color: #00b9eb !important;
+}
+div.toolbar.taskbar .menu-item, div.toolbar.taskbar .menu-item button {
+	background:#fff;
+	color: #333 !important;
+}
+div.toolbar.taskbar .menu-item .dropdown-menu {
+	background: #fff;
+}
+.task-items-bar .task-window.btn.active, .task-items-bar .task-window.btn:hover {
+    background: #9EBAA0;
+    color: #fff;
+}
+
+
+
+
+
+
+/*.task-items-bar .task-window.btn:hover{
+	 background: #0073aa none repeat scroll 0 0;
+    color: #fff;
+}*/
+.task-items-bar .task-window.btn {
+    background: #ccc none repeat scroll 0 0;
+    color: #888;
+}
+
+/*/////////////////////////////////// OVERALL ///////////////////////////////////*/
+#wpwrap{
+	/*background:#999 !important;*/
+}
+.form-name input.form-control:focus,
+.admin-modal input.form-control:focus,
+.admin-modal select:focus,
+.admin-modal textarea.form-control:focus,
+.modal-footer.test_mail input.form-control:focus{
+	border-bottom: 2px solid #9EBAA0 !important;
+	border-color: #9EBAA0 !important;
+	border-bottom-color: #9EBAA0 !important;
+	background:#f2f2f2;
+}

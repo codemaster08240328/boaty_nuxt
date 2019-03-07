@@ -1,0 +1,235 @@
+<root>
+<resource id="1490714330000103196" gid="227534130000100000" name="Blue Ocean" base="210" model="Lagoon 560" berths="8" berthsext="8" year="2011" length="17.07" cabins="4" cabinsext="4" heads="5" watercapacity="960.00 l" fuelcapacity="1300.00 l" engine="2x 80 hp" deposit="0.0" depositwithwaiver="0.0" commissionpercentage="15.0" kind="Catamaran" draught="1.50 m" beam="9.44 m" lengthatwaterline="" maximumdiscount="10.0" servicetype="Crewed" discountshavesubtotals="1" defaultcheckintime="16:00" defaultcheckouttime="10:00" calculateagencydiscountwithoutvat="1" taxableamount="100.0" taxrate="23.0" genericresourcetypename="Lagoon 560[G]" defaultcheckinday="7" codeid="1" cgid="2275341300001000005" companyid="3196" transitlog="0" defaultcleaningcost=".00" shipyardid="7" saleprice="" requiredskipperlicense="1" ownerid="-1" mainsail="Full batten" genoa="Furling" >
+<prices>
+ <price datefrom="2018-08-25" dateto="2018-12-22" price="14000.0" currency="EUR"></price>
+ <price datefrom="2018-01-01" dateto="2018-03-31" price="14000.0" currency="EUR"></price>
+ <price datefrom="2018-04-21" dateto="2018-04-28" price="16000.0" currency="EUR"></price>
+ <price datefrom="2019-01-05" dateto="2019-04-20" price="11500.0" currency="EUR"></price>
+ <price datefrom="2018-03-31" dateto="2018-04-21" price="16000.0" currency="EUR"></price>
+ <price datefrom="2018-07-07" dateto="2018-08-25" price="14000.0" currency="EUR"></price>
+ <price datefrom="2018-12-22" dateto="2019-01-05" price="17000.0" currency="EUR"></price>
+ <price datefrom="2018-06-02" dateto="2018-07-07" price="14000.0" currency="EUR"></price>
+ <price datefrom="2018-04-28" dateto="2018-06-02" price="14000.0" currency="EUR"></price>
+</prices>
+<images>
+<image href="http://www.booking-manager.com/cbm/documents/227564690000100000_Lagoon560-lay.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023760000103196_ext_8.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023580000103196_ext_2.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023610000103196_ext_3.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023670000103196_ext_5.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023730000103196_ext_7.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023700000103196_ext_6.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/227534150000100000_Lagoon560-ext.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023640000103196_ext_4.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023550000103196_ext.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/227534180000100000_Lagoon560-int.jpg" comment="Interior image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/227534150000100000_Lagoon560-ext.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/227564690000100000_Lagoon560-lay.jpg" comment="Plan image" ></image>
+</images>
+<equipment>
+<equipmentitem id="1491017550000103196" parentid="-1" name="Kayaks" value="true" categoryname="Equipment" translationid="24:1490995340000103196" ></equipmentitem>
+<equipmentitem id="1491017560000103196" parentid="40" name="Snorkeling equipment" value="true" categoryname="Equipment" translationid="24:1490992770000103196" ></equipmentitem>
+<equipmentitem id="1491017570000103196" parentid="-1" name="Water sofa" value="true" categoryname="Equipment" translationid="24:1490998450000103196" ></equipmentitem>
+<equipmentitem id="1491018300000103196" parentid="4" name="Dinghy" value="true" categoryname="Equipment" translationid="24:1490989230000103196" ></equipmentitem>
+<equipmentitem id="1491018310000103196" parentid="-1" name="Dish washer" value="true" categoryname="Equipment" translationid="24:1490986640000103196" ></equipmentitem>
+<equipmentitem id="1491018320000103196" parentid="-1" name="Freezer" value="true" categoryname="Equipment" translationid="24:1490982680000103196" ></equipmentitem>
+<equipmentitem id="1491018330000103196" parentid="37" name="Fridge" value="true" categoryname="Equipment" translationid="24:1490985750000103196" ></equipmentitem>
+<equipmentitem id="1491018340000103196" parentid="42" name="TV LED 40''" value="true" categoryname="Equipment" translationid="24:1490986920000103196" ></equipmentitem>
+<equipmentitem id="1491018350000103196" parentid="-1" name="SUP" value="true" categoryname="Equipment" translationid="24:1490990790000103196" ></equipmentitem>
+<equipmentitem id="1491018380000103196" parentid="28" name="Full batten main sail" value="true" categoryname="Equipment" translationid="24:1491006090000103196" ></equipmentitem>
+<equipmentitem id="1491018390000103196" parentid="15" name="Furling genoa" value="true" categoryname="Equipment" translationid="24:1491006340000103196" ></equipmentitem>
+</equipment>
+<extras>
+<extra id="1490893950000103196" name="Standard option(Skipper and Deckhand)" price="0.0" currency="EUR" timeunit="0" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2123-07-26" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1727196940000103196" name="APA Exclusive Lagoon 560 II (Skipper &amp; Chef)" price="7350.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2124-01-19" sailingdatefrom="2019-01-05" sailingdateto="2019-04-20" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490898100000103196" name="APA Standard Lagoon 560" price="2800.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2018-12-21" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1727195200000103196" name="APA Standard Lagoon 560 II (Skipper &amp; Deckhand)" price="2300.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2124-01-19" sailingdatefrom="2019-01-05" sailingdateto="2019-04-20" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490911060000103196" name="APA Exclusive Lagoon 560" price="5100.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2018-12-22" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="1490896740000103196" ></extra>
+<extra id="1727160700000103196" name="APA Exclusive Lagoon 560 (Skipper &amp; Chef)" price="9000.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2124-01-19" sailingdatefrom="2018-12-22" sailingdateto="2019-01-04" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490896740000103196" name="Exclusive option(Skipper and Chef)" price="3000.0" currency="EUR" timeunit="0" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2123-07-26" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1727159280000103196" name="APA Standard Lagoon 560 (Skipper &amp; Deckhand)" price="3400.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2124-01-19" sailingdatefrom="2018-12-22" sailingdateto="2019-01-04" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+</extras>
+<locations defaultbaseid="210">
+<location baseid="193" datefrom="2019-02-02" dateto="2019-04-20"></location>
+<location baseid="636115330000100000" datefrom="2018-04-07" dateto="2018-04-21"></location>
+<location baseid="193" datefrom="2018-12-10" dateto="2019-02-01"></location>
+<location baseid="419237380000100000" datefrom="2018-04-28" dateto="2018-04-30"></location>
+<location baseid="193" datefrom="2018-03-09" dateto="2018-03-31"></location>
+</locations>
+<discounts>
+</discounts>
+<products>
+</products>
+</resource>
+<resource id="1509751470000103196" gid="217585150000100000" name="Blue Waves" base="210" model="Lagoon 450" berths="8" berthsext="8" year="2014" length="13.96" cabins="4" cabinsext="4" heads="4" watercapacity="540.00 l" fuelcapacity="1000.00 l" engine="2x40 hp" deposit="1000.0" depositwithwaiver="0.0" commissionpercentage="15.0" kind="Catamaran" draught="1.30 m" beam="7.84 m" lengthatwaterline="" maximumdiscount="10.0" servicetype="Crewed" discountshavesubtotals="1" defaultcheckintime="16:00" defaultcheckouttime="10:00" calculateagencydiscountwithoutvat="1" taxableamount="100.0" taxrate="23.0" genericresourcetypename="Lagoon 450[G]" defaultcheckinday="7" codeid="3" cgid="2175851500001000004" companyid="3196" transitlog="250.00" defaultcleaningcost=".00" shipyardid="7" saleprice="" requiredskipperlicense="1" ownerid="-1" mainsail="None" genoa="None" >
+<prices>
+ <price datefrom="2018-07-28" dateto="2018-08-25" price="7500.0" currency="EUR"></price>
+ <price datefrom="2018-01-01" dateto="2018-06-02" price="0.0" currency="EUR"></price>
+ <price datefrom="2018-06-30" dateto="2018-07-28" price="7500.0" currency="EUR"></price>
+ <price datefrom="2018-08-25" dateto="2018-10-27" price="5000.0" currency="EUR"></price>
+</prices>
+<images>
+<image href="http://www.booking-manager.com/cbm/documents/1509770690000103196_BlueWaves_ext2.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509770880000103196_BlueWaves_int3.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509770640000103196_BlueWaves_ext1.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509770720000103196_BlueWaves_ext3.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509770840000103196_BlueWaves_int2.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509770800000103196_BlueWaves_int1.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509773460000103196_BlueWaves_layout.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509772970000103196_BlueWaves_main.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509773490000103196_BlueWaves_interior.jpg" comment="Interior image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1509770760000103196_BlueWaves_ext4.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/782900720000100000_L450f-moor.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1193252500000100000_LG450-4_layout.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/782900770000100000_L450f-int.jpg" comment="Interior image" ></image>
+</images>
+<equipment>
+<equipmentitem id="1511066310000103196" parentid="29" name="Air condition" value="true" categoryname="Equipment" translationid="24:1491002500000103196" ></equipmentitem>
+<equipmentitem id="1511066320000103196" parentid="1" name="Autopilot" value="true" categoryname="Equipment" translationid="24:1511056830000103196" ></equipmentitem>
+<equipmentitem id="1511066330000103196" parentid="7" name="Bimini" value="true" categoryname="Equipment" translationid="24:1491005820000103196" ></equipmentitem>
+<equipmentitem id="1511066340000103196" parentid="4" name="Dinghy" value="true" categoryname="Equipment" translationid="24:1490989230000103196" ></equipmentitem>
+<equipmentitem id="1511066350000103196" parentid="-1" name="Fishing rods" value="true" categoryname="Equipment" translationid="24:1511063580000103196" ></equipmentitem>
+<equipmentitem id="1511066360000103196" parentid="37" name="Fridge" value="true" categoryname="Equipment" translationid="24:1490985750000103196" ></equipmentitem>
+<equipmentitem id="1511066370000103196" parentid="-1" name="Gas Stove Oven" value="true" categoryname="Equipment" translationid="24:1491019420000103196" ></equipmentitem>
+<equipmentitem id="1511066380000103196" parentid="-1" name="Microwave" value="true" categoryname="Equipment" translationid="24:1491003630000103196" ></equipmentitem>
+<equipmentitem id="1511066390000103196" parentid="-1" name="Outboard" value="true" categoryname="Equipment" translationid="24:1511062610000103196" ></equipmentitem>
+<equipmentitem id="1511066400000103196" parentid="14" name="Radio" value="true" categoryname="Equipment" translationid="24:1491003330000103196" ></equipmentitem>
+<equipmentitem id="1511066410000103196" parentid="-1" name="SUP" value="true" categoryname="Equipment" translationid="24:1490990790000103196" ></equipmentitem>
+<equipmentitem id="1511066420000103196" parentid="42" name="TV LED 40''" value="true" categoryname="Equipment" translationid="24:1490986920000103196" ></equipmentitem>
+<equipmentitem id="1511066820000103196" parentid="12" name="Generator" value="true" categoryname="Equipment" translationid="24:1491002120000103196" ></equipmentitem>
+<equipmentitem id="1511066830000103196" parentid="5" name="GPS Plotter" value="true" categoryname="Equipment" translationid="24:1511057160000103196" ></equipmentitem>
+</equipment>
+<extras>
+<extra id="1509757020000103196" name="End cleaning" price="250.0" currency="EUR" timeunit="0" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-08-13" sailingdatefrom="1970-01-01" sailingdateto="2123-08-13" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1509756780000103196" name="Skipper" price="700.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-08-13" sailingdatefrom="1970-01-01" sailingdateto="2123-08-13" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1509757640000103196" name="Bed linen, towels, cleaning fluids(per cabin)" price="50.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-08-13" sailingdatefrom="1970-01-01" sailingdateto="2123-08-13" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+</extras>
+<locations defaultbaseid="210">
+</locations>
+<discounts>
+</discounts>
+<products>
+</products>
+</resource>
+<resource id="1490727700000103196" gid="622288600000100000" name="Royal Cracow" base="210" model="Saba 50" berths="9" berthsext="9" year="2016" length="14.98" cabins="5" cabinsext="5" heads="6" watercapacity="700.00 l" fuelcapacity="940.00 l" engine="2x55HP" deposit="0.0" depositwithwaiver="0.0" commissionpercentage="15.0" kind="Catamaran" draught="1.25 m" beam="7.99 m" lengthatwaterline="" maximumdiscount="10.0" servicetype="Crewed" discountshavesubtotals="1" defaultcheckintime="16:00" defaultcheckouttime="10:00" calculateagencydiscountwithoutvat="1" taxableamount="100.0" taxrate="23.0" genericresourcetypename="Saba 50[G]" defaultcheckinday="7" codeid="2" cgid="6222886000001000005" companyid="3196" transitlog="0" defaultcleaningcost=".00" shipyardid="11" saleprice="" requiredskipperlicense="1" ownerid="-1" mainsail="Full batten" genoa="Furling" >
+<prices>
+ <price datefrom="2018-12-08" dateto="2018-12-22" price="0.0" currency="EUR"></price>
+ <price datefrom="2019-01-05" dateto="2019-04-27" price="12500.0" currency="EUR"></price>
+ <price datefrom="2018-06-02" dateto="2018-07-07" price="12500.0" currency="EUR"></price>
+ <price datefrom="2018-08-25" dateto="2018-12-08" price="12500.0" currency="EUR"></price>
+ <price datefrom="2018-04-28" dateto="2018-06-02" price="12500.0" currency="EUR"></price>
+ <price datefrom="2018-03-31" dateto="2018-04-21" price="20000.0" currency="EUR"></price>
+ <price datefrom="2018-04-21" dateto="2018-04-28" price="20000.0" currency="EUR"></price>
+ <price datefrom="2018-12-22" dateto="2019-01-05" price="17000.0" currency="EUR"></price>
+ <price datefrom="2018-01-01" dateto="2018-03-31" price="12500.0" currency="EUR"></price>
+ <price datefrom="2018-07-07" dateto="2018-08-25" price="15500.0" currency="EUR"></price>
+</prices>
+<images>
+<image href="http://www.booking-manager.com/cbm/documents/1491023300000103196_int.jpg" comment="Interior image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023270000103196_layout.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491022880000103196_ext._3.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491022910000103196_ext.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023030000103196_ext_5.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023000000103196_ext_4.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023210000103196_exterior.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491022940000103196_ext_1.JPG" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491023060000103196_in_1.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1491022970000103196_ext_2.jpg" comment="" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1351581590000100000_saba50_ext_1.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1193265300000100000_SAB50_layout.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1193265270000100000_SAB50_interior.jpg" comment="Interior image" ></image>
+</images>
+<equipment>
+<equipmentitem id="1491019270000103196" parentid="-1" name="12 V Socket" value="true" categoryname="Equipment" translationid="24:1491001860000103196" ></equipmentitem>
+<equipmentitem id="1491019280000103196" parentid="29" name="Air condition" value="true" categoryname="Equipment" translationid="24:1491002500000103196" ></equipmentitem>
+<equipmentitem id="1491019290000103196" parentid="45" name="Cockpit cushions" value="true" categoryname="Equipment" translationid="24:1490998870000103196" ></equipmentitem>
+<equipmentitem id="1491019300000103196" parentid="4" name="Dinghy" value="true" categoryname="Equipment" translationid="24:1490989230000103196" ></equipmentitem>
+<equipmentitem id="1491019310000103196" parentid="-1" name="Electric Anchor Windlass" value="true" categoryname="Equipment" translationid="24:1490999220000103196" ></equipmentitem>
+<equipmentitem id="1491019320000103196" parentid="6" name="Electric Winch" value="true" categoryname="Equipment" translationid="24:1491001410000103196" ></equipmentitem>
+<equipmentitem id="1491019330000103196" parentid="-1" name="Fans" value="true" categoryname="Equipment" translationid="24:1491002750000103196" ></equipmentitem>
+<equipmentitem id="1491019340000103196" parentid="37" name="Fridge" value="true" categoryname="Equipment" translationid="24:1490985750000103196" ></equipmentitem>
+<equipmentitem id="1491019350000103196" parentid="28" name="Full batten main sail" value="true" categoryname="Equipment" translationid="24:1491006090000103196" ></equipmentitem>
+<equipmentitem id="1491019360000103196" parentid="15" name="Furling genoa" value="true" categoryname="Equipment" translationid="24:1491006340000103196" ></equipmentitem>
+<equipmentitem id="1491019370000103196" parentid="35" name="Lazy bag" value="true" categoryname="Equipment" translationid="24:1491005320000103196" ></equipmentitem>
+<equipmentitem id="1491019380000103196" parentid="-1" name="Lazy jack" value="true" categoryname="Equipment" translationid="24:1491004460000103196" ></equipmentitem>
+<equipmentitem id="1491019390000103196" parentid="-1" name="Microwave" value="true" categoryname="Equipment" translationid="24:1491003630000103196" ></equipmentitem>
+<equipmentitem id="1491019400000103196" parentid="14" name="Radio" value="true" categoryname="Equipment" translationid="24:1491003330000103196" ></equipmentitem>
+<equipmentitem id="1491019410000103196" parentid="44" name="Water maker" value="true" categoryname="Equipment" translationid="24:1491003970000103196" ></equipmentitem>
+<equipmentitem id="1491020500000103196" parentid="7" name="Bimini" value="true" categoryname="Equipment" translationid="24:1491005820000103196" ></equipmentitem>
+<equipmentitem id="1491020510000103196" parentid="-1" name="Freezer" value="true" categoryname="Equipment" translationid="24:1490982680000103196" ></equipmentitem>
+<equipmentitem id="1491020520000103196" parentid="-1" name="Gas Stove Oven" value="true" categoryname="Equipment" translationid="24:1491019420000103196" ></equipmentitem>
+<equipmentitem id="1491020860000103196" parentid="-1" name="Sea bike" value="true" categoryname="Equipment" translationid="24:1490998130000103196" ></equipmentitem>
+<equipmentitem id="1491020870000103196" parentid="40" name="Snorkeling equipment" value="true" categoryname="Equipment" translationid="24:1490992770000103196" ></equipmentitem>
+<equipmentitem id="1491020880000103196" parentid="-1" name="Tender" value="true" categoryname="Equipment" translationid="24:1490996750000103196" ></equipmentitem>
+<equipmentitem id="1491020890000103196" parentid="-1" name="Wake board" value="true" categoryname="Equipment" translationid="24:1490995730000103196" ></equipmentitem>
+<equipmentitem id="1491024670000103196" parentid="12" name="Generator" value="true" categoryname="Equipment" translationid="24:1491002120000103196" ></equipmentitem>
+</equipment>
+<extras>
+<extra id="1490893950000103196" name="Standard option(Skipper and Deckhand)" price="0.0" currency="EUR" timeunit="0" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2123-07-26" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1687141430000103196" name="APA Exclusive Saba 50 I(Skipper &amp;Chef)" price="9000.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-12-24" sailingdatefrom="2018-12-22" sailingdateto="2019-01-04" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490928360000103196" name="APA Exclusive Saba 50 II" price="5250.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="2018-07-07" sailingdateto="2018-08-24" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="210" includesdepositwaiver="0" includedoptions="1490896740000103196" ></extra>
+<extra id="1490932130000103196" name="APA Exclusive Saba 50 III" price="4650.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="2018-08-25" sailingdateto="2018-12-08" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="210" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490900680000103196" name="APA Standard Saba 50 II" price="3100.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="2018-07-07" sailingdateto="2018-08-24" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1687144300000103196" name="APA Standard Saba 50 II(Skipper &amp; Deckhand)" price="2500.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-12-24" sailingdatefrom="2019-01-05" sailingdateto="2019-04-20" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1687147820000103196" name="APA Exclusive Saba 50 II(Skipper &amp;Chef)" price="7650.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-12-24" sailingdatefrom="2019-01-05" sailingdateto="2019-04-20" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1687132430000103196" name="APA Standard Saba 50 I(Skipper &amp; Deckhand)" price="3400.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-12-24" sailingdatefrom="2018-12-22" sailingdateto="2019-01-04" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490906580000103196" name="APA Standard Saba 50 III" price="2500.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="2018-08-25" sailingdateto="2018-12-08" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+</extras>
+<locations defaultbaseid="210">
+<location baseid="193" datefrom="2018-12-10" dateto="2019-02-01"></location>
+<location baseid="419237380000100000" datefrom="2018-04-28" dateto="2018-04-30"></location>
+<location baseid="193" datefrom="2019-02-02" dateto="2019-04-20"></location>
+<location baseid="636115330000100000" datefrom="2018-04-07" dateto="2018-04-21"></location>
+<location baseid="193" datefrom="2018-03-09" dateto="2018-03-31"></location>
+</locations>
+<discounts>
+</discounts>
+<products>
+</products>
+</resource>
+<resource id="1604664350000103196" gid="1348621020000100000" name="NEW 2019" base="210" model="Lagoon 50" berths="10" berthsext="10" year="2019" length="14.75" cabins="4" cabinsext="4" heads="4" watercapacity="480.00 l" fuelcapacity="1040.00 l" engine="2x57HP" deposit="0.0" depositwithwaiver="0.0" commissionpercentage="15.0" kind="Catamaran" draught="1.40 m" beam="8.10 m" lengthatwaterline="" maximumdiscount="10.0" servicetype="Crewed" discountshavesubtotals="1" defaultcheckintime="16:00" defaultcheckouttime="10:00" calculateagencydiscountwithoutvat="1" taxableamount="100.0" taxrate="23.0" genericresourcetypename="Lagoon 50[G]" defaultcheckinday="7" codeid="4" cgid="1348621020000100000" companyid="3196" transitlog="0" defaultcleaningcost=".00" shipyardid="7" saleprice="" requiredskipperlicense="1" ownerid="-1" mainsail="Full batten" genoa="Furling" >
+<prices>
+ <price datefrom="2019-01-01" dateto="2019-03-16" price="0.0" currency="EUR"></price>
+ <price datefrom="2019-10-26" dateto="2019-12-07" price="14000.0" currency="EUR"></price>
+ <price datefrom="2020-05-30" dateto="2020-10-31" price="14000.0" currency="EUR"></price>
+ <price datefrom="2020-01-25" dateto="2020-02-01" price="14000.0" currency="EUR"></price>
+ <price datefrom="2019-05-18" dateto="2019-10-26" price="14000.0" currency="EUR"></price>
+ <price datefrom="2019-12-07" dateto="2020-01-25" price="14000.0" currency="EUR"></price>
+ <price datefrom="2020-04-18" dateto="2020-05-16" price="14000.0" currency="EUR"></price>
+ <price datefrom="2020-05-16" dateto="2020-05-23" price="14000.0" currency="EUR"></price>
+ <price datefrom="2020-02-01" dateto="2020-04-18" price="14000.0" currency="EUR"></price>
+ <price datefrom="2019-03-16" dateto="2019-04-27" price="14000.0" currency="EUR"></price>
+ <price datefrom="2019-04-27" dateto="2019-05-18" price="14000.0" currency="EUR"></price>
+ <price datefrom="2020-05-23" dateto="2020-05-30" price="14000.0" currency="EUR"></price>
+</prices>
+<images>
+<image href="http://www.booking-manager.com/cbm/documents/1348885690000100000_lagoon50_int_1.jpg" comment="Interior image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1348889040000100000_1506942032601_lagoon50_layout.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1348885660000100000_lagoon50_ext_1.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1348885660000100000_lagoon50_ext_1.jpg" comment="Main image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1348889040000100000_1506942032601_lagoon50_layout.jpg" comment="Plan image" ></image>
+<image href="http://www.booking-manager.com/cbm/documents/1348885690000100000_lagoon50_int_1.jpg" comment="Interior image" ></image>
+</images>
+<equipment>
+</equipment>
+<extras>
+<extra id="1490893950000103196" name="Standard option(Skipper and Deckhand)" price="0.0" currency="EUR" timeunit="0" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2123-07-26" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1604693440000103196" name="APA Standard Lagoon 50" price="2200.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-10-29" sailingdatefrom="1970-01-01" sailingdateto="2123-10-29" obligatory="1" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1604695770000103196" name="APA Exclusive Laggon 50" price="5100.0" currency="EUR" timeunit="604800000" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-10-29" sailingdatefrom="1970-01-01" sailingdateto="2123-10-29" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="0" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+<extra id="1490896740000103196" name="Exclusive option(Skipper and Chef)" price="3000.0" currency="EUR" timeunit="0" customquantity="0" validdatefrom="1970-01-01" validdateto="2123-07-26" sailingdatefrom="1970-01-01" sailingdateto="2123-07-26" obligatory="0" perperson="0" includedinbaseprice="0" payableoninvoice="1" availableinbase="-1" includesdepositwaiver="0" includedoptions="" ></extra>
+</extras>
+<locations defaultbaseid="210">
+<location baseid="419237380000100000" datefrom="2020-05-01" dateto="2020-05-14"></location>
+<location baseid="112" datefrom="2019-03-09" dateto="2019-04-27"></location>
+<location baseid="210" datefrom="2019-05-18" dateto="2019-10-26"></location>
+<location baseid="210" datefrom="2020-05-15" dateto="2020-10-31"></location>
+<location baseid="193" datefrom="2019-12-07" dateto="2020-03-30"></location>
+<location baseid="644512600000100000" datefrom="2019-11-02" dateto="2019-11-30"></location>
+<location baseid="1046753980000100000" datefrom="2020-04-01" dateto="2020-04-30"></location>
+</locations>
+<discounts>
+</discounts>
+<products>
+</products>
+</resource>
+</root>

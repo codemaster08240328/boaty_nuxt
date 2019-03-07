@@ -1,0 +1,56 @@
+<root>
+<region id="1" name="Istria / Kvarner" ></region>
+<region id="2" name="Zadar" ></region>
+<region id="3" name="Šibenik" ></region>
+<region id="4" name="Kornati" ></region>
+<region id="5" name="Split" ></region>
+<region id="6" name="Dubrovnik / Montenegro" ></region>
+<region id="7" name="Ionian" ></region>
+<region id="8" name="Sporades" ></region>
+<region id="9" name="Dodecanese" ></region>
+<region id="10" name="Cyclades" ></region>
+<region id="11" name="Saronic" ></region>
+<region id="12" name="Eastern Mediterranean" ></region>
+<region id="13" name="Balearic Islands" ></region>
+<region id="14" name="Canary Islands" ></region>
+<region id="15" name="French Riviera (Côte d'Azur)" ></region>
+<region id="16" name="Normandy / Bretagne" ></region>
+<region id="17" name="Italian Adriatic" ></region>
+<region id="18" name="Tyrrhenian Sea" ></region>
+<region id="19" name="Liguria / Toscana" ></region>
+<region id="20" name="Sicily" ></region>
+<region id="21" name="Sardinia / Corsica" ></region>
+<region id="22" name="Arctic" ></region>
+<region id="23" name="Solent" ></region>
+<region id="24" name="Scotland" ></region>
+<region id="25" name="Bodrum" ></region>
+<region id="26" name="Marmaris / Fethiye / Gocek " ></region>
+<region id="27" name="Baltic" ></region>
+<region id="28" name="Caribbean Islands" ></region>
+<region id="29" name="European Atlantic" ></region>
+<region id="30" name="European Inland" ></region>
+<region id="31" name="North Sea" ></region>
+<region id="32" name="Polynesia" ></region>
+<region id="33" name="Oceania" ></region>
+<region id="34" name="SE Asia" ></region>
+<region id="35" name="Athens / Saronic Gulf" ></region>
+<region id="36" name="Pacific Northwest" ></region>
+<region id="37" name="Indian Ocean" ></region>
+<region id="38" name="Black Sea" ></region>
+<region id="39" name="Arabian Sea" ></region>
+<region id="40" name="South Africa" ></region>
+<region id="41" name="Cape Verde" ></region>
+<region id="42" name="Eastern Seaboard" ></region>
+<region id="43" name="Andalusia" ></region>
+<region id="44" name="Malta" ></region>
+<region id="45" name="Azores" ></region>
+<region id="46" name="Catalonia" ></region>
+<region id="47" name="North East Aegean" ></region>
+<region id="48" name="Valencia" ></region>
+<region id="49" name="Istanbul / Bosphorus" ></region>
+<region id="50" name="Izmir" ></region>
+<region id="51" name="Bay of Biscay" ></region>
+<region id="52" name="Murcia" ></region>
+<region id="53" name="Galicia" ></region>
+<region id="54" name="Rio de Janeiro" ></region>
+</root>

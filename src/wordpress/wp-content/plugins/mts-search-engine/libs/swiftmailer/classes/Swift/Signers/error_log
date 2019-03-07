@@ -1,0 +1,4 @@
+[22-Oct-2014 01:24:43 UTC] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Signers/DKIMSigner.php on line 19
+[25-Oct-2014 19:23:09 UTC] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Signers/HeaderSigner.php on line 18
+[25-Oct-2014 19:57:10 UTC] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Signers/BodySigner.php on line 19
+[25-Oct-2014 20:59:26 UTC] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/Signers/SMimeSigner.php on line 21

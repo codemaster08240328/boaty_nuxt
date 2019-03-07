@@ -1,0 +1,1 @@
+[07-Nov-2014 18:01:46 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/sailu/public_html/wp-content/plugins/mts-search-engine/css/functions.php on line 2548

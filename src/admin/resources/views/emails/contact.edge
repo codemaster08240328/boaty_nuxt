@@ -1,0 +1,21 @@
+@layout('emails.master')
+
+@section('content')
+  <p>Dear {{ name }},</p>
+
+  <p>
+    Thank you for rearching out to SailChecker - a leading provider of yacht charters globally.
+  </p>
+  <p>
+    My name is Elpida and I will be delighted in helping you find the perfect yacht charter in {{ location }}.
+  </p>
+
+  <p>
+    I note that you have requested our <a href="https://sailchecker.com/{{ boat.link }}">{{ boat.BrandName }}, {{ boat.Name }}</a> on the {{ date }} for {{ weeks }} week(s). I have contacted the fleet operator and put an option on the vessel (with no extra charge) so that we secure the yacht for a couple of days, while we are discussing on the final details.
+  </p>
+
+  <p>
+    I will now prepare all of the documentation for the vessel, and your trip. If you have any further questions please don't hesitate to contact or request other vessels. Feel free to reach out to us by phone, or livechat.
+  </p>
+
+@endsection

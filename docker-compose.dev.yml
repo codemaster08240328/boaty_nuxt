@@ -1,0 +1,42 @@
+version: '2'
+
+services:
+### NuxtJS frontend Container #############################
+  nuxtjs-frontend:
+    ports:
+        - 3333:3333
+        - 4000:4000
+    command: ["npm", "run", "dev"]
+### adonisjs admin Container ###########################
+  adonisjs-admin:
+    command: ["npm", "run", "dev"]
+### WordPress Container  ###################################
+  wordpress:
+    links:
+      - mysql
+
+### WPCLI ##################################################
+  wpcli:
+    links:
+      - mysql
+### MYSQL CONTAINER #########################################
+  mysql:
+    image: mysql:latest
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d
+    volumes_from:
+      - applications
+    environment:
+      MYSQL_ROOT_PASSWORD: "sc123"
+      MYSQL_DATABASE: "sc"
+      MYSQL_USER: "not_root"
+      MYSQL_PASSWORD: "sc123"
+    ports:
+      - 3306:3306
+    command: mysqld --sql_mode=""
+    container_name: ad4-mysql
+    networks:
+      - sc_backend
+volumes:
+    mysql:
+        driver: "local"

@@ -1,0 +1,401 @@
+#available{
+    width: 90%;
+    position:  relative;
+    z-index: 1;
+    min-width: 280px;
+    max-width: 300px;
+}
+
+#available p{font-size: 12px;   color: #666666;    font-weight: normal;}
+#available a {color: #333333;}
+
+#available div{
+   line-height: 100%; 
+}
+
+#available #mts_avail_js{
+    min-height: 150px;
+    padding: 15px 0px;
+}
+
+#available #send_letter{
+margin-top: 20px!important;
+}
+
+/*tabs in availability block*/
+#available ul.nav-tabs {
+	min-width: 280px;
+    max-width: 300px;
+	/*min-height: 500px;*/
+	margin: 0px;
+	border-radius: 4px;
+    border: 1px solid #14695e;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+    list-style: none;
+}
+#available ul.nav-tabs li {
+	margin: 0;
+	border-top: 1px solid #ddd;
+    list-style: none;
+}
+#available ul.nav-tabs li:first-child {
+	border-top: none;
+}
+#available ul.nav-tabs li a {
+	margin: 0;
+	padding: 5px 16px;
+	border-radius: 0;
+    text-align: center;
+    font-family: Tahoma;
+    font-size:  12px;
+    font-weight: bold;
+    color: #14695e; 
+    cursor: pointer;   
+}
+
+#available ul.nav-tabs li.menu {
+	padding: 5px 0px;
+    text-align: center;
+}
+
+
+.modal-dialog{-webkit-transform:translate(0,-25%);-ms-transform:translate(0,-25%);transform:translate(0,-25%);-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out}
+.modal.in .modal-dialog{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0)}
+.modal-dialog{position:relative;width:auto;margin:0px}
+.modal-content{position:relative;background-color:#fff;border:1px solid #999;border:1px solid rgba(0,0,0,.2);border-radius:6px;-webkit-box-shadow:0 3px 9px rgba(0,0,0,.5);box-shadow:0 3px 9px rgba(0,0,0,.5);outline:0}
+.modal-backdrop.in{opacity:.5;filter:alpha(opacity=50)}
+.modal-title{margin:0;line-height:1.42857143}.modal-body{position:relative;padding:0px 20px 10px;}.modal-footer{margin-top:15px;padding:19px 20px 20px;text-align:right;border-top:1px solid #e5e5e5}.modal-footer .btn+.btn{margin-left:5px;margin-bottom:0}.modal-footer .btn-group .btn+.btn{margin-left:-1px}.modal-footer .btn-block+.btn-block{margin-left:0}
+
+#available ul.nav-tabs li a:hover {
+    color: #4f5d73;    
+}
+
+#available ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover {
+	color: #fff;
+	background: #e8b448;
+    border: 1px solid #14695e;
+    width:  100%;
+    display: block;
+    padding: 10px 0px;
+    text-align: center;
+}
+#available ul.nav-tabs li:first-child a {
+	border-radius: 4px 4px 0 0;
+}
+#available ul.nav-tabs li:last-child a {
+	border-radius: 0 0 4px 4px;
+}
+
+
+/*--availability titles--*/
+#available .in_progress {
+	background: url(img/ajax-loader.gif) no-repeat center center !important;
+	background-size: 80%;
+	opacity: 0.8;
+	position: relative;
+}
+
+#available .boat_avail_ctrl {
+	display: none;
+}
+#available .boat_avail_ctrl.show_y {
+	display: block;
+} 
+
+#available #mts_avail {
+	background-color: #fff!important;
+	/*min-height: 320px;*/
+}
+
+#available div.boat_avail_ctrl.not_avails h3 {
+font-size: 14px!important;
+text-align: center;
+width: 95%;
+padding: 10px 0;
+}
+
+#available .header_mts_avail, .header_mts_avail_booked {
+font-size: 14px;
+font-weight: bold;
+background: #8ac8c1;
+color: #14695e;
+display: block;
+text-align: center;
+padding: 10px 0 8px;
+border-bottom: 1px solid #ccc;
+}
+
+#available div.xhts_holder label {
+float: left;
+font-size: 12px;
+width: 40%;
+padding-top: 5px;
+}
+
+#available div.xhts_holder input {
+float: right;
+width: 55%;
+}
+
+#available div.xhts_holder {
+width: 90%;
+margin: 6px auto;
+border: 0px solid #fff;
+overflow: auto;
+}
+
+#available a.button.check_availb {
+font-size: 13px;
+width: 80%;
+position: relative;
+background: #c75c5c;
+margin: 0px 10px 5px;
+}
+
+#available #mts_recheck_in{
+    padding: 2px 10px;
+}
+
+#available #mts_recheck_out{
+    padding: 2px 10px;
+}
+
+
+#ui-datepicker-div{
+    margin: 0px 0px 0px;
+    z-index: 1000!important;
+}
+
+#available #caution{
+    background:  #fff;
+    font-weight:  bold!important;
+    font-family: Arial;
+    font-size: 12px!important;
+    border: 1px solid #c75c5c;
+    color: red;
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+#available .trip_info, #available .price_info{
+    padding: 8px 3px 0px 8px;
+}
+
+#available .price_info{
+     padding: 0px 3px 5px 8px;
+    }
+
+#available .descr_type {
+	display: block;
+	clear:both;
+	width: 100%;
+	margin: 0px;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+
+#available span.descr_av_1 {
+font-weight: bold;
+width: 90px;
+display: block;
+float: left;
+font-family: Tahoma;
+font-size: 12px;
+}
+
+#available .book_btn{
+    width: 100%;
+    text-align: center;
+}
+
+#available #mts_book_form{
+  background-color: #14695e;  
+  color: white!important;
+  font-family: Tahoma;
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 120%;
+  border: 1px solid #4f5d73;
+  margin: 0px auto;
+  text-align: center;
+  padding: 8px 20px;
+  width: 210px;
+}
+
+#available #mts_book_form:hover{
+  background-color: #c75c5c!important;  
+}
+
+#available .change_trip_dates a{
+    color: #393836!important;
+    font-size: 12px!important;
+    font-family: Arial;
+    text-decoration: underline;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#available .change_trip_dates a:hover{
+    color: #4f5d73!important;
+}
+
+#available #detinfo{
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 120%;
+    color: #4f5d73!important;
+}
+
+#available .change_trip_dates{
+    margin: 5px 20px;
+    text-align: center;
+}
+#overlay_modal{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: 990;
+    opacity: 0.7;
+    background-color: gray;
+    filter: alpha(opacity=70);
+}
+
+#modalReserve{
+    position: fixed!important;
+    z-index: 999!important;
+    border: 0px solid #fff;
+    overflow: hidden;
+    height: 550px;
+    width: 600px;
+}
+
+#modalReserve .help-block{
+   display: block;
+   clear: both;
+   text-align: center; 
+}
+
+#modalReserve.modal.fade.in div{
+    z-index: 999!important;
+    
+}
+
+#modalReservce .checka_optsa{
+    margin: 0px 5px;
+}
+
+#modalReserve .modal-footer {
+margin-top: 5px;
+padding: 5px 20px 0px;
+text-align: right;
+border-top: 1px solid #e5e5e5;
+}
+
+#modalReserve .modal-header h4{
+padding: 5px 10px;
+min-height: 16px;
+font-weight: bold!important;
+font-family: Tahoma!important;
+font-size: 12px!important;
+}
+
+.modal-backdrop.fade.in{
+    z-index: 50;  
+}
+
+#modalReserve .modal-body {
+font-weight: bold;
+font-family: Tahoma!important;
+font-size: 12px!important;
+}
+
+#myModal{
+    display: none;
+}
+
+#modalReserve .row {
+    clear: both;
+    font-size: 12px;
+    font-family: Tahoma;
+    padding: 5px 0px 3px;
+}
+
+#modalReserve .row .form-group{
+    float: left;
+    margin: 0px 30px;
+}
+
+#modalReserve .row .form-group input{
+    padding: 5px 10px!important;
+}
+
+#modalReserve div{
+    position: relative!important;
+}
+
+#modalReserve .modal-header{
+    padding:15px 15px 5px;
+    border-bottom:1px solid #e5e5e5;min-height:20px
+}
+
+#modalReserve .modal-dialog{
+    position: absolute!important;
+    top: 0px;
+    left: 0px;
+}
+
+#modalReserve .modal-footer{
+    padding:  5px 0px;
+}
+
+#modalReserve .mts_reserve{
+    margin-right:  30px;
+}
+
+#modalReserve .warring{
+    color: red;
+    font-weight: bold;
+}
+
+.close{position:relative;top:2px;right:-10px;color:inherit}
+
+.close{float:right;font-size:21px;font-weight:700;line-height:1;color:#000;text-shadow:0 1px 0 #fff;opacity:.2;filter:alpha(opacity=20)}.close:hover,.close:focus{color:#000;text-decoration:none;cursor:pointer;opacity:.5;filter:alpha(opacity=50)}
+button.close{padding:0;cursor:pointer;background:0 0;border:0;-webkit-appearance:none}
+
+.btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.42857143;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.btn:focus,.btn:active:focus,.btn.active:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.btn:hover,.btn:focus{color:#333;text-decoration:none}.btn:active,.btn.active{outline:0;background-image:none;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.btn.disabled,.btn[disabled],fieldset[disabled] .btn{cursor:not-allowed;pointer-events:none;opacity:.65;filter:alpha(opacity=65);-webkit-box-shadow:none;box-shadow:none}.btn-default{color:#333;background-color:#fff;border-color:#ccc}.btn-default:hover,.btn-default:focus,.btn-default:active,.btn-default.active,.open .dropdown-toggle.btn-default{color:#333;background-color:#ebebeb;border-color:#adadad}.btn-default:active,.btn-default.active,.open .dropdown-toggle.btn-default{background-image:none}.btn-default.disabled,.btn-default[disabled],fieldset[disabled] .btn-default,.btn-default.disabled:hover,.btn-default[disabled]:hover,fieldset[disabled] .btn-default:hover,.btn-default.disabled:focus,.btn-default[disabled]:focus,fieldset[disabled] .btn-default:focus,.btn-default.disabled:active,.btn-default[disabled]:active,fieldset[disabled] .btn-default:active,.btn-default.disabled.active,.btn-default[disabled].active,fieldset[disabled] .btn-default.active{background-color:#fff;border-color:#ccc}.btn-default .badge{color:#fff;background-color:#333}
+
+#available .back_link{
+    text-align:  center;
+    margin: 5px 0px 10px 0px;
+}
+
+#available .back_link a{
+    font-size: 14px;
+    font-weight:  bold;
+    text-decoration: underline;
+}
+
+#available .back_link a:hover {
+    color: #4f5d73;    
+    text-decoration: none;
+}
+
+#available .sidebar-wrapper
+{
+    padding: 0px !important;
+}
+
+.ui-datepicker{
+    margin-left: -100px!important;
+}
+
+
+

@@ -1,0 +1,326 @@
+.sc-ui,
+
+.sc-ui * {
+
+	box-sizing: border-box !important;
+
+	-moz-box-sizing: border-box !important;
+
+	-webkit-box-sizing: border-box !important;
+
+}
+
+
+
+.sc-clearfix {
+
+	*zoom: 1;
+
+}
+
+
+
+.sc-clearfix:before,
+
+.sc-clearfix:after {
+
+	display: table;
+
+	content: "";
+
+	line-height: 0;
+
+}
+
+
+
+.sc-clearfix:after {
+
+	clear: both;
+
+}
+
+
+
+.sc-float-left {
+
+	float: left !important;
+
+}
+
+
+
+.sc-float-right {
+
+	float: right !important;
+
+}
+
+
+
+/** sc-dialog **/
+
+.sc-dialog-open {
+
+	overflow: hidden !important;
+
+}
+
+
+
+.sc-modal-ui {
+
+	background-color: rgba(0, 0, 0, 0.25);
+
+	display: block;
+
+	right: 0;
+
+	left: 0;
+
+	overflow: auto;
+
+	overflow-y: auto;
+
+	padding: 40px;
+
+	position: fixed;
+
+	top: 0;
+
+	bottom: 0;
+
+	z-index: 99995;
+
+}
+
+
+
+.sc-dialog-ui {
+
+	border-radius: 5px;
+
+	padding: 10px;
+
+	background-color: white;
+
+	z-index: 9985;
+
+	min-width: 200px;
+
+	max-width: 100%;
+
+	margin: 0 auto;
+
+	display: none;
+
+	position: relative;
+
+}
+
+
+
+.sc-dialog-ui.open {
+
+	display: table;
+
+}
+
+
+
+.sc-dialog-ui .sc-dialog-ui-caption-bar {
+
+	padding-bottom: 10px;
+
+}
+
+
+
+.sc-dialog-ui .sc-dialog-ui-caption {
+
+	font-weight: bold;
+
+}
+
+
+
+.sc-dialog-ui .sc-dialog-ui-control-button {
+
+	position: absolute;
+
+	right: 10px;
+
+	top: 5px;
+
+}
+
+
+
+.sc-dialog-ui .sc-dialog-ui-control-button .sc-dialog-ui-close {
+
+	background-color: transparent;
+
+	border: none;
+
+	font-weight: bold;
+
+	cursor: pointer;
+
+}
+
+
+
+.sc-dialog-ui .sc-dialog-ui-control-button .sc-dialog-ui-close:hover {
+
+	color: #FF4444;
+
+}
+
+
+
+/** Enquire **/
+
+.sc-inquiry-ui {
+
+	padding: 10px;
+
+	/*width: 400px;*/
+
+}
+
+
+
+.sc-inquiry-ui textarea,
+
+.sc-dialog-ui-inquire textarea {
+
+	padding: 10px;
+
+}
+
+
+
+#sc-dialog-ui-inquire {
+
+	width: 400px;
+
+
+}
+
+
+
+#sc-dialog-ui-inquire-message {
+
+	padding: 10px 15px;
+
+	display: none;
+
+	margin-bottom: 10px;
+
+}
+
+
+
+#sc-dialog-ui-inquire-message.sc-dialog-ui-inquire-message-error {
+
+	border: 1px solid #CC0000;
+
+	background-color: pink;
+
+}
+
+
+
+#sc-dialog-ui-inquire-message.sc-dialog-ui-inquire-message-success {
+
+	border: 1px solid #66CC00;
+
+	background-color: #CCFF99;
+
+}
+
+
+
+/** Aweber Form **/
+
+.sc-aweber-ui {
+
+	width: 300px;
+
+	padding: 10px;
+
+}
+
+
+
+#sc-aweber-ui-error {
+
+	padding: 10px 15px;
+
+	display: none;
+
+	margin-bottom: 10px;
+
+	border: 1px solid #CC0000;
+
+	background-color: pink;
+
+}
+
+.typewriter {
+position: absolute;
+width: 100%;
+top: 0px;
+padding: 10px;
+height: 100%;
+color: #000;
+font-size: 14px;
+overflow:hidden
+}
+
+/* button background in sc_enquire_ui*/
+.sc-button {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 3px 3px;
+  color: #ffffff;
+  font-size: 18px;
+  /*background: #14695e;*/
+  background: transparent;
+  padding: 7px 30px 7px 30px;
+  border: solid #ffffff 1px;
+  text-decoration: none;
+}
+
+.sc-button-send {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 3px 3px;
+  color: #ffffff;
+  font-size: 18px;
+  background: #14695e !important;
+  padding: 7px 30px 7px 30px;
+  border: solid #ffffff 1px;
+  text-decoration: none;
+}
+
+
+.sc-button:hover {
+  background: #c75c5c;
+  text-decoration: none;
+}
+
+.sc-button-send:hover {
+  background: #c75c5c;
+  text-decoration: none;
+}
+
+/* text area width */
+#inquiryInputMessageShortCut{
+  width: 100% !important;
+}
+
+#inquiryButtonSend{
+ background: #c75c5c !important;
+  text-decoration: none;
+}

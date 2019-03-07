@@ -1,0 +1,199 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "GB",
+    "american": "US"
+  },
+  "usp": {
+    "leading": "Leading Yacht Charter Platform",
+    "price": "Price Promise Guarantee",
+    "service": "24/7/365 Concierge Service",
+    "destination": "Every Boat - Every Destinaton",
+    "leadingdesc": "95% of customers rate us 5/5 on TrustPilot",
+    "pricedesc": "We agree to beat any other 'like for like' offer!",
+    "servicedesc": "Multilingual Team of Real Sailors and Yacht Charter Experts",
+    "destinationdesc": "Our Boats are all Insured, registered and certified boats in recognised charter fleets. On request with crew."
+  },
+  "home": {
+    "introduction": "Creating Sailing Memories Since 2011",
+    "title": "Yacht Charter & Sailing Worldwide"
+  },
+  "about": {
+    "title": "Creating Sailing Memories Since 2011",
+    "introduction": "Yacht Charter & Sailing Worldwide"
+  },
+  "SingleInputSearch": {
+    "label": "Try “Croatia”"
+  },
+  "simpleSearch": {
+    "simpleFailure": "Please fill out the missing search fields.",
+    "searchRegion": "Where Would You Like To Sail?",
+    "selectBoat": "Select Boat Type",
+    "selectDate": "Pick Your Date"
+  },
+  "admin": {
+    "country": "Select Your Country",
+    "helpselectcountry": "After selecting a country, a new select will appear for area, and then base. If you want the content to appear for just country, leave the next select blank. If you cannot find your location, a page probably already exists, you must edit that.",
+    "area": "Select Your Area"
+  },
+  "utility": {
+    "cancel": "Cancel",
+    "send": "Send",
+    "ok": "Ok",
+    "search": "Search",
+    "request": "Request",
+    "details": "Details",
+    "sortby": "Sort By",
+    "price": "Price",
+    "boats": "{boat_count} boats",
+    "close": "Close",
+    "free": "Free",
+    "continue": "Continue",
+    "save": "Save"
+  },
+  "yachtCharterPage": {
+    "title": "The Top Yacht Charter Destinations Globally",
+    "introduction": "Take a look at the most popular yacht charter destinations including Croatia, Greece and BVI",
+    "charterList": "Yacht Charter Destinations in {location}",
+    "topBoatHeader": "{location}'s Top Yacht",
+    "topBoatHeaderNoLocation": "Exclusive Offer",
+    "noContent": "Our team works hard to ensure we have the very best and up to date information for yacht charter in {location}. On this occasion, we're still working to update! In the mean time, why not send us an email with the form below?",
+    "topDestinations": "Didn't find what you're looking for?",
+    "boatsHeader": "Our Most Popular Yachts In {location}",
+    "boatsHeaderNoLocation": "Our Exclusive Yacht Charter Deals",
+    "boatCount": "{boat_count} boats",
+    "urgency": "Hello {name}, {number} people are looking at yachts in {location}, head to our yacht search.",
+    "meta": {
+      "title": "Yacht Charter In {location}",
+      "description": "Take a look at the very best yacht charters in {location}. Read our sailing itineraries and blogs to bring your perfect holiday to life."
+    }
+  },
+  "page": {
+    "title": "The Best {type}",
+    "description": "Our Yacht Charter consultants work hard creating the very best and up to date {type}",
+    "relatedItineraries": "Related Sailing Itineraries"
+  },
+  "boatPage": {
+    "title": "Charter a {model} in {country}, {location}",
+    "description": "Our {buildyear} classic {modelname} is a perfect {cabins} charter yacht available from {location}, in {country}. You will find she sleeps {berths} comfortably. This yacht is perfect for groups seeking a little more space, with great value.",
+    "yourdate": "Your Charter Date",
+    "charterduration": "Charter Duration",
+    "year": "Year",
+    "length": "Length",
+    "berths": "Berths",
+    "cabins": "Cabins",
+    "brand": "Brand",
+    "showers": "Showers",
+    "equipment": "Equipment",
+    "equipmentdesc": "Please take your time to look at the equipment available with this charter. All equipment is inclusive of the charter price. Contact our live chat if something is missing!",
+    "charterprices": "Charter Price",
+    "extras": "Extras",
+    "extraspaid": "Items marked with * are approximate, our Charter Consultants will negotiate on your behalf!",
+    "extrasfree": "Items marked with ** are included in price for free",
+    "map": "Map",
+    "urgency": "Another user is looking at this yacht, you can reserve this yacht for free."
+  },
+  "searchPage": {
+    "selectDate": "Departure Date",
+    "selectDateHint": "Select your departure date.",
+    "selectBoat": "Boat Type",
+    "selectBoatHint": "Select your desired boat type.",
+    "totalPrice": "Total Price",
+    "priceHint": "Select your desired prices in {currency}.",
+    "totalLength": "Length",
+    "lengthHint": "Select your desired vessel length.",
+    "cabins": "Cabins",
+    "cabinsHint": "Select the number of cabins you desire",
+    "years": "Years",
+    "yearsHint": "The age of the vessel.",
+    "toilets": "Toilets",
+    "toiletsHint": "The number of toilets aboard.",
+    "recentViews": "Viewed {views} times in the past hour.",
+    "requested": "Requested {requests} in the past hour.",
+    "title": "Yacht Charters in {title}",
+    "guide": "A Guide To Yacht Charter in {title}",
+    "learn": "Learn more about sailing in {title}",
+    "why": "Why SailChecker?",
+    "moneyofftitle": "Save Money",
+    "moneyoff": "Prices direct from operators, with the savings passed on to you.",
+    "securetitle": "Security",
+    "secure": "Shop safely with your credit card in your local currency.",
+    "availabletitle": "Maximum Selection",
+    "available": "Browser 13000 yachts in 50 countries",
+    "found": "Choose from {total} yachts."
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "clear": "Clear"
+  },
+  "MultiBoatCard": {
+    "adults": "Adults",
+    "adultshint": "How many adults will be accompanying you?",
+    "children": "Children",
+    "childrenhint": "How many children will be accompanying you?",
+    "message": "Message",
+    "messagehint": "Ask us anything!",
+    "name": "Your Name",
+    "namehint": "Enter your full name.",
+    "email": "Your Email",
+    "emailhint": "We will contact you using this email.",
+    "mobilenumber": "Phone Number",
+    "mobilenumberhint": "Phone Number",
+    "send": "Send",
+    "cancel": "Cancel"
+  },
+  "googlemaps": {
+    "numberofboats": "Number Of Boats"
+  },
+  "review": {
+    "snackbar": "Thanks {name} for helping us and your fellow SailCheckers choose the best yachts. Our team will shortly moderate and publish your review.",
+    "rating": "Rating",
+    "write-a-review": "Write A Review",
+    "noreviews": "There are no reviews for this vessel. Be the first to leave a review!",
+    "published": "Published",
+    "title": "Reviews",
+    "dialog": {
+      "title": "Yacht Review",
+      "vesselname": "Vessel Name",
+      "model": "Model",
+      "base": "Base",
+      "date": "Date",
+      "price": "Price",
+      "duration": "Duration"
+    }
+  },
+  "booking": {
+    "snackbar": "Thanks {name} for reserving {boat}, a member of our team will shortly contact you to formalise details.",
+    "dialog": {
+      "title": "Yacht Reservation",
+      "vesselname": "Vessel Name",
+      "model": "Model",
+      "base": "Base",
+      "date": "Date",
+      "price": "Price",
+      "duration": "Duration"
+    }
+  },
+  "price": {
+    "onrequest": "Price On Request",
+    "explainrequest": "On occasion, prices for a yacht are not available. There are a variety of reasons however, please do let us know if you are interested. We are able to go direct to an operator to find the price, often cheaper than the original!"
+  },
+  "blogCard": {
+    "title": "{location} {type}",
+    "itineraries": "{location} Sailing Itineraries",
+    "blogs": "{location} Sailing Blogs",
+    "readmore": "Read More"
+  },
+  "enquire": {
+    "step1": "Name & Email",
+    "step2": "Contact Details",
+    "step3": "Your Message"
+  },
+  "signup": {
+    "title": "Welcome Aboard",
+    "already": "Already Have An Account?"
+  }
+}

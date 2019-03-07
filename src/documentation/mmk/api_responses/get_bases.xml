@@ -1,0 +1,892 @@
+<root>
+<base id="87964150000100000" name="Cala Bitta" city="Genova" country="IT" address="" regionids="19" longitude="9.469442" latitude="41.126387" countryid="380" ></base>
+<base id="1639588120000100000" name="Port of Lefkada" city="Lefkada" country="GR" address="" regionids="7" longitude="20.711465" latitude="38.833613" countryid="300" ></base>
+<base id="699887620000100000" name="Spetses" city="Spetses" country="GR" address="" regionids="35" longitude="23.156261" latitude="37.267568" countryid="300" ></base>
+<base id="1159993560000100000" name="Marina d'Empuriabrava" city="Girona" country="ES" address="Calle Empuriabrava" regionids="46" longitude="3.129171" latitude="42.249443" countryid="724" ></base>
+<base id="403284610000100000" name="Antalya" city="Antalya" country="TR" address="" regionids="12" longitude="30.606022" latitude="36.833135" countryid="792" ></base>
+<base id="463596040000100000" name="Koh Chang" city="Koh Chang" country="TH" address="" regionids="34" longitude="102.375391" latitude="11.994897" countryid="764" ></base>
+<base id="699589680000100000" name="Nafplion" city="Nafplion" country="GR" address="" regionids="35" longitude="22.800722" latitude="37.572915" countryid="300" ></base>
+<base id="125712970000100000" name="Palermo" city="Palermo" country="IT" address="" regionids="20" longitude="13.368452" latitude="38.120226" countryid="380" ></base>
+<base id="699894660000100000" name="Hydra port" city="Hydra" country="GR" address="" regionids="35" longitude="23.465815" latitude="37.350635" countryid="300" ></base>
+<base id="1415674960000100000" name="Fornells" city="Fornells - Menorca" country="ES" address="" regionids="13" longitude="4.130274" latitude="40.055167" countryid="724" ></base>
+<base id="1415670160000100000" name="Tangier" city="Tangier" country="MA" address="" regionids="43,14" longitude="-5.803749" latitude="35.789881" countryid="504" ></base>
+<base id="1515862620000100000" name="Porticciolo di Bosa" city="Bosa" country="IT" address="Fiume Temo" regionids="21" longitude="8.480557" latitude="40.294186" countryid="380" ></base>
+<base id="1470547850000100000" name="Nydri Port" city="Nydri - Lefkada" country="GR" address="" regionids="7" longitude="20.711536" latitude="38.707200" countryid="300" ></base>
+<base id="489364700000100000" name="Messolonghi Marina" city="Messolonghi" country="GR" address="Port of Messolonghi" regionids="7" longitude="21.423483" latitude="38.360907" countryid="300" ></base>
+<base id="445459400000100000" name="Patras" city="Patras" country="GR" address="" regionids="7" longitude="21.727009" latitude="38.24573" countryid="300" ></base>
+<base id="499209120000100000" name="Kortgene" city="Kortgene" country="NL" address="" regionids="31" longitude="3.806591" latitude="51.553807" countryid="528" ></base>
+<base id="1415670040000100000" name="Agadir" city="Agadir" country="MA" address="" regionids="14,29" longitude="-9.638765" latitude="30.424091" countryid="504" ></base>
+<base id="408010280000100000" name="Kuurne" city="Kuurne" country="BE" address="" regionids="30" longitude="3.29253" latitude="50.847966" countryid="56" ></base>
+<base id="768421750000100000" name="Nea Moudania" city="Nea Moudania" country="GR" address="" regionids="47" longitude="23.279514" latitude="40.239257" countryid="300" ></base>
+<base id="408005720000100000" name="Lübeck" city="Lübeck" country="DE" address="" regionids="27" longitude="10.676157" latitude="53.856197" countryid="276" ></base>
+<base id="1901793010000100000" name="Playa del Carmen" city="Playa del Carmen" country="MX" address="" regionids="28" longitude="-87.069027" latitude="20.627128" countryid="484" ></base>
+<base id="644490080000100000" name="Marigot Bay" city="Marigot" country="FR" address="" regionids="28" longitude="-63.089760" latitude="18.066902" countryid="250" ></base>
+<base id="669525520000100000" name="Marina Rubicon" city="Lanzarote" country="ES" address="Calle el Berrugo 2" regionids="14" longitude="-13.816439" latitude="28.857304" countryid="724" ></base>
+<base id="101840580000100000" name="Jezera Port" city="Murter" country="HR" address="" regionids="4,3" longitude="15.643533" latitude="43.7852" countryid="191" ></base>
+<base id="136337480000100000" name="Breege" city="Insel Rügen" country="DE" address="" regionids="30" longitude="13.357272" latitude="54.612194" countryid="276" ></base>
+<base id="527642600000100000" name="Marina Port de Mallorca" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.629471" latitude="39.564331" countryid="724" ></base>
+<base id="735305770000100000" name="Portopiccolo" city="Sistiana" country="IT" address="Strada Costiera, Km 137" regionids="1,17" longitude="13.634861" latitude="45.764874" countryid="380" ></base>
+<base id="1521356550000100000" name="ACI Marina Piškera" city="Kornati" country="HR" address="Kornati" regionids="4,3" longitude="15.346134" latitude="43.758768" countryid="191" ></base>
+<base id="787909370000100000" name="Annapolis" city="Annapolis" country="US" address="Severn Ave " regionids="42" longitude="-76.482367" latitude="38.973060" countryid="840" ></base>
+<base id="76171230000100000" name="Moltrasio" city="Moltrasio" country="IT" address="" regionids="30" longitude="9.103214" latitude="45.861228" countryid="380" ></base>
+<base id="1111983520000100000" name="Club Náutico Puerto Colón" city="Santa Cruz de Tenerife" country="ES" address="Costa Adeje" regionids="14" longitude="-16.736900" latitude="28.078097" countryid="724" ></base>
+<base id="527535120000100000" name="Müritz" city="Müritz" country="DE" address="" regionids="30" longitude="12.633517" latitude="53.508445" countryid="276" ></base>
+<base id="1169053360000100000" name="Marina El Portet" city="Denia" country="ES" address="Moll de la pansa s/n" regionids="13" longitude="0.111676" latitude="38.846387" countryid="724" ></base>
+<base id="388789160000100000" name="Rabac" city="Rabac" country="HR" address="Obala Maršala Tita bb" regionids="1" longitude="14.158936" latitude="45.078207" countryid="191" ></base>
+<base id="1280319150000100000" name="Apooiti Marina" city="Raiatea" country="PF" address="" regionids="32" longitude="-151.477205" latitude="-16.727606" countryid="258" ></base>
+<base id="46618580000100000" name="Lulea" city="Lulea" country="SE" address="" regionids="27" longitude="22.164102" latitude="65.579679" countryid="752" ></base>
+<base id="943611970000100000" name="Brbinj" city="Brbinj" country="HR" address="" regionids="2" longitude="14.996499" latitude="44.084324" countryid="191" ></base>
+<base id="193133180000100000" name="Stockholm / Bullandö" city="Stockholm - Värmdö" country="SE" address="" regionids="27" longitude="18.650841" latitude="59.29976" countryid="752" ></base>
+<base id="374280440000100000" name="Novalja" city="Novalja" country="HR" address="" regionids="4,2" longitude="14.881035" latitude="44.556304" countryid="191" ></base>
+<base id="1169015250000100000" name="PTTK Wilkasy" city="Wilkasy" country="PL" address="Niegocińska 1" regionids="30" longitude="21.736938" latitude="54.010532" countryid="616" ></base>
+<base id="32071270000100000" name="Andora" city="Andora" country="IT" address="" regionids="19" longitude="8.156404" latitude="43.950826" countryid="380" ></base>
+<base id="1615999170000100000" name="Marina Sveva" city="Marina di Montenero di Bisaccia" country="IT" address="Località Costa Verde" regionids="17" longitude="14.788836" latitude="42.067676" countryid="380" ></base>
+<base id="1678296540000100000" name="Marina dell'Isola" city="Golfo Aranci" country="IT" address="Via S'isuledda 13" regionids="21" longitude="9.34277" latitude="41.00249" countryid="380" ></base>
+<base id="634825100000100000" name="JY Harbour view" city="East End" country="VG" address="P.O. Box 2814" regionids="28" longitude="-64.564109" latitude="18.439352" countryid="92" ></base>
+<base id="28997400000100000" name="Port de Saint-Mandrier" city="Saint-Mandrier-sur-Mer" country="FR" address="Annexe Bailli de Suffren, Quai Severine" regionids="15" longitude="5.925658" latitude="43.079401" countryid="250" ></base>
+<base id="808983000000100000" name="Kalymnos" city="Kalimnos" country="GR" address="" regionids="9" longitude="26.985034" latitude="36.948476" countryid="300" ></base>
+<base id="1415670120000100000" name="Casablanca" city="Casablanca" country="MA" address="" regionids="29" longitude="-7.601950" latitude="33.602991" countryid="504" ></base>
+<base id="1110312260000100000" name="Beruwela" city="Beruwela" country="LK" address="" regionids="37" longitude="79.979897" latitude="6.475574" countryid="144" ></base>
+<base id="43454550000100000" name="Bar" city="Bar" country="ME" address="" regionids="6" longitude="19.087737" latitude="42.098127" countryid="499" ></base>
+<base id="484660910000100000" name="Kos Port" city="Kos" country="GR" address="" regionids="9" longitude="27.28780" latitude="36.89589" countryid="300" ></base>
+<base id="1179956580000100000" name="Castelsarrasin" city="Castelsarrasin" country="FR" address="1-2 Allée de Verdun" regionids="30" longitude="1.111329" latitude="44.040361" countryid="250" ></base>
+<base id="413669780000100000" name="Marina di Portovenere" city="La Spezia" country="IT" address="" regionids="19" longitude="9.835392" latitude="44.051169" countryid="380" ></base>
+<base id="1179956800000100000" name="Douelle" city="Douelle" country="FR" address="329 Le Moulinat" regionids="30" longitude="1.362090" latitude="44.473233" countryid="250" ></base>
+<base id="1759551410000100000" name="Sucé-sur-Erdre" city="Sucé-sur-Erdre" country="FR" address="" regionids="30" longitude="-1.524974" latitude="47.339005" countryid="250" ></base>
+<base id="1759485000000100000" name="Bouziès" city="Bouziès," country="FR" address="" regionids="30" longitude="1.644675" latitude="44.484818" countryid="250" ></base>
+<base id="81403770000100000" name="Rapoca Nerezine" city="Nerezine, Mali Lošinj" country="HR" address="" regionids="1" longitude="14.398624" latitude="44.660042" countryid="191" ></base>
+<base id="1210117960000100000" name="Porto di San Benedetto del Tronto" city="San Benedetto del Tronto" country="IT" address="" regionids="17" longitude="13.888905" latitude="42.954751" countryid="380" ></base>
+<base id="30063580000100000" name="Stockholm / Nyköping" city="Nyköping" country="SE" address="" regionids="27" longitude="17.011926" latitude="58.74352" countryid="752" ></base>
+<base id="1764127940000100000" name="4th Marina Glyfada" city="Glyfada - Athens" country="GR" address="" regionids="35" longitude="23.734950" latitude="37.870717" countryid="300" ></base>
+<base id="297991180000100000" name="Potsdam" city="Potsdam" country="DE" address="" regionids="30" longitude="13.072373" latitude="52.396691" countryid="276" ></base>
+<base id="653909930000100000" name="Airlie beach" city="Airlie" country="AU" address="" regionids="33" longitude="148.721866" latitude="-20.266476" countryid="36" ></base>
+<base id="502752020000100000" name="Marina Lauterbach" city="Lauterbach" country="DE" address="" regionids="27" longitude="13.50297" latitude="54.341699" countryid="276" ></base>
+<base id="1058589980000100000" name="Marina Vento di Venezia" city="Venezia" country="IT" address="Isola della Certosa" regionids="17" longitude="12.373814" latitude="45.436215" countryid="380" ></base>
+<base id="792677360000100000" name="Langedrags Yacht Club" city="Göteborg" country="SE" address="Solhöjdsgatan 16" regionids="27" longitude="11.850486" latitude="57.670506" countryid="752" ></base>
+<base id="670102950000100000" name="Tilos" city="Tilos" country="GR" address="" regionids="9" longitude="27.310873" latitude="36.453931" countryid="300" ></base>
+<base id="27999860000100000" name="Bogliaco di Gargnano" city="Bogliaco di Gargnano" country="IT" address="" regionids="30" longitude="10.653445" latitude="45.671291" countryid="380" ></base>
+<base id="1179993210000100000" name="Laggan" city="Spean Bridge" country="GB" address="Laggan Lakes" regionids="30" longitude="-4.825678" latitude="57.025992" countryid="826" ></base>
+<base id="431893660000100000" name="Dyvig" city="Nordborg" country="DK" address="" regionids="27" longitude="9.704897" latitude="55.042323" countryid="208" ></base>
+<base id="1715320000100000" name="Monaco" city="Monaco" country="MC" address="" regionids="15" longitude="7.42429" latitude="43.734841" countryid="492" ></base>
+<base id="18221310000100000" name="Marina Agana" city="Marina" country="HR" address="Dr. Franje Tuđmana 5" regionids="5" longitude="16.112457" latitude="43.513635" countryid="191" ></base>
+<base id="1759549890000100000" name="Sireuil" city="Sireuil" country="FR" address="" regionids="30" longitude="0.025075" latitude="45.605615" countryid="250" ></base>
+<base id="804996670000100000" name="Petrčane" city="Petrčane" country="HR" address="" regionids="2" longitude="15.154178" latitude="44.185450" countryid="191" ></base>
+<base id="1002670950000100000" name="Tigne Seafront" city="Sliema" country="MT" address="33/34 Tigne Seafront" regionids="44" longitude="14.506155" latitude="35.908167" countryid="470" ></base>
+<base id="225694990000100000" name="Ancona" city="Ancona" country="IT" address="" regionids="17" longitude="13.484366" latitude="43.609653" countryid="380" ></base>
+<base id="1759503920000100000" name="Glénac" city="Glénac" country="FR" address="9 Rue du Marais" regionids="30" longitude="-2.133656" latitude="47.723936" countryid="250" ></base>
+<base id="642935250000100000" name="Klaipedos uostas" city="Klaipeda" country="LT" address="" regionids="27" longitude="21.128622" latitude="55.706575" countryid="440" ></base>
+<base id="1179953740000100000" name="Beaucaire" city="Beaucaire" country="FR" address="26-28 Quai du Général de Gaulle" regionids="30" longitude="4.644806" latitude="43.805645" countryid="250" ></base>
+<base id="164747110000100000" name="Veli Rat City port" city="Veli Rat" country="HR" address="Veli Rat, Dugi otok" regionids="4,2" longitude="14.84725" latitude="44.143753" countryid="191" ></base>
+<base id="17807830000100000" name="Marina di Izola" city="Izola" country="SI" address="Tomaziceva 4a" regionids="1" longitude="13.65238" latitude="45.534739" countryid="705" ></base>
+<base id="387878850000100000" name="Kas" city="Kas" country="TR" address="" regionids="12" longitude="29.629526" latitude="36.204841" countryid="792" ></base>
+<base id="1481752500000100000" name="Marina Pirovac" city="Pirovac" country="HR" address="Obala Rtine 15" regionids="4,3" longitude="15.664250" latitude="43.816994" countryid="191" ></base>
+<base id="757699090000100000" name="Nikiana Marina" city="Lefkada" country="GR" address="" regionids="7" longitude="20.721293" latitude="38.761025" countryid="300" ></base>
+<base id="1361258790000100000" name="Luka Krilo" city="Jesenice - Dugi Rat" country="HR" address="" regionids="5" longitude="16.598991" latitude="43.460143" countryid="191" ></base>
+<base id="425515980000100000" name="Lagos - Marina de Lagos" city="Lagos" country="PT" address="" regionids="29" longitude="-8.675058" latitude="37.109579" countryid="620" ></base>
+<base id="760225120000100000" name="Real Club Nautico de Vigo" city="Pontevedra" country="ES" address="As Avenidas, sn, 36202" regionids="29" longitude="-8.724165" latitude="42.241667" countryid="724" ></base>
+<base id="1175136750000100000" name="Port Sztynort" city="Węgorzewo" country="PL" address="Sztynort Duży 11" regionids="30" longitude="21.683445" latitude="54.129818" countryid="616" ></base>
+<base id="85786000000100000" name="Port Ginesta" city="Sitges, Barcelona" country="ES" address="" regionids="13" longitude="1.925054" latitude="41.259066" countryid="724" ></base>
+<base id="229312480000100000" name="Orhaniye" city="Orhaniye" country="TR" address="" regionids="26" longitude="28.126824" latitude="36.770672" countryid="792" ></base>
+<base id="1759490640000100000" name="Buzet-sur-Baïse" city="Buzet-sur-Baïse" country="FR" address="" regionids="30" longitude="0.300749" latitude="44.261265" countryid="250" ></base>
+<base id="359951920000100000" name="Roses (Costa Brava)" city="Roses" country="ES" address="" regionids="46" longitude="3.178074" latitude="42.256666" countryid="724" ></base>
+<base id="1174086260000100000" name="Quigley's marina" city="Athlone" country="IE" address="" regionids="30" longitude="-7.923335" latitude="53.465641" countryid="372" ></base>
+<base id="771017520000100000" name="Trellis Bay" city="Trellis Bay" country="VG" address="" regionids="28" longitude="-64.532723" latitude="18.448789" countryid="92" ></base>
+<base id="648923370000100000" name="Malta - Kalokira" city="Kalokira" country="MT" address="" regionids="44" longitude="14.523704" latitude="35.890615" countryid="470" ></base>
+<base id="1416239970000100000" name="Palm Cay One Marina" city="Nassau" country="BS" address="Yamacraw Hill Road" regionids="28" longitude="-77.273573" latitude="25.020033" countryid="44" ></base>
+<base id="12558970000100000" name="Golfe Juan" city="Golfe Juan" country="FR" address="" regionids="15" longitude="7.078564" latitude="43.565482" countryid="250" ></base>
+<base id="463596440000100000" name="Koh Samui" city="Koh Samui" country="TH" address="" regionids="34" longitude="100.057490" latitude="9.512583" countryid="764" ></base>
+<base id="254922430000100000" name="Placencia" city="Placencia" country="BZ" address="" regionids="28" longitude="-88.366545" latitude="16.511916" countryid="84" ></base>
+<base id="1280262330000100000" name="Wickhams Cay II Marina" city="Road Town" country="VG" address="" regionids="28" longitude="-64.614444" latitude="18.427137" countryid="92" ></base>
+<base id="971079720000100000" name="Ventotene" city="Ventotene" country="IT" address="Via Porto Romano 1" regionids="18" longitude="13.433908" latitude="40.798099" countryid="380" ></base>
+<base id="707019720000100000" name="Real Club Nautico de Palma" city="Palma de Mallorca" country="ES" address="Plaza de San Pedro 1" regionids="13" longitude="2.638349" latitude="39.567080" countryid="724" ></base>
+<base id="18220780000100000" name="Lavrion Main Port" city="Lavrion" country="GR" address="" regionids="35,10" longitude="24.05771" latitude="37.71099" countryid="300" ></base>
+<base id="668846360000100000" name="Canouan" city="Canouan" country="VC" address="" regionids="28" longitude="-61.328132" latitude="12.704712" countryid="670" ></base>
+<base id="1174030990000100000" name="Chioggia" city="Chioggia" country="IT" address="" regionids="30" longitude="12.278746" latitude="45.225539" countryid="380" ></base>
+<base id="915188960000100000" name="Ueckermünde" city="Ueckermünde" country="DE" address="" regionids="27" longitude="14.068074" latitude="53.753106" countryid="276" ></base>
+<base id="652444350000100000" name="Ayvalik-Cunda" city="Ayvalik-Cunda" country="TR" address="" regionids="50,47" longitude="26.655786" latitude="39.330675" countryid="792" ></base>
+<base id="178815840000100000" name="Lauterbach / Rugen" city="Lauterbach" country="DE" address="" regionids="30" longitude="13.505362" latitude="54.341355" countryid="276" ></base>
+<base id="183989520000100000" name="Harstad" city="Harstad" country="NO" address="" regionids="22" longitude="16.542267" latitude="68.784738" countryid="578" ></base>
+<base id="182777280000100000" name="Marigny sur Yonne" city="Marigny sur Yonne - Corbigny" country="FR" address="" regionids="30" longitude="3.656709" latitude="47.27896" countryid="250" ></base>
+<base id="41284650000100000" name="Fort Lauderdale" city="Fort Lauderdale - Florida" country="US" address="" regionids="28" longitude="-80.117294" latitude="26.102248" countryid="840" ></base>
+<base id="883427720000100000" name="Marina do Funchal" city="Funchal" country="PT" address="Funchal" regionids="29" longitude="-16.910557" latitude="32.646049" countryid="620" ></base>
+<base id="21498960000100000" name="Stockholm" city="Stockholm" country="SE" address="" regionids="27" longitude="18.09085" latitude="59.330834" countryid="752" ></base>
+<base id="883068590000100000" name="Marina de Portimao" city="Portimao" country="PT" address="Ponta da Areia" regionids="29" longitude="-8.528531" latitude="37.118393" countryid="620" ></base>
+<base id="1759506650000100000" name="Grez-Neuville" city="Grez-Neuville" country="FR" address="" regionids="30" longitude="-0.686539" latitude="47.602549" countryid="250" ></base>
+<base id="227706150000100000" name="Rugen" city="Rügen" country="DE" address="" regionids="30" longitude="13.333878" latitude="54.278415" countryid="276" ></base>
+<base id="326972350000100000" name="Porto di Roma" city="Rome" country="IT" address="" regionids="18" longitude="12.24776" latitude="41.737344" countryid="380" ></base>
+<base id="1159988250000100000" name="Harbour Towne Marina" city="Dania Beach" country="US" address="801 Northeast Third Street" regionids="28" longitude="-80129468" latitude="26.058228" countryid="840" ></base>
+<base id="1057117010000100000" name="Muo City port" city="Muo" country="ME" address="Muo b.b." regionids="6" longitude="18.756989" latitude="42.434743" countryid="499" ></base>
+<base id="124093520000100000" name="Tioman Island Marina" city="Tioman" country="MY" address="" regionids="34" longitude="104.155818" latitude="2.818004" countryid="458" ></base>
+<base id="125200580000100000" name="Port el Masnou" city="El Masnou" country="ES" address="Costa Barcelona-Maresme" regionids="13" longitude="2.314596" latitude="41.4764" countryid="724" ></base>
+<base id="1055933910000100000" name="Athens Marina S.A." city="Piraeus" country="GR" address="New Faliro" regionids="35,10" longitude="23.670206" latitude="37.941734" countryid="300" ></base>
+<base id="1353130670000100000" name="Puerto Deportivo Radazul" city="Radazul" country="ES" address="Urb. Radazul, s/n" regionids="14" longitude="-16.321502" latitude="28.400831" countryid="724" ></base>
+<base id="602605910000100000" name="Georgetown Harbour" city="Ascension Island - Georgetown" country="GB" address="" regionids="40" longitude="-14.414115" latitude="-7.925056" countryid="826" ></base>
+<base id="1195210330000100000" name="Marina Nautika Murter" city="Murter" country="HR" address="Barenova 6" regionids="4,3" longitude="15.587942" latitude="43.821639" countryid="191" ></base>
+<base id="397535550000100000" name="Granville" city="Granville" country="FR" address="" regionids="29" longitude="-1.598833" latitude="48.833764" countryid="250" ></base>
+<base id="1738416180000100000" name="Marina Puntica" city="Medulin" country="HR" address="" regionids="1" longitude="13.928947" latitude="44.814654" countryid="191" ></base>
+<base id="219659670000100000" name="Cesme" city="Cesme - Izmir Provence" country="TR" address="" regionids="50" longitude="26.344528" latitude="38.322947" countryid="792" ></base>
+<base id="644496010000100000" name="Soper`s Hole Marina" city="Soper`s Hole" country="VG" address="" regionids="28" longitude="-64.701745" latitude="18.385770" countryid="92" ></base>
+<base id="714360070000100000" name="Symi " city="Ano Symi" country="GR" address="" regionids="35,12" longitude="27.836534" latitude="36.615538" countryid="300" ></base>
+<base id="1174003230000100000" name="Argens-Minervois" city="Argens-Minervois" country="FR" address="" regionids="30" longitude="2.768343" latitude="43.240387" countryid="250" ></base>
+<base id="1173975050000100000" name="Joigny" city="Joigny" country="FR" address="" regionids="30" longitude="3.390967" latitude="47.981608" countryid="250" ></base>
+<base id="182736760000100000" name="Wiek / Rügen" city="Wiek" country="DE" address="" regionids="30" longitude="13.284347" latitude="54.621028" countryid="276" ></base>
+<base id="1286449760000100000" name="Miami Beach Marina" city="Miami Beach" country="US" address="300 Alton Rd." regionids="28" longitude="-80.139570" latitude="25.771631" countryid="840" ></base>
+<base id="1999447910000100000" name="Asker Marina" city="Oslo - Leangbukta" country="NO" address="Leangbukta 50" regionids="31" longitude="10.472096" latitude="59.834489" countryid="578" ></base>
+<base id="1094227110000100000" name="Marina Solna" city="Kolobrzeg" country="PL" address="Warzelnicza 1" regionids="27" longitude="15.559265" latitude="54.179909" countryid="616" ></base>
+<base id="262753060000100000" name="Porto San Rocco" city="Muggia" country="IT" address="Strada Per Lazzaretto 2" regionids="17" longitude="13.753319" latitude="45.607232" countryid="380" ></base>
+<base id="1179973860000100000" name="Decize" city="Decize" country="FR" address="La Jonction" regionids="30" longitude="3.454117" latitude="46.820950" countryid="250" ></base>
+<base id="645020290000100000" name="Cala del Sole Marina" city="Licata" country="IT" address="" regionids="20" longitude="13.943866" latitude="37.096555" countryid="380" ></base>
+<base id="13" name="Alimos Marina" city="Athens" country="GR" address="" regionids="35,10" longitude="23.704429" latitude="37.914129" countryid="300" ></base>
+<base id="1759494190000100000" name="Dole" city="Dole" country="FR" address="" regionids="30" longitude="5.496912" latitude="47.091633" countryid="250" ></base>
+<base id="15" name="Marina Kos" city="Kos" country="GR" address="" regionids="9" longitude="27.302474" latitude="36.891437" countryid="300" ></base>
+<base id="17" name="Msida Yacht Marina" city="Msida" country="MT" address="" regionids="44" longitude="14.495285" latitude="35.897018" countryid="470" ></base>
+<base id="532139690000100000" name="Trget Port" city="Pula" country="HR" address="" regionids="1" longitude="14.055934" latitude="45.020945" countryid="191" ></base>
+<base id="22" name="Finikas port" city="Syros" country="GR" address="" regionids="10" longitude="24.876063" latitude="37.397598" countryid="300" ></base>
+<base id="564479650000100000" name="Vrgada Island" city="Vrgada" country="HR" address="" regionids="6,4,5,2,3" longitude="15.503973" latitude="43.857892" countryid="191" ></base>
+<base id="937132170000100000" name="Malé" city="Malé" country="MV" address="" regionids="37" longitude="73.508296" latitude="4.180428" countryid="462" ></base>
+<base id="35" name="St. Tropez" city="Saint Tropez" country="FR" address="" regionids="15" longitude="6.637115" latitude="43.271831" countryid="250" ></base>
+<base id="36" name="Cannes" city="Cannes" country="FR" address="" regionids="15" longitude="7.014556" latitude="43.549621" countryid="250" ></base>
+<base id="1179970410000100000" name="Nort-sur-Erdre" city="Nort-sur-Erdre" country="FR" address="2 Rue Saint-Georges" regionids="30" longitude="-1.494225" latitude="47.438815" countryid="250" ></base>
+<base id="43" name="Inner Harbour Marina" city="Road Town" country="VG" address="" regionids="28" longitude="-64.615018" latitude="18.426301" countryid="92" ></base>
+<base id="1295371210000100000" name="BoatCenter S.A." city="Setúbal" country="PT" address="Trem Naval de Santa Catarina - Edif. Boatcenter N10-4" regionids="29" longitude="-8.8365570" latitude="38.495394" countryid="620" ></base>
+<base id="26391120000100000" name="Poros" city="Poros" country="GR" address="" regionids="10" longitude="23.453606" latitude="37.501887" countryid="300" ></base>
+<base id="16549900000100000" name="Paseo Maritimo" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.636107" latitude="39.567745" countryid="724" ></base>
+<base id="53" name="Normandy" city="Le Havre" country="FR" address="" regionids="16" longitude="0.095744" latitude="49.489037" countryid="250" ></base>
+<base id="602591790000100000" name="Jamestown Harbour" city="St.Helena - Jamestown" country="GB" address="The Wharf" regionids="40" longitude="-5.717845" latitude="-15.920908" countryid="826" ></base>
+<base id="70" name="Dingle" city="Dingle" country="IE" address="" regionids="29" longitude="-10.272624" latitude="52.1379" countryid="372" ></base>
+<base id="1484864760000100000" name="WSV Sint-Annaland" city="Sint-Annaland" country="NL" address="Havenweg 12" regionids="31" longitude="4.106614" latitude="51.604758" countryid="528" ></base>
+<base id="1752293500000100000" name="Port De Segur De Calafell" city="Segur De Calafell - Barcelona" country="ES" address="Plaa Port, 1, T, Spain" regionids="13" longitude="1.606851" latitude="41.187505" countryid="724" ></base>
+<base id="85083630000100000" name="Nosy Be" city="Hell-Ville" country="MG" address="" regionids="37" longitude="48.268840" latitude="-13.403761" countryid="450" ></base>
+<base id="85" name="Yacht Haven Marina" city="Phuket" country="TH" address="" regionids="34" longitude="98.339464" latitude="8.170915" countryid="764" ></base>
+<base id="178815780000100000" name="Hooksiel" city="Hooksiel" country="DE" address="" regionids="30" longitude="8.045726" latitude="53.633875" countryid="276" ></base>
+<base id="757700960000100000" name="Lac de Neuchâtel" city="Neuchâtel" country="CH" address="" regionids="30" longitude="6.86722" latitude="46.90778" countryid="756" ></base>
+<base id="142715160000100000" name="Rostock" city="Rostock" country="DE" address="" regionids="30" longitude="12.12411" latitude="54.094744" countryid="276" ></base>
+<base id="1142852090000100000" name="Marina Kröslin" city="Kröslin" country="DE" address="Hafenstraße 9" regionids="27" longitude="13.753611" latitude="54.121508" countryid="276" ></base>
+<base id="679323980000100000" name="Latvia - Riga Andrejosta Marina" city="Riga LV " country="LV" address="Exporta iela 1A" regionids="27" longitude="24.097716" latitude="56.958845" countryid="428" ></base>
+<base id="410786970000100000" name="Douro Marina" city="Porto" country="PT" address="" regionids="29" longitude="-8.578767" latitude="41.143485" countryid="620" ></base>
+<base id="104" name="Palamos" city="Palamos" country="ES" address="" regionids="13" longitude="3.134429" latitude="41.846196" countryid="724" ></base>
+<base id="1179943960000100000" name="Trèbes" city="Trèbes" country="FR" address="2 Route de Bézier" regionids="30" longitude="2.443703" latitude="43.210101" countryid="250" ></base>
+<base id="1145646610000100000" name="Albatros Marina" city="Marmaris" country="TR" address="" regionids="26" longitude="28.286357" latitude="36.844165" countryid="792" ></base>
+<base id="1922830280000100000" name="Marina Novi" city="Novi Vinodolski" country="HR" address="" regionids="1" longitude="14.786391" latitude="54.127717" countryid="191" ></base>
+<base id="1035234080000100000" name="Setur Gökova Ören Marina" city="Milas/Muğla" country="TR" address="Yalı Mah" regionids="25,26" longitude="27.982356" latitude="37.031231" countryid="792" ></base>
+<base id="685753910000100000" name="ACI Marina Rovinj" city="Rovinj" country="HR" address="Šetal﻿ište vijeća Europe 1" regionids="1" longitude="13.635728" latitude="45.075830" countryid="191" ></base>
+<base id="679323330000100000" name="Jolly Harbour Marina" city="Bolans, Antigua" country="AG" address="" regionids="28" longitude="-61.885445" latitude="17.069295" countryid="28" ></base>
+<base id="1179933570000100000" name="Marina di Villaputzu" city="Villaputzu" country="IT" address="SP99" regionids="21" longitude="9.639511" latitude="39.439889" countryid="380" ></base>
+<base id="123" name="ACI Marina Pomer" city="Pomer" country="HR" address="" regionids="1" longitude="13.902324" latitude="44.822448" countryid="191" ></base>
+<base id="127145070000100000" name="Finike" city="Finike" country="TR" address="" regionids="26" longitude="30.150304" latitude="36.293717" countryid="792" ></base>
+<base id="28116520000100000" name="St. Lucia - Rodney Bay Marina" city="Gros Islet" country="LC" address="" regionids="28" longitude="-60.948158" latitude="14.074966" countryid="662" ></base>
+<base id="26782830000100000" name="Stockholm / Gashaga" city="Lindigo" country="SE" address="Slipvägen 7" regionids="27" longitude="18.232092" latitude="59.358336" countryid="752" ></base>
+<base id="670028170000100000" name="Porto di Cecina" city="Cecina" country="IT" address="" regionids="19" longitude="10.4856" latitude="43.3031" countryid="380" ></base>
+<base id="808980160000100000" name="Port Skala" city="Skala - Patmos" country="GR" address="" regionids="35,10,9" longitude="26.545073" latitude="37.323956" countryid="300" ></base>
+<base id="153" name="Zakynthos" city="Zakynthos" country="GR" address="" regionids="7" longitude="20.901958" latitude="37.783316" countryid="300" ></base>
+<base id="183920730000100000" name="Muiden" city="Muiden" country="NL" address="Weesperweg 2b" regionids="31" longitude="5.068431" latitude="52.33551" countryid="528" ></base>
+<base id="159" name="Marina Santa Cruz de Tenerife" city="Santa Cruz de Tenerife" country="ES" address="Muelle de Enlace, Darsena de Los Llanos s.n." regionids="14" longitude="-16.243964" latitude="28.466371" countryid="724" ></base>
+<base id="163" name="Marina Alicante" city="Alicante" country="ES" address="Muelle 8, Zona de Levante" regionids="43" longitude="-0.480716" latitude="38.340722" countryid="724" ></base>
+<base id="165" name="Alonissos" city="Alonissos" country="GR" address="" regionids="8" longitude="23.944724" latitude="39.271592" countryid="300" ></base>
+<base id="947919930000100000" name="Lixouri Port" city="Lixouri - Kefalonia" country="GR" address="" regionids="7" longitude="20.441355" latitude="38.199952" countryid="300" ></base>
+<base id="956454820000100000" name="Marina Villa Igiea" city="Palermo" country="IT" address="Via San Guli 41" regionids="20" longitude="13.370501" latitude="38.143332" countryid="380" ></base>
+<base id="2018566110000100000" name="Marina Banjole" city="Banjole, Pula" country="HR" address="Glavica 7" regionids="1" longitude="13.865364" latitude="44.820828" countryid="191" ></base>
+<base id="170" name="Bandol" city="Bandol" country="FR" address="" regionids="15" longitude="5.754647" latitude="43.133453" countryid="250" ></base>
+<base id="171" name="Bari" city="Bari" country="IT" address="" regionids="17" longitude="16.875139" latitude="41.127074" countryid="380" ></base>
+<base id="1174004360000100000" name="Cahors" city="Cahors" country="FR" address="" regionids="30" longitude="1.429218" latitude="44.454436" countryid="250" ></base>
+<base id="976070290000100000" name="Porto di Palmi" city="Palmi" country="IT" address="" regionids="20,18" longitude="15.862115" latitude="38.390662" countryid="380" ></base>
+<base id="484655120000100000" name="Olympic Marina" city="Lavrion" country="GR" address="Efstathiou Vogiatzi 20" regionids="35,10" longitude="24.06044" latitude="37.69547" countryid="300" ></base>
+<base id="21498940000100000" name="Finland - Aeland Islands - Mariehamn" city="Mariehamn" country="FI" address="" regionids="27" longitude="19.947867" latitude="60.100008" countryid="246" ></base>
+<base id="243813630000100000" name="Nea Moudania" city="Nea Moudania - Chalkidiki" country="GR" address="" regionids="47" longitude="23.278549" latitude="40.237769" countryid="300" ></base>
+<base id="194" name="Lefkas Marina" city="Lefkada" country="GR" address="East Shore" regionids="7" longitude="20.711814" latitude="38.830147" countryid="300" ></base>
+<base id="1478970860000100000" name="Reykjavk Old Harbour" city="Reykjavik" country="IS" address="Ægisgarður, Suðurbugt" regionids="22,29" longitude="-21.939894" latitude="64.151207" countryid="352" ></base>
+<base id="699636380000100000" name="Otranto" city="Otranto" country="IT" address="" regionids="7,17" longitude="18.497229" latitude="40.147461" countryid="380" ></base>
+<base id="125597470000100000" name="Portocolom" city="Portocolom" country="ES" address="" regionids="13" longitude="3.262124" latitude="39.423978" countryid="724" ></base>
+<base id="644516650000100000" name="Linea harbour" city="La Linea de la Concepcion" country="ES" address="" regionids="43,29" longitude="-5.359300" latitude="36.158077" countryid="724" ></base>
+<base id="207" name="Nanny Cay" city="Nanny Cay" country="VG" address="" regionids="28" longitude="-64.63569" latitude="18.398582" countryid="92" ></base>
+<base id="1255163510000100000" name="Marina de Vila Franca do Campo" city="Vila Franca do Campo" country="PT" address="Rua da Marina, apartado 13" regionids="45" longitude="-25.429432" latitude="37.715260" countryid="620" ></base>
+<base id="212" name="Pag City Port" city="Pag" country="HR" address="" regionids="2" longitude="15.052943" latitude="44.444238" countryid="191" ></base>
+<base id="98594180000100000" name="Etrusca" city="Puntone" country="IT" address="" regionids="19" longitude="10.783381" latitude="42.885461" countryid="380" ></base>
+<base id="699817710000100000" name="Marina Argostoli" city="Argostoli - Kefalonia" country="GR" address="" regionids="7" longitude="20.495535" latitude="38.180735" countryid="300" ></base>
+<base id="1078535520000100000" name="Dunstaffnage Marina" city="Dunbeg" country="GB" address="" regionids="29" longitude="-5.432088" latitude="56.450868" countryid="826" ></base>
+<base id="666931350000100000" name="Mytilene" city="Mytilene" country="GR" address="" regionids="47" longitude="26.556861" latitude="39.097610" countryid="300" ></base>
+<base id="22635550000100000" name="Martinique" city="Fort-de-France" country="MQ" address="" regionids="28" longitude="-61.016044" latitude="14.592726" countryid="474" ></base>
+<base id="232" name="Marina Portorosa" city="Furnari" country="IT" address="Via Prestipaolo 7" regionids="20" longitude="15.111597" latitude="38.125100" countryid="380" ></base>
+<base id="411847180000100000" name="La Lonja Marina Charter" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.642727" latitude="39.567489" countryid="724" ></base>
+<base id="1173992030000100000" name="Saint-Leger-sur-Dheune" city="Saint-Leger-sur-Dheune" country="FR" address="" regionids="30" longitude="4.633502" latitude="46.845870" countryid="250" ></base>
+<base id="448140300000100000" name="Port of Tinos" city="Tinos" country="GR" address="" regionids="10" longitude="25.157082" latitude="37.538657" countryid="300" ></base>
+<base id="248" name="Vlichada port" city="Santorini - Vlichada" country="GR" address="" regionids="10" longitude="25.435054" latitude="36.337037" countryid="300" ></base>
+<base id="182777290000100000" name="Capestang" city="Capestang" country="FR" address="" regionids="30" longitude="3.043519" latitude="43.331636" countryid="250" ></base>
+<base id="1396968190000100000" name="Porto di Catania" city="Catania" country="IT" address="" regionids="20" longitude="15.092736" latitude="37.499651" countryid="380" ></base>
+<base id="475004240000100000" name="Mirca" city="Mirca, Brač" country="HR" address="" regionids="5" longitude="" latitude="" countryid="191" ></base>
+<base id="648737010000100000" name="Port de Bram" city="Bram" country="FR" address="9 Port du Canal BP 25" regionids="30" longitude="2.126918" latitude="43.255198" countryid="250" ></base>
+<base id="97936870000100000" name="Palma" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.633135" latitude="39.566066" countryid="724" ></base>
+<base id="40276290000100000" name="Pirovac" city="Pirovac" country="HR" address="" regionids="4,3" longitude="15.666906" latitude="43.816581" countryid="191" ></base>
+<base id="16278890000100000" name="Fažana" city="Pula" country="HR" address="" regionids="1" longitude="13.8105" latitude="44.912498" countryid="191" ></base>
+<base id="292378140000100000" name="Marina di San Lorenzo" city="San Lorenzo al Mare" country="IT" address="" regionids="21" longitude="7.966306" latitude="43.852556" countryid="380" ></base>
+<base id="1106090350000100000" name="Rhodes Marina" city="Rhodes" country="GR" address="" regionids="9" longitude="28.238085" latitude="36.432871" countryid="300" ></base>
+<base id="1252938270000100000" name="Port of Zeebrugge" city="Zeebrugge" country="BE" address="Isabellalaan 1" regionids="31" longitude="3.201374" latitude="51.331673" countryid="56" ></base>
+<base id="29864280000100000" name="Malta - Gzira" city="Gzira" country="MT" address="" regionids="44" longitude="14.497908" latitude="35.902704" countryid="470" ></base>
+<base id="229312680000100000" name="Karacasögüt" city="Karacasögüt" country="TR" address="" regionids="26" longitude="28.186111" latitude="36.941665" countryid="792" ></base>
+<base id="653509020000100000" name="Port of Split" city="Split" country="HR" address="Obala kneza Domagoja 8" regionids="5" longitude="16.441111" latitude="43.504888" countryid="191" ></base>
+<base id="387637260000100000" name="Marina di Ragusa" city="Ragusa" country="IT" address="" regionids="20" longitude="14.545813" latitude="36.781414" countryid="380" ></base>
+<base id="28098750000100000" name="Sant` Agata di Militello" city="Sant` Agata di Militello" country="IT" address="" regionids="20" longitude="14.619321" latitude="38.070684" countryid="380" ></base>
+<base id="1174113310000100000" name="Negra" city="Negra" country="FR" address="" regionids="30" longitude="1.641191" latitude="43.418056" countryid="250" ></base>
+<base id="563368800000100000" name="Porto Lotti" city="La Spezia" country="IT" address="" regionids="19" longitude="9.860469" latitude="44.098341" countryid="380" ></base>
+<base id="22635540000100000" name="IGY Simpson Bay Marina" city="St. Maarten - Philipsburg" country="AN" address="" regionids="28" longitude="-63.089713" latitude="18.034152" countryid="530" ></base>
+<base id="101839670000100000" name="Betina Port" city="Murter" country="HR" address="" regionids="4,3" longitude="15.600779" latitude="43.827491" countryid="191" ></base>
+<base id="26380940000100000" name="ACI Marina Pula" city="Pula" country="HR" address="Riva 1" regionids="1" longitude="13.845134" latitude="44.872963" countryid="191" ></base>
+<base id="124088220000100000" name="Joma Marina" city="Road Town" country="VG" address="Port Purcell" regionids="28" longitude="-64.611610" latitude="18.427397" countryid="92" ></base>
+<base id="1987387590000100000" name="Jachthaven Drachten de Drait" city="Drachten" country="NL" address="Buitensvallaat 2" regionids="30" longitude="6.045472" latitude="53.101600" countryid="528" ></base>
+<base id="945347230000100000" name="Teos Marina" city="Izmir" country="TR" address="Akkum Caddesi 4" regionids="50" longitude="26.783136" latitude="38.190820" countryid="792" ></base>
+<base id="937067560000100000" name="Darsena Acton" city="Naples" country="IT" address="Via Ammiraglio Ferdinando Acton" regionids="18" longitude="14.253844" latitude="40.833908" countryid="380" ></base>
+<base id="187880960000100000" name="Marina di San Vincenzo" city="San Vincenzo" country="IT" address="" regionids="19" longitude="10.537273" latitude="43.100713" countryid="380" ></base>
+<base id="602581100000100000" name="V&amp;A Waterfront Marina" city="Cape Town" country="ZA" address="Beach Rd" regionids="40" longitude="18.414004" latitude="-33.900234" countryid="710" ></base>
+<base id="484637960000100000" name="Kardamena Port" city="Kos" country="GR" address="" regionids="9" longitude="27.1450" latitude="36.7818" countryid="300" ></base>
+<base id="1179985360000100000" name="Casale" city="Cantiere Nautico TV" country="IT" address="Strada Provinciale 67" regionids="30" longitude="12.303829" latitude="45.636145" countryid="380" ></base>
+<base id="178815800000100000" name="Ibiza" city="Ibiza" country="ES" address="" regionids="13" longitude="" latitude="" countryid="724" ></base>
+<base id="1976257640000100000" name="Marina Sivota" city="Syvota" country="GR" address="" regionids="7" longitude="20.238509" latitude="39.408099" countryid="300" ></base>
+<base id="498323110000100000" name="Porto Montenegro" city="Tivat" country="ME" address="" regionids="6" longitude="18.691864" latitude="42.43486" countryid="499" ></base>
+<base id="1759471580000100000" name="Aigues-Mortes" city="Aigues-Mortes " country="FR" address="" regionids="30" longitude="4.188265" latitude="43.567730" countryid="250" ></base>
+<base id="1173950860000100000" name="Marina d'Arechi" city="Salerno" country="IT" address="Via Salvador Allende" regionids="18" longitude="14.818541" latitude="40.641880" countryid="380" ></base>
+<base id="1284728550000100000" name="Bermuda" city="Hamilton" country="BM" address="" regionids="28" longitude="-64.788771" latitude="32.290684" countryid="60" ></base>
+<base id="227120890000100000" name="Kalamata" city="Kalamata" country="GR" address="" regionids="7" longitude="22.106102" latitude="37.024004" countryid="300" ></base>
+<base id="1174092400000100000" name="Lattes" city="Lattes" country="FR" address="" regionids="30" longitude="3.899447" latitude="43.572465" countryid="250" ></base>
+<base id="1759547950000100000" name="Saverne" city="Saverne" country="FR" address="" regionids="30" longitude="7.366805" latitude="48.742568" countryid="250" ></base>
+<base id="1179952620000100000" name="Saint Gilles" city="Saint Gilles" country="FR" address="34 Quai du Canal" regionids="30" longitude="4.435176" latitude="43.674301" countryid="250" ></base>
+<base id="17807840000100000" name="Medulin" city="Medulin" country="HR" address="" regionids="1" longitude="13.933067" latitude="44.817418" countryid="191" ></base>
+<base id="649427990000100000" name="Marina Lanzarote" city="Arrecife" country="ES" address="Capitanía Av. Olof Palme s/n" regionids="14" longitude="-13.540401" latitude="28.963605" countryid="724" ></base>
+<base id="1905127090000100000" name="Kungliga Svenska Segel Sällskapet KSSS" city="Saltsjöbaden - Stockholm" country="SE" address="Hotellvägen 9" regionids="27" longitude="18.315807" latitude="59.278525" countryid="752" ></base>
+<base id="689286200000100000" name="Vandburg Harbour" city="Burgsvik - Gotland" country="SE" address="Hamra Storms 905" regionids="27" longitude="18.309365" latitude="56.944159" countryid="752" ></base>
+<base id="28116500000100000" name="Rio Marina" city="Rio Marina" country="IT" address="" regionids="19" longitude="10.429662" latitude="42.815134" countryid="380" ></base>
+<base id="239296250000100000" name="Largs Yacht Haven" city="Ayrshire" country="GB" address="Irvine Road, Largs" regionids="24" longitude="-4.858146" latitude="55.773508" countryid="826" ></base>
+<base id="1179992240000100000" name="Benson" city="Wellingford" country="GB" address="Oxon OX10 6SJ" regionids="30" longitude="-1.114610" latitude="51.619367" countryid="826" ></base>
+<base id="86915390000100000" name="Tučepi" city="Tučepi" country="HR" address="" regionids="5" longitude="17.057742" latitude="43.263589" countryid="191" ></base>
+<base id="124238260000100000" name="Marina Preko" city="Ugljan" country="HR" address="" regionids="4,2" longitude="15.189084" latitude="44.080437" countryid="191" ></base>
+<base id="2040766580000100000" name="BWSV Beernem" city="Beernem" country="BE" address="Oude Vaartstraat" regionids="30" longitude="3.337285" latitude="51.132975" countryid="56" ></base>
+<base id="1757501920000100000" name="Porto do Porto Santo" city="Porto Santo - Madeira" country="PT" address="" regionids="29" longitude="-16313309" latitude="33.061144" countryid="620" ></base>
+<base id="1415672020000100000" name="Tarifa" city="Tarifa" country="ES" address="" regionids="43,29" longitude="-5.605324" latitude="36.009109" countryid="724" ></base>
+<base id="816703830000100000" name="Bozburun" city="Bozburun" country="TR" address="" regionids="35" longitude="28.0425" latitude="36.69138888888889" countryid="792" ></base>
+<base id="32688140000100000" name="Denia - Alicante" city="Denia" country="ES" address="" regionids="13" longitude="0.118135" latitude="38.83873" countryid="724" ></base>
+<base id="475002560000100000" name="Marina Nava" city="Split" country="HR" address="Uvala Baluni 1" regionids="5" longitude="16.427908" latitude="43.502511" countryid="191" ></base>
+<base id="1415673840000100000" name="Ciutadella" city="Ciutadella" country="ES" address="" regionids="13" longitude="3.827902" latitude="39.988345" countryid="724" ></base>
+<base id="1163545050000100000" name="Port de Blanes" city="Blanes" country="ES" address="Esplanada del Port" regionids="46" longitude="2.798451" latitude="41.674368" countryid="724" ></base>
+<base id="691900720000100000" name="Port of Kyllini" city="Kyllini" country="GR" address="" regionids="7" longitude="21.144890" latitude="38.065089" countryid="300" ></base>
+<base id="1179969840000100000" name="Messac" city="Messac" country="FR" address="36 Rue de la Resistance" regionids="30" longitude="-1.813319" latitude="47.826095" countryid="250" ></base>
+<base id="954491010000100000" name="Marina Kakan" city="Kalkan" country="TR" address="" regionids="12" longitude="29.413884" latitude="36.261766" countryid="792" ></base>
+<base id="1366086300000100000" name="Trogir City Port" city="Trogir" country="HR" address="Obala Bana Berislavica" regionids="5" longitude="16.249017" latitude="43.515396" countryid="191" ></base>
+<base id="53202400000100000" name="Rogač" city="Šolta" country="HR" address="Obala Sv. Tereze bb" regionids="5" longitude="16.206256" latitude="43.397814" countryid="191" ></base>
+<base id="1935994390000100000" name="Preveza Main Port" city="Preveza" country="GR" address="" regionids="7" longitude="20.755213" latitude="38.957648" countryid="300" ></base>
+<base id="12154030000100000" name="Marina del Fezzano" city="Fezzano di Portovenere / La Spezia" country="IT" address="Via dei Cantieri" regionids="19" longitude="9.828386" latitude="44.079633" countryid="380" ></base>
+<base id="1174009180000100000" name="Valence-sur-Baise" city="Valence-sur-Baise" country="FR" address="" regionids="30" longitude="0.380253" latitude="43.879840" countryid="250" ></base>
+<base id="165296530000100000" name="Cantiere Navale Golfo di Mola" city="Capoliveri LI" country="IT" address="57031 Via Nerici 6" regionids="19" longitude="10.391843" latitude="42.757947" countryid="380" ></base>
+<base id="620321260000100000" name="Prickly Bay Marina" city="St. George's" country="GD" address="L`Anse Aux Epines Road" regionids="28" longitude="-61.760416" latitude="11.997914" countryid="308" ></base>
+<base id="490329180000100000" name="Brønnøysund" city="Brønnøysund" country="NO" address="" regionids="22" longitude="12.207828" latitude="65.473319" countryid="578" ></base>
+<base id="987468820000100000" name="Kalev Yacht Club - Pirita Marina" city="Tallinn" country="EE" address="Pirita 17" regionids="27" longitude="24.822786" latitude="59.468356" countryid="233" ></base>
+<base id="1027597750000100000" name="Bequia Marina" city="Admiralty Bay" country="VC" address="" regionids="28" longitude="-61.1411" latitude="13.047" countryid="670" ></base>
+<base id="499207810000100000" name="Terherne Haven" city="Terherne" country="NL" address="" regionids="31" longitude="5.781555" latitude="53.039975" countryid="528" ></base>
+<base id="429492270000100000" name="Budva" city="Budva" country="ME" address="" regionids="6" longitude="18.838248" latitude="42.280405" countryid="499" ></base>
+<base id="666624110000100000" name="Heraklion Port" city="Heraklion" country="GR" address="" regionids="10,9" longitude="25.149928" latitude="35.347615" countryid="300" ></base>
+<base id="636115330000100000" name="Horta Marina-Azores" city="Horta - Azores" country="PT" address="" regionids="45" longitude="-28.623104" latitude="38.532792" countryid="620" ></base>
+<base id="283093390000100000" name="Nanaimo" city="Nanaimo" country="CA" address="" regionids="36" longitude="-123.941402" latitude="49.178337" countryid="124" ></base>
+<base id="1174053240000100000" name="Agen" city="Agen" country="FR" address="" regionids="30" longitude="0.628255" latitude="44.209222" countryid="250" ></base>
+<base id="101840450000100000" name="Zaton Port" city="Zaton" country="HR" address="" regionids="4,3" longitude="18.040505" latitude="42.690381" countryid="191" ></base>
+<base id="1152015380000100000" name="Ostrvo cvijeća" city="Tivat" country="ME" address="" regionids="6" longitude="18.705383" latitude="42.404783" countryid="499" ></base>
+<base id="1174069830000100000" name="Deluz" city="Deluz" country="FR" address="" regionids="30" longitude="6.202879" latitude="47.292110" countryid="250" ></base>
+<base id="644498960000100000" name="Falmouth Harbour" city="Falmouth" country="AG" address="" regionids="28" longitude="-61.779840" latitude="17.021324" countryid="28" ></base>
+<base id="967856760000100000" name="Linton Bay Marina" city="Puerto Lindo, Portobelo" country="PA" address="" regionids="28" longitude="-79.580207" latitude="9.613078" countryid="591" ></base>
+<base id="1392047590000100000" name="Perigiali" city="Perigiali - Lefkada" country="GR" address="" regionids="7" longitude="20.723321" latitude="38.718570" countryid="300" ></base>
+<base id="1456959650000100000" name="Ana Marina Marina" city="Nha Trang, Khánh Hòa" country="VN" address="14 Phạm Văn Đồng, Vĩnh Hòa" regionids="34" longitude="109.223569" latitude="12.294918" countryid="704" ></base>
+<base id="1055942990000100000" name="Marina Zeas" city="Piraeus" country="GR" address="" regionids="35" longitude="23.646160" latitude="37.937416" countryid="300" ></base>
+<base id="48550470000100000" name="Porto di Tropea" city="Tropea" country="IT" address="" regionids="20,18" longitude="15.904198" latitude="38.680679" countryid="380" ></base>
+<base id="1097932320000100000" name="Le Phare Bleu Marina" city="St. George's" country="GD" address="Petite Calivigny Bay" regionids="28" longitude="-61.724550" latitude="12.003666" countryid="308" ></base>
+<base id="1987386380000100000" name="Marina Brandenburg-Plaue" city="Brandenburg an der Havel" country="DE" address="Grosse Mühlenstrasse 10" regionids="30" longitude="12.424901" latitude="52.414137" countryid="276" ></base>
+<base id="485380050000100000" name="Marina Zenta" city="Split" country="HR" address="Cvjetna ulica 1" regionids="5" longitude="16.460425" latitude="43.500449" countryid="191" ></base>
+<base id="1179949240000100000" name="Narbonne" city="Narbonne" country="FR" address="26 Quai Valliere" regionids="30" longitude="3.008357" latitude="43.180677" countryid="250" ></base>
+<base id="1696288280000100000" name="Egesu Güllük Marina" city="Güllük, Bodrum" country="TR" address="Gulluk Mah. Siralik Mevkii" regionids="25" longitude="37.227767" latitude="" countryid="792" ></base>
+<base id="291811610000100000" name="Port Lauragais" city="Avignonet-Lauragais" country="FR" address="" regionids="30" longitude="1.801275" latitude="43.352824" countryid="250" ></base>
+<base id="973636140000100000" name="Cameron House Marina Loch Lomond" city="Balloch" country="GB" address="Riverside" regionids="29" longitude="-4.580455" latitude="56.003092" countryid="826" ></base>
+<base id="1175121170000100000" name="Port ZHP" city="Węgorzewo" country="PL" address="Braci Ejsmontów 4" regionids="30" longitude="21.736099" latitude="54.209498" countryid="616" ></base>
+<base id="89791070000100000" name="Marina Mindelo" city="Sao Vicente" country="CV" address="" regionids="41" longitude="-25.000076" latitude="16.888988" countryid="132" ></base>
+<base id="640961080000100000" name="Stralsund Port" city="Stralsund" country="DE" address="" regionids="27" longitude="13.098294" latitude="54.316430" countryid="276" ></base>
+<base id="497429300000100000" name="Ieper" city="Ieper" country="BE" address="" regionids="30" longitude="2.882881" latitude="50.859927" countryid="56" ></base>
+<base id="665902190000100000" name="Cala Ratjada" city="Mallorca-Cala Ratjada" country="ES" address="" regionids="13" longitude="3.462247" latitude="39.709300" countryid="724" ></base>
+<base id="182736700000100000" name="Buchholz / Müritz" city="Buchholz" country="DE" address="" regionids="30" longitude="12.649405" latitude="53.274927" countryid="276" ></base>
+<base id="430981820000100000" name="Nerezine" city="Mali Lošinj" country="HR" address="" regionids="1" longitude="14.398296" latitude="44.65692" countryid="191" ></base>
+<base id="1179971750000100000" name="Migennes" city="Migennes" country="FR" address="30 Rue Perre et Marie Curie" regionids="30" longitude="3.509133" latitude="47.962017" countryid="250" ></base>
+<base id="644584060000100000" name="Tobago" city="Tobago" country="TT" address="" regionids="28" longitude="-60.489423" latitude="11.226689" countryid="780" ></base>
+<base id="125195880000100000" name="Mataro" city="Mataro" country="ES" address="Costa Barcelona" regionids="46" longitude="2.446132" latitude="41.53013" countryid="724" ></base>
+<base id="1280314370000100000" name="Ao Po Grand Marina" city="Phuket" country="TH" address="Moo 6 Tambon Paklok" regionids="34" longitude="98.443028" latitude="8.068880" countryid="764" ></base>
+<base id="32096390000100000" name="Bellingham" city="Bellingham" country="US" address="" regionids="36" longitude="-122.499275" latitude="48.757264" countryid="840" ></base>
+<base id="47" name="Volos" city="Volos" country="GR" address="" regionids="8" longitude="22.941689" latitude="39.360465" countryid="300" ></base>
+<base id="366709090000100000" name="Bodrum - Yalikavak" city="Yalikavak" country="TR" address="" regionids="25" longitude="27.284589" latitude="37.104137" countryid="792" ></base>
+<base id="21498110000100000" name="Helsinki Marina" city="Helsinki" country="FI" address="" regionids="27" longitude="24.964328" latitude="60.174007" countryid="246" ></base>
+<base id="1174019370000100000" name="Flensee" city="Untergöhren" country="DE" address="" regionids="30" longitude="12.481981" latitude="53.492473" countryid="276" ></base>
+<base id="1327291300000100000" name="Puerto Sherry" city="Cádiz" country="ES" address="Avda Libertad S/N" regionids="43,29" longitude="-6.256286" latitude="36.581731" countryid="724" ></base>
+<base id="21498820000100000" name="Finland - Taalintehdas" city="Taialinthedas" country="FI" address="" regionids="27" longitude="22.519462" latitude="60.021649" countryid="246" ></base>
+<base id="627397290000100000" name="Port Adriano" city="El Toro" country="ES" address="Local 3, El Toro" regionids="13" longitude="2.478744" latitude="39.488824" countryid="724" ></base>
+<base id="771005040000100000" name="Port of Lisbon" city="Lisbon" country="PT" address="Rua da Junqueira 94" regionids="29" longitude="-9.183832" latitude="38.694710" countryid="620" ></base>
+<base id="175904270000100000" name="Göteborg / Tjörn" city="Tjörn" country="SE" address="" regionids="27" longitude="11.543498" latitude="57.989153" countryid="752" ></base>
+<base id="19235240000100000" name="Koper" city="Koper" country="SI" address="" regionids="1" longitude="13.72437" latitude="45.547273" countryid="705" ></base>
+<base id="506495370000100000" name="Milos" city="Milos" country="GR" address="" regionids="10" longitude="24.445556" latitude="36.723751" countryid="300" ></base>
+<base id="67716870000100000" name="Stockholm / Kalvholmen" city="Stockholm" country="SE" address="" regionids="27" longitude="18.365186" latitude="59.377791" countryid="752" ></base>
+<base id="179909220000100000" name="Morningside Marina" city="Stockholm" country="SE" address="Saltsjöbadsvägen 77" regionids="27" longitude="18.211972" latitude="59.298533" countryid="752" ></base>
+<base id="30063570000100000" name="Saltsjö-Duvnäs" city="Stockholm - Saltsjö-Duvnäs" country="SE" address="Strandpromenaden 26" regionids="27" longitude="18.216058" latitude="59.308556" countryid="752" ></base>
+<base id="808981030000100000" name="Pylos Marina" city="Pilos" country="GR" address="" regionids="7" longitude="21.699739" latitude="36.918664" countryid="300" ></base>
+<base id="1119350590000100000" name="Cadzand-Bad" city="Cadzand" country="NL" address="Kanaalweg" regionids="31" longitude="3.3804053" latitude="51.37868" countryid="528" ></base>
+<base id="1173976410000100000" name="Corbigny" city="Corbigny" country="FR" address="" regionids="30" longitude="3.670821" latitude="47.225064" countryid="250" ></base>
+<base id="193132600000100000" name="Stockholm / Svinninge" city="Akersberga" country="SE" address="" regionids="27" longitude="18.277665" latitude="59.457367" countryid="752" ></base>
+<base id="620323600000100000" name="Los Gigantes Marina" city="Santa Cruz de Tenerife" country="ES" address="Calle Poblado Marinero 11" regionids="14" longitude="-16.842132" latitude="28.246778" countryid="724" ></base>
+<base id="1723807850000100000" name="Saranda Port" city="Sarandë" country="AL" address="" regionids="7" longitude="20.004527" latitude="39.871873" countryid="8" ></base>
+<base id="667400400000100000" name="Marina D-Marin Borik" city="Zadar" country="HR" address="Obala kneza Domagoja 1" regionids="4,2" longitude="15.209976" latitude="44.129950" countryid="191" ></base>
+<base id="288963930000100000" name="Merzig" city="Merzig" country="DE" address="" regionids="30" longitude="6.629455" latitude="49.443582" countryid="276" ></base>
+<base id="714808780000100000" name="Port of Propriano" city="Propriano" country="FR" address="" regionids="21" longitude="8.902472" latitude="41.676102" countryid="250" ></base>
+<base id="770987460000100000" name="Marina de Faro" city="Faro" country="PT" address="Praça Dom Francisco Gomes 15" regionids="29" longitude="-7.935632" latitude="37.016065" countryid="620" ></base>
+<base id="640406190000100000" name="Port d`Alcudia/Port de Alcudiamar Marina" city="Alcudia" country="ES" address="Paseo Maritimo, 1 Port d´Alcudia" regionids="13" longitude="3.134235" latitude="39.839980" countryid="724" ></base>
+<base id="603426100000100000" name="Datca" city="Datça" country="TR" address="" regionids="25,9,26" longitude="27.689013" latitude="36.723557" countryid="792" ></base>
+<base id="971079130000100000" name="Porto di Ponza" city="Ponza" country="IT" address="Via Molo Musco" regionids="18" longitude="12.965707" latitude="40.895227" countryid="380" ></base>
+<base id="1907156690000100000" name="Marina Sopot" city="Sopot" country="PL" address="Plac Zdrojowy 2" regionids="27" longitude="18.578216" latitude="54.448414" countryid="616" ></base>
+<base id="361947940000100000" name="Marina del Nettuno" city="Milazzo" country="IT" address="" regionids="20" longitude="15.242436" latitude="38.218981" countryid="380" ></base>
+<base id="12154040000100000" name="Juan Les Pins" city="Juan Les Pins" country="FR" address="" regionids="15" longitude="7.116394" latitude="43.561548" countryid="250" ></base>
+<base id="1153789120000100000" name="Gallipoli" city="Gallipoli" country="IT" address="Lungomare Guglielmo Marconi" regionids="7" longitude="17.985057" latitude="40.057901" countryid="380" ></base>
+<base id="394769100000100000" name="Kressbronn / Bodensee" city="Kressbronn" country="DE" address="" regionids="30" longitude="9.559178" latitude="47.587815" countryid="276" ></base>
+<base id="560084380000100000" name="Gstadt am Chiemsee" city="Gstadt am Chiemsee" country="DE" address="" regionids="30" longitude="12.417" latitude="47.886" countryid="276" ></base>
+<base id="81403710000100000" name="Kazela" city="Medulin" country="HR" address="" regionids="1" longitude="13.928862" latitude="44.8148" countryid="191" ></base>
+<base id="1759521460000100000" name="Kalkbrænderihavnen " city="Copenhagen" country="DK" address="Sundkrogskaj 19" regionids="27" longitude="12.590332" latitude="55.712634" countryid="208" ></base>
+<base id="1505477150000100000" name="Paradise Harbour Club" city="Nassau" country="BS" address="Paradise Island Drive" regionids="28" longitude="-77.305479" latitude="25.078885" countryid="44" ></base>
+<base id="1975892700000100000" name="Club Nautico Vila Joiosa" city="Vilajoyosa" country="ES" address="Av. del Port 1" regionids="43" longitude="-0.218594" latitude="38.508292" countryid="724" ></base>
+<base id="30782240000100000" name="Baška Voda" city="Baška Voda" country="HR" address="" regionids="5" longitude="16.947774" latitude="43.357692" countryid="191" ></base>
+<base id="365739410000100000" name="Longyearbyen" city="Longyearbyen" country="NO" address="" regionids="22" longitude="15.59947" latitude="78.2289" countryid="578" ></base>
+<base id="97734390000100000" name="S. Agata di Militello" city="S. Agata di Militello" country="IT" address="" regionids="20" longitude="14.621311" latitude="38.075435" countryid="380" ></base>
+<base id="221969820000100000" name="Gosport Marina" city="Gosport" country="GB" address="Mumby Road" regionids="23" longitude="-1.118932" latitude="50.798151" countryid="826" ></base>
+<base id="629525010000100000" name="Levent Marina" city="Izmir" country="TR" address="Haydar Aliyev Bulvari 4, Uckuyular" regionids="50" longitude="27.068432" latitude="38.406180" countryid="792" ></base>
+<base id="1480088990000100000" name="Porto Cesareo" city="Porto Cesareo" country="IT" address="" regionids="7" longitude="17.890221" latitude="40.258453" countryid="380" ></base>
+<base id="97132870000100000" name="La Maddalena" city="La Maddalena" country="IT" address="" regionids="21" longitude="9.427375" latitude="41.214998" countryid="380" ></base>
+<base id="254922400000100000" name="Marsh Harbour" city="Marsh Harbour" country="BS" address="" regionids="28" longitude="-77.045671" latitude="26.545691" countryid="44" ></base>
+<base id="678759650000100000" name="Tallinn Old City Marina" city="Tallinn" country="EE" address="Sedama 25-4" regionids="27" longitude="24.769421" latitude="59.447002" countryid="233" ></base>
+<base id="747370430000100000" name="Rimini" city="Rimini" country="IT" address="" regionids="17" longitude="12.570750" latitude="44.078149" countryid="380" ></base>
+<base id="178440230000100000" name="Burgtiefe" city="Fehmarn" country="DE" address="" regionids="30" longitude="11.200347" latitude="54.412812" countryid="276" ></base>
+<base id="323269450000100000" name="Marina - Resort Schwielowsee" city="Potsdam - Schwielowsee" country="DE" address="" regionids="30" longitude="12.96243" latitude="52.354143" countryid="276" ></base>
+<base id="406061970000100000" name="Marina Birgou" city="Grand Harbour" country="MT" address="" regionids="44" longitude="14.520074" latitude="35.887042" countryid="470" ></base>
+<base id="166" name="Marina port de Lonvilliers" city="Saint Martin" country="MF" address="" regionids="28" longitude="-63.037035" latitude="18.112581" countryid="663" ></base>
+<base id="1371567350000100000" name="Loutraki Harbour" city="Skopelos" country="GR" address="" regionids="8" longitude="23.613124" latitude="39.166366" countryid="300" ></base>
+<base id="226398430000100000" name="Lofoten" city="Svolvaer" country="NO" address="" regionids="22" longitude="14.571948" latitude="68.240498" countryid="578" ></base>
+<base id="366709550000100000" name="Marina Cala Galera" city="Porto Ercole" country="IT" address="" regionids="19" longitude="11.207592" latitude="42.401499" countryid="380" ></base>
+<base id="1062663180000100000" name="Subic Bay Yacht Club" city="Olongapo City" country="PH" address="Rizal Highway cor. Burgos St." regionids="34" longitude="120.288197" latitude="14.822651" countryid="608" ></base>
+<base id="2093463460000100000" name="Porto Degli Argonauti" city="Pisticci" country="IT" address="Lido di Macchia" regionids="7" longitude="16.810054" latitude="40.338821" countryid="380" ></base>
+<base id="863505690000100000" name="ACI Marina Slano" city="Slano" country="HR" address="" regionids="6" longitude="17.889785" latitude="42.783091" countryid="191" ></base>
+<base id="1706231160000100000" name="Porto Carras" city="Sithonia, Chalkidiki" country="GR" address="" regionids="11" longitude="23.795330" latitude="40.075055" countryid="300" ></base>
+<base id="1521355340000100000" name="ACI Marina Palmižana" city="Hvar" country="HR" address="Palmižana" regionids="5" longitude="16.392624" latitude="43.162367" countryid="191" ></base>
+<base id="1437628740000100000" name="Yachtservice Gebetsroither" city="Seewalchen am Attersee" country="AT" address="Unterbuchberg 15" regionids="30" longitude="13.541937" latitude="47.930586" countryid="40" ></base>
+<base id="702486820000100000" name="Paroikia port" city="Paros" country="GR" address="" regionids="10" longitude="25.151404" latitude="37.090382" countryid="300" ></base>
+<base id="414553250000100000" name="Club Nautic S`Arenal" city="El Arenal" country="ES" address="C/Roses s/n" regionids="13" longitude="2.747564" latitude="39.500084" countryid="724" ></base>
+<base id="1182228530000100000" name="Real Club Mediterráneo" city="Málaga" country="ES" address="Paseo de la Farola 18" regionids="43" longitude="-4.414211" latitude="36.716169" countryid="724" ></base>
+<base id="46852640000100000" name="Marina Podgora" city="Podgora" country="HR" address="Stari Porat" regionids="5" longitude="17.072303" latitude="43.243916" countryid="191" ></base>
+<base id="948707310000100000" name="Porto di Pisa" city="Marina di Pisa" country="IT" address="Via della Foce" regionids="19" longitude="10.268867" latitude="43.676960" countryid="380" ></base>
+<base id="136339070000100000" name="Warnemünde / Rostock" city="Warnemünde / Rostock" country="DE" address="" regionids="30" longitude="12.099143" latitude="54.180628" countryid="276" ></base>
+<base id="445829720000100000" name="Romanshorn" city="Romanshorn" country="CH" address="" regionids="30" longitude="9.383354" latitude="47.563033" countryid="756" ></base>
+<base id="1179942180000100000" name="Castelnaudary" city="Castelnaudary " country="FR" address="19 Quai du Port" regionids="30" longitude="1.952092" latitude="43.315674" countryid="250" ></base>
+<base id="424652220000100000" name="Varna" city="Varna" country="BG" address="" regionids="38" longitude="27.873006" latitude="43.20932" countryid="100" ></base>
+<base id="1629252590000100000" name="Marina di Asfodeli" city="Porto Rotondo - Punta Asfodeli" country="IT" address="Via Sos Teuladdas 3" regionids="21" longitude="9.527507" latitude="41.023022" countryid="380" ></base>
+<base id="46618790000100000" name="Karlskrona / Karlshamn" city="Karlskrona" country="SE" address="" regionids="27" longitude="15.589063" latitude="56.168195" countryid="752" ></base>
+<base id="19367750000100000" name="Mali Lošinj" city="Mali Lošinj" country="HR" address="" regionids="1" longitude="14.460973" latitude="44.543784" countryid="191" ></base>
+<base id="1169011870000100000" name="Söğüt Mahallesi" city="Marmaris, Muğla" country="TR" address="Kızılyer İskele Mah." regionids="26" longitude="28.083503" latitude="36.658684" countryid="792" ></base>
+<base id="1468934570000100000" name="Santorini Port" city="Santorini" country="GR" address="" regionids="10" longitude="25.428414" latitude="36.386256" countryid="300" ></base>
+<base id="230704980000100000" name="La Valetta" city="Valletta" country="MT" address="" regionids="44" longitude="14.4944" latitude="35.896664" countryid="470" ></base>
+<base id="125199430000100000" name="Club Nautic L' Escala" city="L' Escala" country="ES" address="Carrer Port de la Clota, s/n" regionids="13" longitude="3.147562" latitude="42.117309" countryid="724" ></base>
+<base id="699865630000100000" name="Porto Cheli" city="Porto Cheli" country="GR" address="" regionids="35,7" longitude="23.143992" latitude="37.325656" countryid="300" ></base>
+<base id="101840680000100000" name="ACI Marina Umag" city="Umag" country="HR" address="Šetalište Vladimira Gortana" regionids="1" longitude="13.514555" latitude="45.439515" countryid="191" ></base>
+<base id="428618040000100000" name="Istanbul" city="Istanbul" country="TR" address="" regionids="49" longitude="29.036136" latitude="40.97243" countryid="792" ></base>
+<base id="397536600000100000" name="Portsmouth" city="Portsmouth" country="GB" address="" regionids="29" longitude="-1.119082" latitude="50.798028" countryid="826" ></base>
+<base id="1741432750000100000" name="Gustavia" city="Gustavia" country="BL" address="" regionids="28" longitude="-62.849785" latitude="17.896171" countryid="652" ></base>
+<base id="1585740270000100000" name="Tisno Port" city="Murter" country="HR" address="" regionids="4,3" longitude="15.644592" latitude="43.795942" countryid="191" ></base>
+<base id="30096180000100000" name="Novigrad" city="Novigrad" country="HR" address="" regionids="1" longitude="13.562365" latitude="45.320379" countryid="191" ></base>
+<base id="125496490000100000" name="Port de Pollença" city="Port de Pollença" country="ES" address="" regionids="13" longitude="3.084176" latitude="39.904387" countryid="724" ></base>
+<base id="1174021480000100000" name="Loosdrecht" city="Loosdrecht" country="NL" address="" regionids="30" longitude="5.035032" latitude="52.199147" countryid="528" ></base>
+<base id="489184190000100000" name="Sal Harbour" city="Palmeira" country="CV" address="" regionids="41" longitude="-22.953141" latitude="16.686489" countryid="132" ></base>
+<base id="772938900000100000" name="Carnon" city="Mauguio" country="FR" address="" regionids="15" longitude="3.974006" latitude="43.541121" countryid="250" ></base>
+<base id="323219200000100000" name="Marina Botafoch" city="Ibiza" country="ES" address="" regionids="13" longitude="1.447449" latitude="38.912157" countryid="724" ></base>
+<base id="81403740000100000" name="Vranjica" city="Trogir" country="HR" address="" regionids="5" longitude="16.183831" latitude="43.511308" countryid="191" ></base>
+<base id="1179969180000100000" name="Dinan" city="Dinan" country="FR" address="1 Rue du Quai" regionids="30" longitude="-2.034042" latitude="48.460796" countryid="250" ></base>
+<base id="632383140000100000" name="Clifton harbour" city="Clifton" country="VC" address="" regionids="28" longitude="-61.414593" latitude="12.596316" countryid="670" ></base>
+<base id="236835520000100000" name="Thessaloniki" city="Thessaloniki" country="GR" address="" regionids="47" longitude="22.940428" latitude="40.589148" countryid="300" ></base>
+<base id="677681410000100000" name="Port Dubrovnik" city="Dubrovnik" country="HR" address="Obala Ivana Pavla II 1" regionids="6" longitude="18.085441" latitude="42.658511" countryid="191" ></base>
+<base id="1386574350000100000" name="Marina Porto Frade" city="Frade, Angra dos Reis (RJ)" country="BR" address="Condominio Porto Frade" regionids="54" longitude="-44.436481" latitude="-22.973123" countryid="76" ></base>
+<base id="1516218790000100000" name="Puerto Deportivo de Ayamonte" city="Ayamonte" country="ES" address="Darsena Deportiva, S/N" regionids="29" longitude="-7.405891" latitude="37.210944" countryid="724" ></base>
+<base id="1173977950000100000" name="Montbard" city="Montbard" country="FR" address="" regionids="30" longitude="4.331140" latitude="47.623536" countryid="250" ></base>
+<base id="1051157150000100000" name="Agios Kosmas Marina" city="Athens-Hellinikon" country="GR" address="Poseidonos avenue 18" regionids="35" longitude="23.728849" latitude="37.877316" countryid="300" ></base>
+<base id="455935280000100000" name="Cetraro" city="Cetraro" country="IT" address="" regionids="18" longitude="15.919361" latitude="39.527679" countryid="380" ></base>
+<base id="413944640000100000" name="Gera Lario" city="Gera Lario" country="IT" address="" regionids="30" longitude="9.371048" latitude="46.168137" countryid="380" ></base>
+<base id="574620490000100000" name="Marina del Sur" city="Las Galletas" country="ES" address="C/Torre de Control 2 Planta" regionids="14" longitude="-16.661111" latitude="28.006976" countryid="724" ></base>
+<base id="1415665530000100000" name="Puerto Haina Oriental" city="Santo Domingo" country="DO" address="" regionids="28" longitude="-70.015848" latitude="18.421652" countryid="214" ></base>
+<base id="1179978900000100000" name="Wolfsbruch" city="Rheinsberg" country="DE" address="Wolfsbruch 3" regionids="30" longitude="12.900083" latitude="53.180424" countryid="276" ></base>
+<base id="595818590000100000" name="Marina di Navene" city="Navene di Malcesine" country="IT" address="Via Gardesana 205" regionids="30" longitude="10.836057" latitude="45.797120" countryid="380" ></base>
+<base id="407639180000100000" name="Estavayer-le-Lac" city="Estavayer-le-Lac" country="CH" address="" regionids="30" longitude="6.838152" latitude="46.8508" countryid="756" ></base>
+<base id="46616150000100000" name="Vastervik" city="Loftahammar" country="SE" address="" regionids="27" longitude="16.697395" latitude="57.902194" countryid="752" ></base>
+<base id="70504970000100000" name="Pakoštane" city="Pakoštane" country="HR" address="" regionids="4,2" longitude="15.502481" latitude="43.904664" countryid="191" ></base>
+<base id="85073880000100000" name="Telaga Harbor Marina" city="Langkawi, Kedah" country="MY" address="Lot 1 Telaga Harbour Park" regionids="34" longitude="99.685730" latitude="6.366292" countryid="458" ></base>
+<base id="932412450000100000" name="Marina Salinas de Torrevieja" city="Torrevieja" country="ES" address="Paseo" regionids="43,13" longitude="-0.679505" latitude="37.970140" countryid="724" ></base>
+<base id="1174015880000100000" name="Fürstenberg" city="Fürstenberg" country="DE" address="" regionids="30" longitude="13.149090" latitude="53.191950" countryid="276" ></base>
+<base id="1173996790000100000" name="Lutzelbourg" city="Lutzelbourg" country="FR" address="" regionids="30" longitude="7.250625" latitude="48.731572" countryid="250" ></base>
+<base id="17051760000100000" name="Marina Funtana" city="Poreč" country="HR" address="" regionids="1" longitude="13.597362" latitude="45.17725" countryid="191" ></base>
+<base id="358834660000100000" name="Saint Tropez" city="Saint Tropez" country="FR" address="" regionids="15" longitude="6.63365" latitude="43.271394" countryid="250" ></base>
+<base id="182736710000100000" name="Berlin-Köpenick" city="Berlin" country="DE" address="" regionids="30" longitude="13.584402" latitude="52.446411" countryid="276" ></base>
+<base id="485998870000100000" name="Marina Špinut" city="Split" country="HR" address="Lučica 7" regionids="5" longitude="16.418000" latitude="43.515000" countryid="191" ></base>
+<base id="21498590000100000" name="Finland - Airisto" city="Airisto" country="FI" address="" regionids="27" longitude="22.126272" latitude="60.374821" countryid="246" ></base>
+<base id="1408001190000100000" name="Porto di Porto Pozzo" city="Porto Pozzo" country="IT" address="Piazzale Porto Turistico" regionids="21" longitude="9.271319" latitude="41.197188" countryid="380" ></base>
+<base id="2032084080000100000" name="Porto Turistico Santa Maria Navarrese" city="Santa Maria Navarrese" country="IT" address="Lungomare Monte Santo" regionids="21" longitude="9.692955" latitude="39.991688" countryid="380" ></base>
+<base id="1179954980000100000" name="Le Mas d´Agenais" city="Le Mas d´Agenais" country="FR" address="377 Ber Ber" regionids="30" longitude="0.218097" latitude="44.413303" countryid="250" ></base>
+<base id="1179975000000100000" name="Gray" city="Gray" country="FR" address="" regionids="30" longitude="5.594495" latitude="47.449631" countryid="250" ></base>
+<base id="1901821680000100000" name="Gdansk Marina" city="Gdansk" country="PL" address="" regionids="27" longitude="18.659639" latitude="54.348979" countryid="616" ></base>
+<base id="299663430000100000" name="Pasito Blanco" city="Pasito Blanco" country="ES" address="" regionids="14" longitude="-15.623428" latitude="27.746609" countryid="724" ></base>
+<base id="486530220000100000" name="Stobreč Port" city="Stobreč" country="HR" address="" regionids="5" longitude="16.532761" latitude="43.500895" countryid="191" ></base>
+<base id="397534950000100000" name="Cherbourg" city="Cherbourg - Octeville" country="FR" address="" regionids="29" longitude="-1.621749" latitude="49.646347" countryid="250" ></base>
+<base id="108679350000100000" name="Paleros" city="Palairos" country="GR" address="" regionids="7" longitude="20.878476" latitude="38.771149" countryid="300" ></base>
+<base id="1179976360000100000" name="Hesse" city="Hesse" country="FR" address="5-9 Rue du Pont Rouge" regionids="30" longitude="7.046172" latitude="48.691799" countryid="250" ></base>
+<base id="419237380000100000" name="Gibraltar" city="Gibraltar" country="GI" address="" regionids="43,29" longitude="-5.356398" latitude="36.137212" countryid="292" ></base>
+<base id="640407530000100000" name="Puerto Portals" city="Calvia" country="ES" address="Portals Nous" regionids="13" longitude="2.567783" latitude="39.530069" countryid="724" ></base>
+<base id="1499781110000100000" name="Marina de Vilamoura" city="Vilamoura" country="PT" address="Quarteira" regionids="29" longitude="-8.122012" latitude="37.077590" countryid="620" ></base>
+<base id="323038480000100000" name="Caorle" city="Caorle " country="IT" address="" regionids="17" longitude="12.876062" latitude="45.599416" countryid="380" ></base>
+<base id="1977422160000100000" name="De Koornwaard" city="Heukelum" country="NL" address="Appeldijk 17A" regionids="30" longitude="5.057572" latitude="51.872467" countryid="528" ></base>
+<base id="474900780000100000" name="Povlja" city="Povlja, Brač" country="HR" address="" regionids="5" longitude="16.836811" latitude="43.333366" countryid="191" ></base>
+<base id="227706120000100000" name="Muritz" city="Waren (Müritz)" country="DE" address="" regionids="30" longitude="12.68952" latitude="53.511339" countryid="276" ></base>
+<base id="395213190000100000" name="Rome" city="Rome" country="IT" address="" regionids="18" longitude="12.247546" latitude="41.736863" countryid="380" ></base>
+<base id="1375181210000100000" name="Capo d'Orlando Marina" city="Capo d'Orlando" country="IT" address="Contrada S. Gregorio" regionids="20" longitude="14.770537" latitude="38.155176" countryid="380" ></base>
+<base id="1415667160000100000" name="El Jadida" city="El Jadida" country="MA" address="" regionids="29" longitude="-8.500057" latitude="33.254874" countryid="504" ></base>
+<base id="963555080000100000" name="Club Maritimo San Antonio De La Playa" city="Can Pastilla" country="ES" address="Carrer Virgili 27" regionids="13" longitude="2.714498" latitude="39.533490" countryid="724" ></base>
+<base id="644512600000100000" name="Rodney Bay Marina" city="St Lucia - Castries" country="LC" address="" regionids="28" longitude="-60.949863" latitude="14.074896" countryid="662" ></base>
+<base id="183988300000100000" name="Oslo" city="Oslo" country="NO" address="" regionids="31" longitude="10.699353" latitude="59.911557" countryid="578" ></base>
+<base id="60483930000100000" name="Mandurah Ocean Marina" city="Mandurah" country="AU" address="" regionids="33" longitude="115.715711" latitude="-32.523468" countryid="36" ></base>
+<base id="410748270000100000" name="Lemmer" city="Lemmer" country="NL" address="" regionids="31" longitude="5.706604" latitude="52.837799" countryid="528" ></base>
+<base id="973630110000100000" name="Marina of Vonitsa" city="Vonitsa" country="GR" address="" regionids="7" longitude="20.889516" latitude="38.921815" countryid="300" ></base>
+<base id="1472810110000100000" name="Agia Eufimia" city="Agia Eufimia" country="GR" address="" regionids="7" longitude="20.599541" latitude="38.302149" countryid="300" ></base>
+<base id="27289680000100000" name="Kotor" city="Kotor" country="ME" address="" regionids="6" longitude="18.770469" latitude="42.423528" countryid="499" ></base>
+<base id="640405370000100000" name="Puerto de Andratx" city="Andratx" country="ES" address="" regionids="13" longitude="2.384672" latitude="39.545127" countryid="724" ></base>
+<base id="125268890000100000" name="Marina Ramova Krvavica" city="Baska Voda" country="HR" address="Krvavica 44" regionids="5" longitude="16.982653" latitude="43.323929" countryid="191" ></base>
+<base id="1006548130000100000" name="Manuel Reef Marina" city="Sea Cow's Bay" country="VG" address="" regionids="28" longitude="-64.632263" latitude="18.406701" countryid="92" ></base>
+<base id="1173995110000100000" name="Saint-Martin-sur-Oust" city="Saint-Martin-sur-Oust" country="FR" address="" regionids="30" longitude="-2.262424" latitude="47.745528" countryid="250" ></base>
+<base id="674191830000100000" name="Rostock-Warnemünde" city="Rostock" country="DE" address="" regionids="27" longitude="12.098835" latitude="54.181275" countryid="276" ></base>
+<base id="741349730000100000" name="Santa Ponça" city="Santa Ponça" country="ES" address="" regionids="13" longitude="2.466189" latitude="39.513276" countryid="724" ></base>
+<base id="651736310000100000" name="Marina Naviera Balear" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.631866" latitude="39.567437" countryid="724" ></base>
+<base id="1981021270000100000" name="Bakar Port" city="Bakar" country="HR" address="" regionids="1" longitude="14.536386" latitude="45.306645" countryid="191" ></base>
+<base id="1174001460000100000" name="Pont a Bar" city="Pont a Bar" country="FR" address="" regionids="30" longitude="4.839537" latitude="49.689701" countryid="250" ></base>
+<base id="788551880000100000" name="Malaga/Puerto de Malaga" city="Malaga" country="ES" address="Puerto de Malaga" regionids="43" longitude="-4.421591" latitude="36.708781" countryid="724" ></base>
+<base id="1179976310000100000" name="Branges" city="Branges" country="FR" address="872-910 Route du Bourg" regionids="30" longitude="5.177051" latitude="46.642979" countryid="250" ></base>
+<base id="435571030000100000" name="Marina San Miguel" city="San Miguel de Abona" country="ES" address="Urb. Amarilla Golf s.n." regionids="14" longitude="-16.612551" latitude="28.019657" countryid="724" ></base>
+<base id="256274530000100000" name="St. George's bay" city="Birzebbuga" country="MT" address="Nadur, Trig Ghar Dalam" regionids="44" longitude="14.530556" latitude="35.835049" countryid="470" ></base>
+<base id="805731450000100000" name="Marina Sant'Elena" city="Venezia" country="IT" address="" regionids="17" longitude="12.367702" latitude="45.426481" countryid="380" ></base>
+<base id="1987440470000100000" name="Sjötorp" city="Sjötorp" country="SE" address="" regionids="30" longitude="13.974402" latitude="58.838465" countryid="752" ></base>
+<base id="1759545290000100000" name="Sablé-sur-Sarthe" city="Sablé-sur-Sarthe" country="FR" address="" regionids="30" longitude="-0.331023" latitude="47.838459" countryid="250" ></base>
+<base id="430982800000100000" name="Susak City port" city="Susak" country="HR" address="" regionids="1" longitude="14.30995" latitude="44.512329" countryid="191" ></base>
+<base id="782275910000100000" name="Marina Palma Cuarentena" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.629037" latitude="39.562184" countryid="724" ></base>
+<base id="1901813850000100000" name="Marina Gdynia" city="Gdynia" country="PL" address="al. Jana Pawa II 13A" regionids="27" longitude="18.552495" latitude="54.517426" countryid="616" ></base>
+<base id="184143900000100000" name="Presidiana Marina" city="Cefalu" country="IT" address="" regionids="20" longitude="14.032964" latitude="38.038814" countryid="380" ></base>
+<base id="1361261450000100000" name="Lučica Strozanac" city="Stobreč" country="HR" address="" regionids="5" longitude="16.534081" latitude="43.501713" countryid="191" ></base>
+<base id="666622840000100000" name="Kea Port" city="Kea" country="GR" address="" regionids="35,10" longitude="24.307459" latitude="37.672437" countryid="300" ></base>
+<base id="683181140000100000" name="Puerto de Mahón" city="Maó-Mahón" country="ES" address="" regionids="13" longitude="4.268167" latitude="39.895972" countryid="724" ></base>
+<base id="493530410000100000" name="Klaipėda" city="Klaipėda" country="LT" address="" regionids="27" longitude="21.158981" latitude="55.653282" countryid="440" ></base>
+<base id="677306990000100000" name="Calanova Port Olimpic" city="Palma de Mallorca - Calanova" country="ES" address="Avinguda de Joan Miro 327" regionids="13" longitude="2.598381" latitude="39.549193" countryid="724" ></base>
+<base id="1179973400000100000" name="Tannay" city="Saint-Didier" country="FR" address="1-41 La Gare" regionids="30" longitude="3.618977" latitude="47.361457" countryid="250" ></base>
+<base id="1280333120000100000" name="Port Sidney Marina" city="Sidney" country="CA" address="9835 Seaport Place" regionids="36" longitude="-123.395017" latitude="48.650858" countryid="124" ></base>
+<base id="96447290000100000" name="Vounaki" city="Palairos" country="GR" address="" regionids="7" longitude="20.878223" latitude="38.781956" countryid="300" ></base>
+<base id="1179957600000100000" name="Jarnac" city="Jarnac" country="FR" address="10 Quai Francois Mitterrand" regionids="30" longitude="-0.180525" latitude="45.680192" countryid="250" ></base>
+<base id="1522615740000100000" name="Chitry-les-Mines" city="Chitry-les-Mines" country="FR" address="" regionids="30" longitude="3.647810" latitude="47.258767" countryid="250" ></base>
+<base id="483751690000100000" name="Kukljica" city="Kukljica" country="HR" address="" regionids="4,2" longitude="15.248333" latitude="44.035170" countryid="191" ></base>
+<base id="1179977070000100000" name="Boofzheim" city="Boofzheim" country="FR" address="Rue du Canal" regionids="30" longitude="7.664874" latitude="48.338122" countryid="250" ></base>
+<base id="410529090000100000" name="Kinrooi" city="Kinrooi" country="BE" address="" regionids="30" longitude="5.815029" latitude="51.127445" countryid="56" ></base>
+<base id="1759486480000100000" name="Brienon Marine" city="Brienon-sur-Armançon" country="FR" address="Route de Joigny" regionids="30" longitude="3.613857" latitude="47.989759" countryid="250" ></base>
+<base id="288201290000100000" name="Marina Baotić" city="Seget Donji" country="HR" address="Don Petra Spike 2a" regionids="5" longitude="16.232423" latitude="43.516113" countryid="191" ></base>
+<base id="323219150000100000" name="Ibiza Magna" city="Ibiza" country="ES" address="" regionids="13" longitude="1.444589" latitude="38.913818" countryid="724" ></base>
+<base id="1506738170000100000" name="Omiš City Port" city="Omiš" country="HR" address="" regionids="5" longitude="16.694395" latitude="42.442151" countryid="191" ></base>
+<base id="1396015410000100000" name="Port Kaštilac" city="Kaštel Gomilica" country="HR" address="Put Kupališta 3" regionids="5" longitude="16.395021" latitude="43.547465" countryid="191" ></base>
+<base id="413669760000100000" name="Lago di Como / Gera Lario" city="Gera Lario" country="IT" address="" regionids="30" longitude="9.371316" latitude="46.168285" countryid="380" ></base>
+<base id="1397797460000100000" name="Club Nàutic Estartit" city="L'Estartit, Girona" country="ES" address="Passeig Marítim, S/N" regionids="46" longitude="3.205025" latitude="42.054302" countryid="724" ></base>
+<base id="491110910000100000" name="Åbo" city="Turku" country="FI" address="" regionids="27" longitude="22.229633" latitude="60.425292" countryid="246" ></base>
+<base id="1179974280000100000" name="Fontenoy-le-Château" city="Fontenoy-le-Château" country="FR" address="" regionids="30" longitude="6.203754" latitude="47.977086" countryid="250" ></base>
+<base id="412534690000100000" name="Alacati" city="Alacati" country="TR" address="" regionids="12" longitude="26.344389" latitude="38.323478" countryid="792" ></base>
+<base id="222541010000100000" name="St. Florentin" city="St. Florentin" country="FR" address="" regionids="30" longitude="3.732650" latitude="47.996538" countryid="250" ></base>
+<base id="573418270000100000" name="Marina Noel Langweer" city="Langweer" country="NL" address="Pontdijk 8D" regionids="30,31" longitude="5.717121" latitude="52.963444" countryid="528" ></base>
+<base id="97734360000100000" name="Marsala Marina" city="Marsala" country="IT" address="" regionids="20" longitude="12.441684" latitude="37.788616" countryid="380" ></base>
+<base id="640308640000100000" name="Aquarelle Sarl" city="Auxerre" country="FR" address="Port de Plaisance, Ouai de l´Ancienne Abbaye" regionids="30" longitude="3.575747" latitude="47.798085" countryid="250" ></base>
+<base id="1499797430000100000" name="Pinhão" city="Pinhão" country="PT" address="" regionids="30" longitude="-7.548525" latitude="41.191128" countryid="620" ></base>
+<base id="1179975820000100000" name="Saint-Jean-de-Losne" city="Saint-Jean-de-Losne" country="FR" address="Le Gare d´Eau" regionids="30" longitude="5.262761" latitude="47.106537" countryid="250" ></base>
+<base id="92543020000100000" name="Olive Island Marina" city="Ugljan, Sutomišćica" country="HR" address="" regionids="4,2" longitude="15.170841" latitude="44.095884" countryid="191" ></base>
+<base id="1179990620000100000" name="Vinkeveen" city="Vinkeveen" country="NL" address="Groenlandsekade 17" regionids="30" longitude="4.980654" latitude="52.225543" countryid="528" ></base>
+<base id="51290120000100000" name="Vinišće-Mirna vala" city="Vinišće" country="HR" address="Bačine - Vinišće bb" regionids="5" longitude="16.113671" latitude="43.488821" countryid="191" ></base>
+<base id="1179972700000100000" name="Châtillon-sur-Loire" city="Châtillon-sur-Loire" country="FR" address="1 Rue du Port" regionids="30" longitude="2.757867" latitude="47.593534" countryid="250" ></base>
+<base id="1179947500000100000" name="Homps " city="Homps" country="FR" address="9 Avenue Claude Bourrel" regionids="30" longitude="2.715232" latitude="43.268564" countryid="250" ></base>
+<base id="26981950000100000" name="Göteborg / Marstrand" city="Marstrand" country="SE" address="" regionids="27" longitude="11.596144" latitude="57.887129" countryid="752" ></base>
+<base id="1110314650000100000" name="Trincomalee" city="Trincomalee" country="LK" address="" regionids="37" longitude="81.240953" latitude="8.574764" countryid="144" ></base>
+<base id="721479050000100000" name="Port Miami" city="Miami" country="US" address="1015 N America Way #210" regionids="28" longitude="-80.177693" latitude="25.780933" countryid="840" ></base>
+<base id="1759540860000100000" name="Arolles Marine" city="Bellegarde" country="FR" address="Port de plaisance" regionids="30" longitude="4.159447" latitude="43.744230" countryid="250" ></base>
+<base id="1480086280000100000" name="Tourist port of San Foca" city="San Foca" country="IT" address="Via Luingomare Matteotti 6" regionids="7,17" longitude="18.405536" latitude="40.304659" countryid="380" ></base>
+<base id="1280305220000100000" name="Shute Harbor" city="Shute Harbor" country="AU" address="" regionids="33" longitude="148.782593" latitude="-20.291388" countryid="36" ></base>
+<base id="2023527280000100000" name="Nikiti" city="Nikiti - Chalkidiki" country="GR" address="" regionids="47" longitude="23.662882" latitude="40.217452" countryid="300" ></base>
+<base id="951347030000100000" name="Troia Marina" city="Troia" country="PT" address="Carvahal" regionids="29" longitude="-8.902195" latitude="38.493436" countryid="620" ></base>
+<base id="269" name="Trieste" city="Trieste" country="IT" address="" regionids="17" longitude="13.759376" latitude="45.647236" countryid="380" ></base>
+<base id="268" name="Trapani" city="Trapani" country="IT" address="" regionids="20" longitude="12.52011" latitude="38.013603" countryid="380" ></base>
+<base id="267" name="Vrsar" city="Vrsar" country="HR" address="" regionids="1" longitude="13.602276" latitude="45.149479" countryid="191" ></base>
+<base id="266" name="Vieste" city="Vieste" country="IT" address="" regionids="17" longitude="16.17669" latitude="41.88664" countryid="380" ></base>
+<base id="265" name="Marina Stella del Sud" city="Vibo Marina" country="IT" address="Via Emilia" regionids="20,18" longitude="16.126912" latitude="38.717001" countryid="380" ></base>
+<base id="264" name="Vibo Marina" city="Vibo Marina" country="IT" address="" regionids="20,18" longitude="16.129571" latitude="38.717088" countryid="380" ></base>
+<base id="263" name="Viareggio" city="Viareggio" country="IT" address="" regionids="19" longitude="10.240684" latitude="43.863012" countryid="380" ></base>
+<base id="262" name="Trani" city="Trani" country="IT" address="Via Statuti Marittimi" regionids="17" longitude="16.421986" latitude="41.278322" countryid="380" ></base>
+<base id="261" name="Terracina" city="Tarracina" country="IT" address="Via Banchina" regionids="18" longitude="13.258266" latitude="41.284127" countryid="380" ></base>
+<base id="260" name="Santa Cruz Das Flores" city="Santa Cruz Das Flores" country="PT" address="" regionids="45" longitude="-31.125014" latitude="39.454312" countryid="620" ></base>
+<base id="259" name="Talamone Port" city="Talamone" country="IT" address="" regionids="19" longitude="11.133936" latitude="42.554527" countryid="380" ></base>
+<base id="258" name="Marina de Bas du Fort" city="Pointe a Pitre" country="GP" address="" regionids="28" longitude="-61.529601" latitude="16.220081" countryid="312" ></base>
+<base id="257" name="St. Raphaël - Port de Santa Lucia" city="St. Raphaël" country="FR" address="" regionids="15" longitude="6.781397" latitude="43.091179" countryid="250" ></base>
+<base id="256" name="Port Olimpic" city="Barcelona" country="ES" address="" regionids="13,46" longitude="2.200864" latitude="41.385664" countryid="724" ></base>
+<base id="255" name="Sorrento " city="Sorrento" country="IT" address="" regionids="18" longitude="14.375192" latitude="40.62943" countryid="380" ></base>
+<base id="254" name="Skopelos" city="Skopelos" country="GR" address="" regionids="8" longitude="23.728237" latitude="39.122736" countryid="300" ></base>
+<base id="253" name="Skyros" city="Skyros" country="GR" address="" regionids="8" longitude="24.578905" latitude="38.917483" countryid="300" ></base>
+<base id="252" name="ACI Marina Šimuni" city="Kolan" country="HR" address="Obala 1" regionids="4,3" longitude="14.954034" latitude="44.471958" countryid="191" ></base>
+<base id="251" name="Marina Mandalina" city="Šibenik" country="HR" address="Obala Jerka Šižgorića 1" regionids="4,3" longitude="15.900178" latitude="43.719753" countryid="191" ></base>
+<base id="250" name="Sestri Levante" city="Sestri Levante" country="IT" address="Piazza Giacomo Matteotti, 31, 16039 Sestri" regionids="19" longitude="9.385865" latitude="44.270357" countryid="380" ></base>
+<base id="249" name="Sapri" city="Sapri " country="IT" address="" regionids="18" longitude="15.627836" latitude="40.06521" countryid="380" ></base>
+<base id="1179994180000100000" name="Carrick on Shannon" city="Leitrim" country="IE" address="The Marina, St Georges Terrace, Townparks, Co. " regionids="30" longitude="-8.099743" latitude="53.943495" countryid="372" ></base>
+<base id="247" name="Santa Maria di Leuca" city="Leuca" country="IT" address="" regionids="7" longitude="18.361232" latitude="39.796428" countryid="380" ></base>
+<base id="246" name="Sanary-sur-Mer" city="Sanary-sur-Mer" country="FR" address="" regionids="15" longitude="5.801252" latitude="43.116539" countryid="250" ></base>
+<base id="245" name="San Vito Lo Capo" city="San Vito Lo Capo" country="IT" address="" regionids="20" longitude="12.73268" latitude="38.181183" countryid="380" ></base>
+<base id="244" name="San Teodoro" city="San Teodoro" country="IT" address="" regionids="21" longitude="9.676694" latitude="40.778395" countryid="380" ></base>
+<base id="243" name="San Remo" city="San Remo" country="IT" address="Corso Salvo D`Aquisto 31" regionids="19" longitude="7.789916" latitude="43.818133" countryid="380" ></base>
+<base id="242" name="Salivoli" city="Piombino" country="IT" address="" regionids="19" longitude="10.506554" latitude="42.931157" countryid="380" ></base>
+<base id="241" name="Santa Teresa di Gallura" city="Santa Teresa Gallura" country="IT" address="" regionids="21" longitude="9.192386" latitude="41.233933" countryid="380" ></base>
+<base id="240" name="Santa Margherita Ligure" city="Santa Margherita Ligure" country="IT" address="" regionids="19" longitude="9.214396" latitude="44.330487" countryid="380" ></base>
+<base id="239" name="Roccella Jonica" city="Roccella Jonica" country="IT" address="" regionids="7" longitude="16.434871" latitude="38.328242" countryid="380" ></base>
+<base id="238" name="Rio de Janeiro" city="Rio de Janeiro" country="BR" address="" regionids="54" longitude="-43.171291" latitude="-22.918802" countryid="76" ></base>
+<base id="237" name="Quartu Sant'Elena" city="Quartu Sant'Elena" country="IT" address="" regionids="21" longitude="9.124875" latitude="39.20183" countryid="380" ></base>
+<base id="236" name="Punta Ala" city="Punta Ala" country="IT" address="" regionids="19" longitude="10.734662" latitude="42.805091" countryid="380" ></base>
+<base id="235" name="Marina di Procida" city="Procida" country="IT" address="" regionids="18" longitude="14.031419" latitude="40.766372" countryid="380" ></base>
+<base id="234" name="Praslin" city="Baie Ste Anne" country="SC" address="" regionids="37" longitude="55.765148" latitude="-4.346668" countryid="690" ></base>
+<base id="233" name="Pozzuoli" city="Pozzuoli" country="IT" address="" regionids="18" longitude="14.115844" latitude="40.827165" countryid="380" ></base>
+<base id="185424430000100000" name="Kavala" city="Kavala" country="GR" address="" regionids="47" longitude="24.426304" latitude="40.941329" countryid="300" ></base>
+<base id="231" name="Portofino" city="Portofino" country="IT" address="" regionids="19" longitude="9.210985" latitude="44.303006" countryid="380" ></base>
+<base id="230" name="Portoferraio" city="Portoferraio" country="IT" address="" regionids="19" longitude="10.316248" latitude="42.80946" countryid="380" ></base>
+<base id="229" name="Portovenere" city="Portovenere" country="IT" address="" regionids="19" longitude="9.838128" latitude="44.053583" countryid="380" ></base>
+<base id="228" name="Porto Vecchio" city="Porto Vecchio" country="FR" address="" regionids="21" longitude="9.284145" latitude="41.590127" countryid="250" ></base>
+<base id="227" name="Porto Torres" city="Porto Torres" country="IT" address="" regionids="21" longitude="8.403854" latitude="40.840356" countryid="380" ></base>
+<base id="226" name="Marina di Porto Rotondo" city="Porto Rotondo" country="IT" address="" regionids="21" longitude="9.545649" latitude="41.028947" countryid="380" ></base>
+<base id="225" name="Porto Ercole" city="Porto Ercole" country="IT" address="" regionids="19" longitude="11.208413" latitude="42.391936" countryid="380" ></base>
+<base id="224" name="Porto Cervo" city="Porto Cervo" country="IT" address="" regionids="21" longitude="9.527915" latitude="41.134807" countryid="380" ></base>
+<base id="223" name="Porto Azzurro" city="Porto Azzurro" country="IT" address="" regionids="19" longitude="10.39746" latitude="42.764379" countryid="380" ></base>
+<base id="222" name="Marina di Portisco" city="Portisco" country="IT" address="Str. Panoramica Costa Smeralda Km0,100" regionids="21" longitude="9.524158" latitude="41.034046" countryid="380" ></base>
+<base id="221" name="Port Toga" city="Bastia" country="FR" address="" regionids="19" longitude="9.455624" latitude="42.708331" countryid="250" ></base>
+<base id="220" name="Port Pin Rolland" city="Saint-Mandrier-sur-Mer" country="FR" address="" regionids="15" longitude="5.906739" latitude="43.079107" countryid="250" ></base>
+<base id="219" name="Port de Bormes-les-Mimosas" city="Bormes-les-Mimosas" country="FR" address="Quai d'Honneur" regionids="15" longitude="6.365333" latitude="43.122757" countryid="250" ></base>
+<base id="218" name="Piombino" city="Piombino" country="IT" address="" regionids="19" longitude="10.507039" latitude="42.931188" countryid="380" ></base>
+<base id="217" name="Pescara" city="Pescara" country="IT" address="" regionids="17" longitude="14.230728" latitude="42.466367" countryid="380" ></base>
+<base id="216" name="Paros" city="Paros" country="GR" address="" regionids="10" longitude="25.15256" latitude="37.087309" countryid="300" ></base>
+<base id="214" name="Marina Arenella" city="Palermo" country="IT" address="Via Card. G. Massaia, 7" regionids="20" longitude="13.371534" latitude="38.151432" countryid="380" ></base>
+<base id="213" name="Palau" city="Colonia, Yap" country="FM" address="" regionids="32" longitude="138.123035" latitude="9.515471" countryid="583" ></base>
+<base id="1759515470000100000" name="Plagny" city="Nevers - Plagny" country="FR" address="" regionids="30" longitude="3.1597805" latitude="46.951837" countryid="250" ></base>
+<base id="211" name="Oristano" city="Oristano" country="IT" address="" regionids="21" longitude="8.491445" latitude="39.90358" countryid="380" ></base>
+<base id="210" name="Marina di Olbia" city="Olbia" country="IT" address="" regionids="21" longitude="9.526216" latitude="40.91588" countryid="380" ></base>
+<base id="209" name="Marina di Nettuno" city="Rome" country="IT" address="" regionids="18" longitude="12.661593" latitude="41.454918" countryid="380" ></base>
+<base id="208" name="Naxos" city="Naxos" country="GR" address="" regionids="10" longitude="25.374599" latitude="37.105241" countryid="300" ></base>
+<base id="1759510540000100000" name="Port du Harskirchen" city="Harskirchen" country="FR" address="3 Rue de Bissert" regionids="30" longitude="7.028098" latitude="48.939646" countryid="250" ></base>
+<base id="206" name="Monfalcone" city="Monfalcone" country="IT" address="" regionids="17" longitude="13.562944" latitude="45.795148" countryid="380" ></base>
+<base id="205" name="Marsala " city="Marsala" country="IT" address="" regionids="20" longitude="12.442843" latitude="37.787547" countryid="380" ></base>
+<base id="204" name="Grenada Yacht Club" city="St. George's" country="GD" address="Spout Point" regionids="28" longitude="-61.748370" latitude="12.046934" countryid="308" ></base>
+<base id="203" name="Scarlino " city="Scarlino - Puntone" country="IT" address="" regionids="19" longitude="10.782588" latitude="42.88653" countryid="380" ></base>
+<base id="202" name="Marina degli Aregai" city="Santo Stefano Al Mare" country="IT" address="" regionids="19" longitude="7.912774" latitude="43.837762" countryid="380" ></base>
+<base id="201" name="Marigot" city="Le Marigot" country="MQ" address="" regionids="28" longitude="-61.031681" latitude="14.824263" countryid="474" ></base>
+<base id="200" name="Marciana Marina" city="Marciana Marina" country="IT" address="" regionids="19" longitude="10.196085" latitude="42.808342" countryid="380" ></base>
+<base id="199" name="Mandelieu la Napoule" city="Cannes" country="FR" address="" regionids="15" longitude="6.938231" latitude="43.536074" countryid="250" ></base>
+<base id="198" name="Macinaggio" city="Macinaggio" country="FR" address="" regionids="19" longitude="9.454293" latitude="42.958778" countryid="250" ></base>
+<base id="197" name="Lipari" city="Lipari" country="IT" address="" regionids="20" longitude="14.957339" latitude="38.465241" countryid="380" ></base>
+<base id="196" name="Lignano" city="Lignano Sabbiadoro" country="IT" address="" regionids="17" longitude="13.093525" latitude="45.650348" countryid="380" ></base>
+<base id="195" name="Les Marines de Cogolin" city="Cogolin" country="FR" address="" regionids="15" longitude="6.584458" latitude="43.2668" countryid="250" ></base>
+<base id="1229508520000100000" name="Porto Koufo" city="Porto Koufo" country="GR" address="" regionids="47" longitude="23.918306" latitude="39.970736" countryid="300" ></base>
+<base id="193" name="Le Marin" city="Martinique" country="MQ" address="" regionids="28" longitude="-60.866082" latitude="14.468653" countryid="474" ></base>
+<base id="192" name="Lavagna" city="Lavagna" country="IT" address="" regionids="19" longitude="9.338078" latitude="44.307021" countryid="380" ></base>
+<base id="191" name="La Spezia" city="La Spezia" country="IT" address="" regionids="19" longitude="9.860348" latitude="44.096801" countryid="380" ></base>
+<base id="190" name="Ischia" city="Ischia" country="IT" address="" regionids="18" longitude="13.941844" latitude="40.744355" countryid="380" ></base>
+<base id="189" name="Formia" city="Formia" country="IT" address="" regionids="18" longitude="13.608627" latitude="41.254726" countryid="380" ></base>
+<base id="188" name="Fiumaretta di Sarzana" city="Fiumaretta" country="IT" address="" regionids="19" longitude="9.985623" latitude="44.046334" countryid="380" ></base>
+<base id="187" name="Marina di Scarlino - Follonica" city="Puntone - Follonica" country="IT" address="" regionids="19" longitude="10.78336" latitude="42.885461" countryid="380" ></base>
+<base id="186" name="Crotone" city="Crotone" country="IT" address="" regionids="7,20" longitude="17.135421" latitude="39.078833" countryid="380" ></base>
+<base id="185" name="Civitavecchia" city="Civitavecchia" country="IT" address="" regionids="18" longitude="11.811783" latitude="42.063201" countryid="380" ></base>
+<base id="184" name="Chiavari" city="Chiavari" country="IT" address="" regionids="19" longitude="9.321685" latitude="44.312595" countryid="380" ></base>
+<base id="183" name="Cayo Largo" city="Havana" country="CU" address="" regionids="28" longitude="-82.334633" latitude="23.141189" countryid="192" ></base>
+<base id="182" name="Marina di Stabia" city="Castellammare di Stabia" country="IT" address="" regionids="20,18" longitude="14.47306" latitude="40.721632" countryid="380" ></base>
+<base id="181" name="Cartagena" city="Cartagena - Bolivar" country="CO" address="" regionids="13" longitude="-75.541885" latitude="10.41174" countryid="170" ></base>
+<base id="180" name="Carloforte" city="Carloforte" country="IT" address="" regionids="21" longitude="8.310707" latitude="39.14751" countryid="380" ></base>
+<base id="179" name="Cannigione" city="Cannigione" country="IT" address="" regionids="21" longitude="9.441891" latitude="41.106438" countryid="380" ></base>
+<base id="178" name="Calvi" city="Calvi" country="FR" address="" regionids="15,19,21" longitude="8.757348" latitude="42.564587" countryid="250" ></base>
+<base id="177" name="Cala Galera" city="Lampedusa" country="IT" address="" regionids="20" longitude="12.601919" latitude="35.501492" countryid="380" ></base>
+<base id="176" name="Cagliari" city="Cagliari" country="IT" address="" regionids="21" longitude="9.124811" latitude="39.201847" countryid="380" ></base>
+<base id="175" name="Port du Lavandou" city="Le Lavandou" country="FR" address="" regionids="15" longitude="6.374216" latitude="43.136553" countryid="250" ></base>
+<base id="174" name="Bonifacio" city="Bonifacio" country="FR" address="" regionids="21" longitude="9.163671" latitude="41.388521" countryid="250" ></base>
+<base id="173" name="Bocca di Magra" city="Bocca di Magra" country="IT" address="" regionids="19" longitude="9.985746" latitude="44.046411" countryid="380" ></base>
+<base id="172" name="Bastia" city="Bastia" country="FR" address="" regionids="19" longitude="9.450924" latitude="42.695424" countryid="250" ></base>
+<base id="681998790000100000" name="Estonia - Pärnu Marina" city="Pärnu" country="EE" address="Lootsi tn 6" regionids="27" longitude="24.489377" latitude="58.387023" countryid="233" ></base>
+<base id="409399310000100000" name="Hjellestad Marina" city="Bergen" country="NO" address="" regionids="31" longitude="5.240132" latitude="60.256571" countryid="578" ></base>
+<base id="169" name="Arbatax" city="Arbatax" country="IT" address="" regionids="21" longitude="9.704511" latitude="39.93744" countryid="380" ></base>
+<base id="168" name="Aprilia" city="Anzio" country="IT" address="" regionids="18" longitude="12.632325" latitude="41.447375" countryid="380" ></base>
+<base id="167" name="Antibes" city="Antibes" country="FR" address="" regionids="15" longitude="7.125621" latitude="43.586142" countryid="250" ></base>
+<base id="883500620000100000" name="Doca de Belém" city="Lisbon" country="PT" address="Doca de Belém" regionids="29" longitude="-9.205342" latitude="38.693927" countryid="620" ></base>
+<base id="806221430000100000" name="Sant Carles Marina" city="Sant Carles de la Rapita" country="ES" address="Ctras. Villafranco" regionids="13" longitude="0.597425" latitude="40.617073" countryid="724" ></base>
+<base id="164" name="Bonaire" city="Kralendijk" country="AN" address="Kaya Gobernador N.Debrot" regionids="28" longitude="-68.285233" latitude="12.164198" countryid="530" ></base>
+<base id="1759526410000100000" name="Marina of Port-sur-Saône" city="Port-sur-Saône" country="FR" address="Pré de la Maladière" regionids="30" longitude="6.040542" latitude="47.682758" countryid="250" ></base>
+<base id="162" name="Alghero Port" city="Alghero" country="IT" address="" regionids="21" longitude="8.313421" latitude="40.563014" countryid="380" ></base>
+<base id="161" name="Agropoli" city="Agropoli" country="IT" address="" regionids="18" longitude="14.981403" latitude="40.351646" countryid="380" ></base>
+<base id="160" name="Agrigento" city="Agrigento" country="IT" address="" regionids="20" longitude="13.578823" latitude="37.260887" countryid="380" ></base>
+<base id="1046753980000100000" name="Marina Fort Louis" city="Marigot, Saint Martin" country="MF" address="Baie De Marigot" regionids="28" longitude="-63.087675" latitude="18.070028" countryid="663" ></base>
+<base id="158" name="Puerto Calero - Lanzarote" city="Puerto Calero" country="ES" address="" regionids="14" longitude="-13.702075" latitude="28.917105" countryid="724" ></base>
+<base id="157" name="Eden Island Marina" city="Mahe, Victoria" country="SC" address="" regionids="37" longitude="55.477545" latitude="-4.642643" countryid="690" ></base>
+<base id="156" name="Los Roques" city="Puerto Piritu" country="VE" address="" regionids="28" longitude="-65.046739" latitude="10.062586" countryid="862" ></base>
+<base id="155" name="Marina Ithakis" city="Vathy" country="GR" address="" regionids="7" longitude="20.713841" latitude="38.371990" countryid="300" ></base>
+<base id="229067260000100000" name="Port Grimaud" city="Grimaud" country="FR" address="" regionids="15" longitude="6.581411" latitude="43.273956" countryid="250" ></base>
+<base id="152" name="Valencia" city="Valencia" country="ES" address="" regionids="13" longitude="-0.33163" latitude="39.428229" countryid="724" ></base>
+<base id="151" name="Taranto" city="Taranto" country="IT" address="" regionids="7" longitude="17.249972" latitude="40.45536" countryid="380" ></base>
+<base id="150" name="Siracusa " city="Siracusa " country="IT" address="Riva Porto lachio 4" regionids="20" longitude="15.293055" latitude="37.068841" countryid="380" ></base>
+<base id="149" name="Savona " city="Savona" country="IT" address="" regionids="19" longitude="8.485115" latitude="44.309386" countryid="380" ></base>
+<base id="148" name="Salerno" city="Salerno" country="IT" address="" regionids="18" longitude="14.754231" latitude="40.673461" countryid="380" ></base>
+<base id="147" name="Ostia" city="Rome" country="IT" address="" regionids="18" longitude="12.247739" latitude="41.73728" countryid="380" ></base>
+<base id="146" name="Reggio Calabria" city="Reggio Calabria" country="IT" address="" regionids="20" longitude="15.651516" latitude="38.128106" countryid="380" ></base>
+<base id="145" name="Portorož" city="Portorož" country="SI" address="" regionids="1" longitude="13.595881" latitude="45.503866" countryid="705" ></base>
+<base id="143" name="Mykonos" city="Mykonos" country="GR" address="" regionids="10" longitude="25.327821" latitude="37.447836" countryid="300" ></base>
+<base id="142" name="Messina" city="Messina" country="IT" address="" regionids="20" longitude="15.558953" latitude="38.199621" countryid="380" ></base>
+<base id="141" name="Marina di Ravenna" city="Ravenna" country="IT" address="" regionids="17" longitude="12.288251" latitude="44.490168" countryid="380" ></base>
+<base id="140" name="Cala D'Or" city="Cala D`Or" country="ES" address="" regionids="13" longitude="3.225249" latitude="39.369192" countryid="724" ></base>
+<base id="139" name="Livorno" city="Livorno" country="IT" address="" regionids="19" longitude="10.30067" latitude="43.538734" countryid="380" ></base>
+<base id="138" name="Maddalena islands" city="La Maddalena" country="IT" address="" regionids="21" longitude="9.410284" latitude="41.213667" countryid="380" ></base>
+<base id="137" name="Club Nautic Cambrils" city="Cambrils" country="ES" address="Passeig de las palmeras" regionids="13,46" longitude="1.064365" latitude="41.064753" countryid="724" ></base>
+<base id="136" name="Genoa" city="Genoa" country="IT" address="" regionids="19" longitude="8.929417" latitude="44.399418" countryid="380" ></base>
+<base id="135" name="Gaeta" city="Gaeta - Latina" country="IT" address="" regionids="18" longitude="13.572943" latitude="41.215483" countryid="380" ></base>
+<base id="134" name="Crete" city="Linoperamata" country="GR" address="" regionids="10,9" longitude="25.042713" latitude="35.354371" countryid="300" ></base>
+<base id="133" name="Sami Port" city="Sami - Kefalonia" country="GR" address="" regionids="7" longitude="20.647743" latitude="38.253079" countryid="300" ></base>
+<base id="132" name="Porto Rossi" city="Catania" country="IT" address="Piazza Europa" regionids="20" longitude="15.106565" latitude="37.513386" countryid="380" ></base>
+<base id="131" name="Puerto Rico" city="San Juan" country="PR" address="" regionids="28" longitude="-66.089061" latitude="18.459623" countryid="630" ></base>
+<base id="130" name="Key Largo" city="Key Largo" country="US" address="" regionids="28" longitude="-80.457945" latitude="25.086551" countryid="840" ></base>
+<base id="129" name="Venezia" city="Venezia" country="IT" address="" regionids="17" longitude="12.364541" latitude="45.429249" countryid="380" ></base>
+<base id="128" name="Domaso" city="Domaso" country="IT" address="" regionids="30" longitude="9.339039" latitude="46.155556" countryid="380" ></base>
+<base id="127" name="Marina Cala de' Medici" city="Castiglioncello" country="IT" address="Viale Trieste 142 " regionids="19" longitude="10.416713" latitude="43.402927" countryid="380" ></base>
+<base id="126" name="Marina Zaton" city="Zaton Šibenski" country="HR" address="" regionids="4,3" longitude="15.82322" latitude="43.786172" countryid="191" ></base>
+<base id="125" name="ACI Marina Vodice" city="Vodice" country="HR" address="Vrulje" regionids="4,3" longitude="15.777526" latitude="43.757395" countryid="191" ></base>
+<base id="124" name="Marina Hramina" city="Murter" country="HR" address="Put Gradine 1" regionids="4,3" longitude="15.592582" latitude="43.827608" countryid="191" ></base>
+<base id="54704180000100000" name="Balatonfüred" city="Balatonfüred" country="HU" address="" regionids="30" longitude="17.888886" latitude="46.949566" countryid="348" ></base>
+<base id="122" name="Tehnomont Marina Veruda" city="Pula" country="HR" address="" regionids="1" longitude="13.842623" latitude="44.842649" countryid="191" ></base>
+<base id="121" name="Marina Betina" city="Murter" country="HR" address="Ul. Prvoborca Nikole Škevina 15" regionids="4,3" longitude="15.600822" latitude="43.827461" countryid="191" ></base>
+<base id="120" name="Marina Kornati" city="Biograd" country="HR" address="Šetalište kneza Branimira 1" regionids="4,2" longitude="15.442507" latitude="43.941" countryid="191" ></base>
+<base id="119" name="Marina Kaštela" city="Kaštel Gomilica" country="HR" address="Franje Tuđmana 213" regionids="5" longitude="16.401395" latitude="43.546021" countryid="191" ></base>
+<base id="118" name="D-marin Turgutreis" city="Bodrum" country="TR" address="" regionids="25" longitude="27.256531" latitude="37.001824" countryid="792" ></base>
+<base id="117" name="La Gomera" city="San Sebastian de la Gomera" country="ES" address="" regionids="14" longitude="-17.108567" latitude="28.088981" countryid="724" ></base>
+<base id="113" name="Puerto Calero" city="Puerto calero - Lanzarote" country="ES" address="" regionids="14" longitude="-13.702097" latitude="28.917067" countryid="724" ></base>
+<base id="112" name="Las Palmas de Gran Canaria" city="Las Palmas" country="ES" address="" regionids="14" longitude="-15.425963" latitude="28.126021" countryid="724" ></base>
+<base id="111" name="Puerto Deportivo Radazul" city="Santa Cruz de Tenerife" country="ES" address="Urb. Radazul s/n, El Rosario" regionids="14" longitude="-16.322503" latitude="28.400856" countryid="724" ></base>
+<base id="110" name="Marina Zadar" city="Zadar" country="HR" address="Ivana Meštrovića 3" regionids="4,2" longitude="15.229668" latitude="44.119411" countryid="191" ></base>
+<base id="109" name="Crikvenica City Port" city="Crikvenica" country="HR" address="" regionids="1" longitude="14.696167" latitude="45.170261" countryid="191" ></base>
+<base id="108" name="Tribunj" city="Tribunj" country="HR" address="" regionids="4,3" longitude="15.745726" latitude="43.754233" countryid="191" ></base>
+<base id="107" name="Marbella" city="Marbella" country="ES" address="" regionids="43" longitude="-4.888996" latitude="36.505898" countryid="724" ></base>
+<base id="106" name="Bodoe" city="Bodo" country="NO" address="" regionids="22" longitude="14.367929" latitude="67.283381" countryid="578" ></base>
+<base id="105" name="Puerto Mahon" city="Mahon - Menorca" country="ES" address="Moll Cos Nou, 27-41" regionids="13" longitude="4.276117" latitude="39.887875" countryid="724" ></base>
+<base id="1477598960000100000" name="Kuredhivaru" city="Kuredhivaru" country="MV" address="" regionids="37" longitude="73.343204" latitude="5.875129" countryid="462" ></base>
+<base id="103" name="Porto Deportivo de Combarro" city="Pontevedra" country="ES" address="Edificio de Capitania" regionids="29" longitude="-8.705184" latitude="42.428565" countryid="724" ></base>
+<base id="86774220000100000" name="Sutomišćica" city="Ugljan" country="HR" address="" regionids="4,2" longitude="15.170463" latitude="44.095591" countryid="191" ></base>
+<base id="101" name="Marina Admiral" city="Opatija" country="HR" address="" regionids="1" longitude="14.300519" latitude="45.327206" countryid="191" ></base>
+<base id="100" name="Rijeka" city="Rijeka" country="HR" address="" regionids="1" longitude="14.387616" latitude="45.33674" countryid="191" ></base>
+<base id="99" name="broken Marina Sopot" city="zzzzz---Sopot" country="PL" address="Plac Zdrojowy 2" regionids="27" longitude="18.578216" latitude="54.448414" countryid="616" ></base>
+<base id="98" name="Moniga Porto" city="Moniga del Garda" country="IT" address="Via Del Porto" regionids="30" longitude="10.538649" latitude="45.521308" countryid="380" ></base>
+<base id="95" name="ACI Marina Cres" city="Cres" country="HR" address="Obala Svetog Benedikta 3" regionids="1" longitude="14.414535" latitude="44.948824" countryid="191" ></base>
+<base id="89" name="Preveza Marina" city="Preveza" country="GR" address="" regionids="7" longitude="20.756419" latitude="38.960851" countryid="300" ></base>
+<base id="88" name="Port Louis Marina" city="St George's" country="GD" address="P.O. Box 3858" regionids="28" longitude="-61.749751" latitude="12.044252" countryid="308" ></base>
+<base id="87" name="Santa Marina Salina" city="Santa Marina Salina" country="IT" address="" regionids="20" longitude="14.872077" latitude="38.556019" countryid="380" ></base>
+<base id="86" name="Ajaccio" city="Ajaccio" country="FR" address="" regionids="21" longitude="8.741491" latitude="41.929549" countryid="250" ></base>
+<base id="944736930000100000" name="Marina de Cascais" city="Cascais" country="PT" address="Casa de Säo Bernardo" regionids="29" longitude="-9.417773" latitude="38.692730" countryid="620" ></base>
+<base id="83" name="Angra dos Reis" city="Rio de Janeiro" country="BR" address="" regionids="54" longitude="-44.333873" latitude="-22.94923" countryid="76" ></base>
+<base id="82" name="Paraty" city="Paraty - Rio de Janeiro" country="BR" address="" regionids="54" longitude="-44.71324" latitude="-23.231764" countryid="76" ></base>
+<base id="81" name="Solent " city="Portsmouth" country="GB" address="" regionids="29,23" longitude="-1.10136" latitude="50.84298" countryid="826" ></base>
+<base id="80" name="San Pedro" city="San Pedro" country="BZ" address="" regionids="28" longitude="-87.967186" latitude="17.913409" countryid="84" ></base>
+<base id="79" name="St. Vincent" city="Port Elizabeth" country="VC" address="" regionids="28" longitude="-61.236092" latitude="13.00904" countryid="670" ></base>
+<base id="77" name="Kerteminde" city="Keterminde" country="DK" address="" regionids="27" longitude="10.666094" latitude="55.452591" countryid="208" ></base>
+<base id="75" name="Grande Baie" city="Grande Baie" country="MU" address="" regionids="37" longitude="57.567641" latitude="-20.012786" countryid="480" ></base>
+<base id="73" name="Keci Buku" city="Orhaniye" country="TR" address="" regionids="26" longitude="28.126669" latitude="36.759988" countryid="792" ></base>
+<base id="72" name="Magnetic Palm Island" city="Nelly Bay" country="AU" address="" regionids="33" longitude="146.854033" latitude="-19.158354" countryid="36" ></base>
+<base id="71" name="Clyde Estuary - Largs" city="Glasgow" country="GB" address="" regionids="29" longitude="-4.74721" latitude="55.946647" countryid="826" ></base>
+<base id="742602770000100000" name="Poltu Quatu" city="Arzachena" country="IT" address="Villaggio Poltu Quatu, 4" regionids="21,18" longitude="9.496531" latitude="41.135759" countryid="380" ></base>
+<base id="69" name="Kinsale Yacht Club Marina" city="Kinsale" country="IE" address="" regionids="29" longitude="-8.518766" latitude="51.702456" countryid="372" ></base>
+<base id="68" name="Hyeres" city="Hyeres" country="FR" address="" regionids="15" longitude="6.157708" latitude="43.081364" countryid="250" ></base>
+<base id="67" name="Papeete" city="Papeete, Tahiti" country="PF" address="" regionids="32" longitude="-149.58066" latitude="-17.535204" countryid="258" ></base>
+<base id="66" name="Vancouver" city="Vancouver" country="CA" address="" regionids="36" longitude="-123.138533" latitude="49.273293" countryid="124" ></base>
+<base id="65" name="Tonga" city="Nuku`alofa" country="TO" address="" regionids="32" longitude="-175.185207" latitude="-21.138735" countryid="776" ></base>
+<base id="64" name="Marina de Uturoa" city="Raiatea" country="PF" address="" regionids="32" longitude="-151.446581" latitude="-16.724747" countryid="258" ></base>
+<base id="63" name="Hauraki Gulf" city="Auckland" country="NZ" address="" regionids="33" longitude="174.74654" latitude="-36.838073" countryid="554" ></base>
+<base id="62" name="Bay of Islands" city="Russel" country="NZ" address="" regionids="33" longitude="174.120469" latitude="-35.262003" countryid="554" ></base>
+<base id="61" name="Whitsundays" city="Bowen" country="AU" address="" regionids="33" longitude="148.255599" latitude="-20.016117" countryid="36" ></base>
+<base id="60" name="Sydney" city="Sydney" country="AU" address="" regionids="33" longitude="151.223373" latitude="-33.974862" countryid="36" ></base>
+<base id="59" name="England - East Coast" city="" country="IE" address="" regionids="31" longitude="1.7173" latitude="52.474495" countryid="372" ></base>
+<base id="58" name="England - North East" city="Hartlepool" country="IE" address="" regionids="31" longitude="-1.201286" latitude="54.691061" countryid="372" ></base>
+<base id="57" name="Wales - North" city="" country="GB" address="" regionids="29" longitude="" latitude="" countryid="826" ></base>
+<base id="56" name="Wales - West" city="" country="GB" address="" regionids="29" longitude="" latitude="" countryid="826" ></base>
+<base id="54" name="VVW-Nieuwpoort" city="Nieuwpoort" country="BE" address="" regionids="31" longitude="2.74684" latitude="51.141677" countryid="56" ></base>
+<base id="663850370000100000" name="Hobbs of Henley Boatyard" city="Henley on Thames" country="GB" address="" regionids="29,31,23" longitude="-0.899710" latitude="51.535610" countryid="826" ></base>
+<base id="52" name="Britanny - North" city="Lezardrieux" country="FR" address="" regionids="16" longitude="-3.100998" latitude="48.787951" countryid="250" ></base>
+<base id="51" name="Britanny - South" city="Doelan" country="FR" address="" regionids="16" longitude="-3.605018" latitude="47.774666" countryid="250" ></base>
+<base id="50" name="La Rochelle" city="La Rochelle" country="FR" address="" regionids="51,16" longitude="-1.165795" latitude="46.14541" countryid="250" ></base>
+<base id="49" name="England - South West" city="Penarth" country="IE" address="" regionids="31,23" longitude="-3.174448" latitude="51.444954" countryid="372" ></base>
+<base id="803355210000100000" name="Kalkara Marina" city="Kalkara" country="MT" address="Kalkara Wharf" regionids="44" longitude="14.524316" latitude="35.890238" countryid="470" ></base>
+<base id="70396760000100000" name="Varazze" city="Varazze" country="IT" address="" regionids="19" longitude="8.567527" latitude="44.352827" countryid="380" ></base>
+<base id="45" name="SCT Marina Trogir" city="Trogir" country="HR" address="Put Brodograditelja 16" regionids="5" longitude="16.244101" latitude="43.513077" countryid="191" ></base>
+<base id="44" name="Port d'Aiguadolç" city="Sitges, Barcelona" country="ES" address="" regionids="46" longitude="1.82552" latitude="41.234704" countryid="724" ></base>
+<base id="770606660000100000" name="Lac Léman" city="Geneva" country="CH" address="" regionids="30" longitude="6.483165" latitude="46.462438" countryid="756" ></base>
+<base id="41" name="Marina Santa Eulalia" city="Ibiza - Santa Eulària des Riu" country="ES" address="Edificio Capitania s/n" regionids="13" longitude="1.539395" latitude="38.983949" countryid="724" ></base>
+<base id="40" name="Majorca - Ca'n Pastilla" city="Platja de Palma" country="ES" address="" regionids="13" longitude="2.715662" latitude="39.533025" countryid="724" ></base>
+<base id="39" name="Nelson's Dockyard" city="Antigua" country="AG" address="Dockyard Drive" regionids="28" longitude="-61.764280" latitude="17.008663" countryid="28" ></base>
+<base id="38" name="Marina Port Vell" city="Barcelona" country="ES" address="" regionids="13,46" longitude="2.185335" latitude="41.378225" countryid="724" ></base>
+<base id="37" name="Nice" city="Nice" country="FR" address="" regionids="15" longitude="7.284772" latitude="43.696882" countryid="250" ></base>
+<base id="182736770000100000" name="Vermenton" city="Vermenton" country="FR" address="" regionids="30" longitude="3.72727" latitude="47.663016" countryid="250" ></base>
+<base id="1174097000000100000" name="Macon" city="Macon" country="FR" address="" regionids="30" longitude="4.846396" latitude="46.324297" countryid="250" ></base>
+<base id="34" name="Toulon" city="Toulon" country="FR" address="" regionids="15" longitude="5.929214" latitude="43.119695" countryid="250" ></base>
+<base id="33" name="Marseille" city="Marseille" country="FR" address="" regionids="15" longitude="5.368881" latitude="43.294184" countryid="250" ></base>
+<base id="32" name="Yacht club Port de Plaisance" city="Sint Maarten" country="SX" address="" regionids="28" longitude="-63.090634" latitude="18.033668" countryid="534" ></base>
+<base id="31" name="Naples" city="Naples" country="IT" address="" regionids="18" longitude="14.222574" latitude="40.827043" countryid="380" ></base>
+<base id="30" name="Limassol" city="Limassol" country="CY" address="" regionids="12" longitude="33.043002" latitude="34.670012" countryid="196" ></base>
+<base id="29" name="Larnaca" city="Larnaca" country="CY" address="" regionids="12" longitude="33.640416" latitude="34.917273" countryid="196" ></base>
+<base id="28" name="Kemer" city="Kemer" country="TR" address="" regionids="12" longitude="30.57273" latitude="36.600387" countryid="792" ></base>
+<base id="27" name="Göcek" city="Göcek" country="TR" address="" regionids="26" longitude="28.942795" latitude="36.748599" countryid="792" ></base>
+<base id="26" name="Marmaris" city="Marmaris" country="TR" address="" regionids="26" longitude="28.279238" latitude="36.851655" countryid="792" ></base>
+<base id="25" name="Bodrum" city="Bodrum" country="TR" address="" regionids="25" longitude="27.424879" latitude="37.034471" countryid="792" ></base>
+<base id="24" name="Kusadasi" city="Kusadasi" country="TR" address="" regionids="35" longitude="27.262691" latitude="37.870856" countryid="792" ></base>
+<base id="23" name="Zante" city="Zakynthos " country="GR" address="" regionids="7" longitude="20.864088" latitude="37.715323" countryid="300" ></base>
+<base id="744121720000100000" name="Herceg Novi Harbor" city="Herceg Novi" country="ME" address="" regionids="6" longitude="18.534694" latitude="42.450135" countryid="499" ></base>
+<base id="21" name="Skiathos " city="Skiathos" country="GR" address="Port by Vessta" regionids="8" longitude="23.492095" latitude="39.16469" countryid="300" ></base>
+<base id="20" name="Samos" city="Samos" country="GR" address="" regionids="9" longitude="26.976236" latitude="37.754574" countryid="300" ></base>
+<base id="19" name="Mandraki Port" city="Rhodes" country="GR" address="" regionids="9" longitude="28.22664" latitude="36.44877" countryid="300" ></base>
+<base id="18" name="Paxos" city="Gaios" country="GR" address="" regionids="10" longitude="20.186552" latitude="39.201797" countryid="300" ></base>
+<base id="653494960000100000" name="Ibiza Nueva" city="Ibiza" country="ES" address="" regionids="13" longitude="1.442961" latitude="38.913804" countryid="724" ></base>
+<base id="16" name="Lavrion Marina" city="Lavrion" country="GR" address="Lavreotiki" regionids="35,10" longitude="24.056905" latitude="37.712764" countryid="300" ></base>
+<base id="659651100000100000" name="Marina d`Angra" city="Angra do Heriosmo" country="PT" address="" regionids="45" longitude="-27.217153" latitude="38.653000" countryid="620" ></base>
+<base id="14" name="Corfu" city="Kerkira" country="GR" address="" regionids="7" longitude="19.925637" latitude="39.619813" countryid="300" ></base>
+<base id="136339140000100000" name="Flensburg" city="Flensburg" country="DE" address="" regionids="30" longitude="9.454025" latitude="54.810449" countryid="276" ></base>
+<base id="12" name="Marina D-Marin Dalmacija" city="Sukošan" country="HR" address="" regionids="4,2" longitude="15.295794" latitude="44.057153" countryid="191" ></base>
+<base id="11" name="Umag City port" city="Umag" country="HR" address="" regionids="1" longitude="13.521488" latitude="45.433974" countryid="191" ></base>
+<base id="10" name="ACI Marina Trogir" city="Trogir" country="HR" address="Put Cumbrijana" regionids="5" longitude="16.249291" latitude="43.514105" countryid="191" ></base>
+<base id="9" name="ACI Marina Split" city="Split" country="HR" address="Uvala Baluni 8" regionids="5" longitude="16.430012" latitude="43.502583" countryid="191" ></base>
+<base id="8" name="Rovinj City Port" city="Rovinj" country="HR" address="" regionids="1" longitude="13.635278" latitude="45.075839" countryid="191" ></base>
+<base id="7" name="Marina Frapa" city="Rogoznica" country="HR" address="Uvala Soline 1" regionids="4,5,3" longitude="15.962276" latitude="43.531687" countryid="191" ></base>
+<base id="6" name="Marina Punat" city="Punat, Krk" country="HR" address="" regionids="1" longitude="14.626901" latitude="45.028346" countryid="191" ></base>
+<base id="5" name="Bunarina" city="Pula" country="HR" address="" regionids="1" longitude="13.842623" latitude="44.844741" countryid="191" ></base>
+<base id="4" name="Poreč Port" city="Poreč" country="HR" address="" regionids="1" longitude="13.595071" latitude="45.224087" countryid="191" ></base>
+<base id="3" name="Marina Kremik" city="Primošten" country="HR" address="Splitska 22-24" regionids="4,5,3" longitude="15.942074" latitude="43.570178" countryid="191" ></base>
+<base id="2" name="ACI Marina Jezera" city="Murter" country="HR" address="Obala Sv. Ivana" regionids="4,3" longitude="15.644971" latitude="43.783202" countryid="191" ></base>
+<base id="1" name="ACI Marina Dubrovnik" city="Dubrovnik" country="HR" address="2, Ul. na Skali" regionids="6" longitude="18.124352" latitude="42.670351" countryid="191" ></base>
+<base id="0" name="Cienfuegos" city="Cienfuegos" country="CU" address="" regionids="28" longitude="-80.453058" latitude="22.149982" countryid="192" ></base>
+<base id="48318570000100000" name="ACI Marina Skradin" city="Skradin" country="HR" address="Obala Pavla Šubica 18" regionids="4,3" longitude="15.921144" latitude="43.817623" countryid="191" ></base>
+<base id="293058420000100000" name="Porto Santa Maria Maggiore" city="Milazzo" country="IT" address="" regionids="20" longitude="15.244431" latitude="38.226466" countryid="380" ></base>
+<base id="175328200000100000" name="Luka Kaliman" city="Tivat" country="ME" address="" regionids="6" longitude="18.700919" latitude="42.427986" countryid="499" ></base>
+<base id="388701130000100000" name="Key West" city="Key West" country="US" address="" regionids="28" longitude="-81.808764" latitude="24.553291" countryid="840" ></base>
+<base id="1999926420000100000" name="Desroches Island anchorage" city="Desroches Island " country="SC" address="" regionids="37" longitude="53.654513" latitude="-5.702119" countryid="690" ></base>
+<base id="398333810000100000" name="ACI Marina Milna" city="Milna, Brač" country="HR" address="D114 4" regionids="4,5" longitude="16.448625" latitude="43.325857" countryid="191" ></base>
+<base id="654123240000100000" name="Port du Crouesty" city="Arzon" country="FR" address="" regionids="29" longitude="-2.893688" latitude="47.544349" countryid="250" ></base>
+<base id="677038710000100000" name="Ormos Panagias" city="Ormos Panagias" country="GR" address="" regionids="47" longitude="23.735711" latitude="40.234406" countryid="300" ></base>
+<base id="803257260000100000" name="Vir" city="Vir" country="HR" address="Šetnica Jadro" regionids="2" longitude="15.087724" latitude="44.296270" countryid="191" ></base>
+<base id="434692350000100000" name="ACI Marina Opatija" city="Ičići" country="HR" address="" regionids="1" longitude="14.289608" latitude="45.314253" countryid="191" ></base>
+<base id="1179986150000100000" name="Precenicco" city="Udine" country="IT" address="Palazzolo della Stella" regionids="30" longitude="13.064491" latitude="45.763076" countryid="380" ></base>
+<base id="455385030000100000" name="Marina de Bonaire" city="Alcudia" country="ES" address="" regionids="13" longitude="3.148785" latitude="39.866945" countryid="724" ></base>
+<base id="34942660000100000" name="Göteborg Citv Marina" city="Göteborg" country="SE" address="Järnmalmsgatan" regionids="27" longitude="11.975841" latitude="57.721257" countryid="752" ></base>
+<base id="817551230000100000" name="Santa Cruz Marina" city="Santa Cruse de Tenerife" country="ES" address="Muelle de Enlace, Dársena de Los Lianos s/n" regionids="14" longitude="-16.243964" latitude="28.466371" countryid="724" ></base>
+<base id="1987444040000100000" name="Söderköping" city="Söderköping" country="SE" address="" regionids="27" longitude="16.420459" latitude="58.479562" countryid="752" ></base>
+<base id="1457689920000100000" name="Marina Neuhof" city="Sundhagen/Neuhof" country="DE" address="Am Strelasund 1" regionids="27" longitude="13.180238" latitude="54.264649" countryid="276" ></base>
+<base id="1179990490000100000" name="Hindeloopen" city="JS Hindeloopen" country="NL" address="Oosterstrand 22-25" regionids="30" longitude="5.405888" latitude="52.944885" countryid="528" ></base>
+<base id="498501610000100000" name="Marina Solila" city="Tivat" country="ME" address="" regionids="6" longitude="18.703094" latitude="42.393354" countryid="499" ></base>
+<base id="1160026090000100000" name="Port Hamble Marina" city="Southampton" country="GB" address="Satchell Lane, Hamble" regionids="29,31" longitude="-1.312043" latitude="50.861096" countryid="826" ></base>
+<base id="1179992770000100000" name="Chertsey" city="Staines" country="GB" address="272 Chertsey Ln" regionids="30" longitude="-0.508651" latitude="51.411959" countryid="826" ></base>
+<base id="602567210000100000" name="Royal Cape Yacht Club" city="Cape Town" country="ZA" address="Duncan Rd" regionids="40" longitude="18.443464" latitude="-33.919828" countryid="710" ></base>
+<base id="1759562840000100000" name="Venarey" city="Venarey-les-Laumes" country="FR" address="" regionids="30" longitude="4.438675" latitude="47.540512" countryid="250" ></base>
+<base id="404297430000100000" name="Palmiye Marina" city="Orhaniye" country="TR" address="" regionids="26" longitude="28.131908" latitude="36.754427" countryid="792" ></base>
+<base id="1521351200000100000" name="ACI Marina Korčula" city="Korčula" country="HR" address="Šetalište Frana Kršinića" regionids="5" longitude="17.135680" latitude="42.958677" countryid="191" ></base>
+<base id="770991680000100000" name="Marina Parque Das Nações" city="Lisbon" country="PT" address="Passeio Neptuno" regionids="29" longitude="-9.093600" latitude="38.754258" countryid="620" ></base>
+<base id="1215585860000100000" name="Bilice Port" city="Bilice, Šibenik" country="HR" address="" regionids="4,3" longitude="15.880730" latitude="43.787305" countryid="191" ></base>
+<base id="651884740000100000" name="Hodge's Creek Marina" city="Parham Town" country="VG" address="Waterfront Dr." regionids="28" longitude="-64.568019" latitude="18.424714" countryid="92" ></base>
+<base id="1759465920000100000" name="Neuruppin" city="Neuruppin" country="DE" address="" regionids="30" longitude="12.812624" latitude="52.923050" countryid="276" ></base>
+<base id="644506890000100000" name="Port de Soller" city="Mallorca - Soller" country="ES" address="" regionids="13" longitude="2.693756" latitude="39.796853" countryid="724" ></base>
+<base id="475006130000100000" name="Martinis Marchi Marina" city="Maslinica" country="HR" address="" regionids="5" longitude="16.207491" latitude="43.398408" countryid="191" ></base>
+<base id="713205480000100000" name="Harbour Bay Marina" city="Nassau" country="BS" address="E Bay St" regionids="28" longitude="-77.314228" latitude="25.074535" countryid="44" ></base>
+<base id="1173982850000100000" name="Briare" city="Briare" country="FR" address="" regionids="30" longitude="2.732237" latitude="47.641167" countryid="250" ></base>
+<base id="666579330000100000" name="Blue Lagoon" city="St Vincent" country="VC" address="" regionids="28" longitude="-61.190722" latitude="13.127623" countryid="670" ></base>
+<base id="2044474240000100000" name="Yacht Club Amfitheas" city="Palaio Faliro" country="GR" address="" regionids="35" longitude="23.686326" latitude="37.934339" countryid="300" ></base>
+<base id="183988270000100000" name="Tromso" city="Tromso" country="NO" address="" regionids="22" longitude="18.997479" latitude="69.652815" countryid="578" ></base>
+<base id="1110313670000100000" name="Passikudah" city="Passikudah " country="LK" address="" regionids="37" longitude="81.566789" latitude="7.926291" countryid="144" ></base>
+<base id="30976350000100000" name="Fethiye" city="Fethiye" country="TR" address="" regionids="26" longitude="29.101582" latitude="36.623829" countryid="792" ></base>
+<base id="993307790000100000" name="Marina Kaap Hoorn" city="Hoorn" country="NL" address="Schelphoek 4" regionids="31" longitude="5.081624" latitude="52.641245" countryid="528" ></base>
+<base id="1415663440000100000" name="Puerto del Rosario" city="Puerto del Rosario - Fuertaventura" country="ES" address="" regionids="29" longitude="-13.858457" latitude="28.496795" countryid="724" ></base>
+<base id="411324560000100000" name="Circeo" city="San Felice Circeo" country="IT" address="" regionids="18" longitude="13.093665" latitude="41.225094" countryid="380" ></base>
+<base id="952682190000100000" name="Ploče City Port" city="Ploče" country="HR" address="" regionids="6,5" longitude="17.432934" latitude="43.051458" countryid="191" ></base>
+<base id="182736730000100000" name="Zehdenick / Havel" city="Zehdenick" country="DE" address="" regionids="30" longitude="13.333335" latitude="52.985276" countryid="276" ></base>
+<base id="665898710000100000" name="Club de Mar" city="Palma de Mallorca" country="ES" address="Muelle Pelaires s/n" regionids="13" longitude="2.625786" latitude="39.554632" countryid="724" ></base>
+<base id="776748030000100000" name="Marina Port Premià" city="Premià de Mar, Barcelona" country="ES" address="Cam Ral, s/n" regionids="13" longitude="2.367102" latitude="41.490169" countryid="724" ></base>
+<base id="494200750000100000" name="Westmer Marina" city="Haapsalu" country="EE" address="" regionids="27" longitude="23.52342" latitude="58.955453" countryid="233" ></base>
+<base id="661680080000100000" name="Chania" city="Chania, Crete" country="GR" address="" regionids="10,9" longitude="24.020126" latitude="35.519364" countryid="300" ></base>
+<base id="29805090000100000" name="Marina Ibiza" city="Ibiza" country="ES" address="" regionids="13" longitude="1.447234" latitude="38.912023" countryid="724" ></base>
+<base id="171810110000100000" name="Chalong Pier" city="Phuket" country="TH" address="" regionids="34" longitude="98.350299" latitude="7.819184" countryid="764" ></base>
+<base id="2013517180000100000" name="Port of Sivota" city="Sivota" country="GR" address="" regionids="7" longitude="20.682234" latitude="38.624569" countryid="300" ></base>
+<base id="142311220000100000" name="Yerseke" city="Yerseke" country="NL" address="" regionids="31" longitude="4.053981" latitude="51.496518" countryid="528" ></base>
+<base id="2117839140000100000" name="Keramoti" city="Keramoti" country="GR" address="" regionids="47" longitude="24.702125" latitude="40.857675" countryid="300" ></base>
+<base id="1174025630000100000" name="Marina Miko" city="Mikolajki" country="PL" address="" regionids="30" longitude="21.564696" latitude="53.798027" countryid="616" ></base>
+<base id="1280267910000100000" name="Puerto Del Rey Marina" city="Fajardo" country="PR" address="4900 State Road" regionids="28" longitude="-65.634473" latitude="18.285187" countryid="630" ></base>
+<base id="1179950470000100000" name="Port Cassafières" city="Portiragnes" country="FR" address="Port Cassafières" regionids="30" longitude="3.3717742" latitude="43.292018" countryid="250" ></base>
+<base id="1079110850000100000" name="Carti Sugdup Kuna Yala" city="Carti Sugdup" country="PA" address="" regionids="28" longitude="-78.961055" latitude="9.470552" countryid="591" ></base>
+<base id="1363517430000100000" name="Port Calanova" city="Palma de Mallorca" country="ES" address="Avda. Joan Miro, 327. " regionids="13" longitude="2.598826" latitude="39.549891" countryid="724" ></base>
+<base id="808981920000100000" name="Serifos" city="Livadi" country="GR" address="" regionids="10" longitude="24.518124" latitude="37.142617" countryid="300" ></base>
+<base id="432480220000100000" name="Porto Mirabello" city="La Spezia" country="IT" address="" regionids="19" longitude="9.830854" latitude="44.099197" countryid="380" ></base>
+<base id="1173981860000100000" name="Dompierre-sur-Besbre" city="Dompierre-sur-Besbre" country="FR" address="" regionids="30" longitude="3.687925" latitude="46.521808" countryid="250" ></base>
+<base id="793632870000100000" name="Marina Frank Ringel" city="Werder" country="DE" address="An der Havel 38" regionids="30" longitude="12.918125" latitude="52.417222" countryid="276" ></base>
+<base id="747867310000100000" name="Cap Ferrat" city="Saint Jean Cap Ferrat" country="TF" address="Port de Saint Jean Cap Ferrat" regionids="15" longitude="7.3354365" latitude="43.68985" countryid="260" ></base>
+<base id="782274460000100000" name="Pantalan del Mediterraneo" city="Palma de Mallorca" country="ES" address="" regionids="13" longitude="2.628575" latitude="39.561439" countryid="724" ></base>
+<base id="492201260000100000" name="Marina Gouvia" city="Corfu" country="GR" address="" regionids="7" longitude="19.852982" latitude="39.648592" countryid="300" ></base>
+<base id="366709570000100000" name="Achillio port" city="Achillio" country="GR" address="" regionids="8" longitude="22.963951" latitude="39.006314" countryid="300" ></base>
+<base id="944735510000100000" name="American Yacht Harbor" city="St. Thomas" country="VI" address="Smith Bay" regionids="28" longitude="-64.852131" latitude="18.325078" countryid="850" ></base>
+<base id="1083137290000100000" name="Flisvos Marina" city="Athens" country="GR" address="Paleo Faliro" regionids="35,10" longitude="23.685242" latitude="37.930353" countryid="300" ></base>
+<base id="1103044210000100000" name="Adaköy Marina" city="Marmaris" country="TR" address="" regionids="26" longitude="28.288119" latitude="36.816133" countryid="792" ></base>
+<base id="1174106830000100000" name="Melesse" city="Melesse" country="FR" address="" regionids="30" longitude="-1.665357" latitude="48.254260" countryid="250" ></base>
+<base id="1155384800000100000" name="Club Náutico Santa Ponça" city="Santa Ponça" country="ES" address="Via de La Cruz 46" regionids="13" longitude="2.467675" latitude="39.511996" countryid="724" ></base>
+<base id="675202840000100000" name="Estonia - Kärdla Marina" city="Hiiumaa" country="EE" address="Sadama 28/30, Kärdla" regionids="27" longitude="22.747114" latitude="58.998141" countryid="233" ></base>
+<base id="1526680900000100000" name="Selimiye" city="Selimiye" country="TR" address="" regionids="26" longitude="28.093306" latitude="36.707664" countryid="792" ></base>
+<base id="1766780490000100000" name="Marina Roda de Barà" city="Roda de Barà" country="ES" address="Puerto Deportivo Edificio Capitania" regionids="46" longitude="1.486268" latitude="41.169793" countryid="724" ></base>
+<base id="502757640000100000" name="Marina Wentdorf" city="Wentdorf" country="DE" address="" regionids="27" longitude="10.285349" latitude="54.419729" countryid="276" ></base>
+<base id="31360110000100000" name="Ponta Delgada - Azores" city="Ponta Delgada - Azores" country="PT" address="" regionids="45" longitude="-25.658312" latitude="37.740818" countryid="620" ></base>
+<base id="636524260000100000" name="TradeWinds Yacht Club" city="Marsh Harbour" country="BS" address="" regionids="28" longitude="-77.049647" latitude="26.540084" countryid="44" ></base>
+<base id="1364557960000100000" name="Secret Harbour Marina" city="St. George's" country="GD" address="Lance Aux Epines" regionids="28" longitude="-61.752847" latitude="12.004228" countryid="308" ></base>
+<base id="499208460000100000" name="Aalsmeer/Leimuiden" city="Aalsmeer" country="NL" address="" regionids="31" longitude="4.748583" latitude="52.236683" countryid="528" ></base>
+<base id="328772630000100000" name="Baratti" city="Baratti" country="IT" address="" regionids="19" longitude="10.502125" latitude="42.99181" countryid="380" ></base>
+<base id="606055550000100000" name="Life Harbour Marina" city="Limanu, Judetul Constanta" country="RO" address="Strada Marina Limanu, Nr. 1," regionids="38" longitude="28.541669" latitude="43.803662" countryid="642" ></base>
+<base id="1237751930000100000" name="Marina Lav" city="Podstrana" country="HR" address="Grljevacka ulica 2a" regionids="5" longitude="16.537496" latitude="43.491483" countryid="191" ></base>
+<base id="1179998490000100000" name="Portumna" city="Gortaha, Co. Galway" country="IE" address="" regionids="30" longitude="-8.199482" latitude="53.093189" countryid="372" ></base>
+<base id="1415677060000100000" name="Pozzillo - Acireale" city="Pozzillo" country="IT" address="" regionids="20" longitude="15.196306" latitude="37.660639" countryid="380" ></base>
+<base id="558087330000100000" name="Club Nautico Ibiza" city="Ibiza" country="ES" address="Avenida de Santa Eularia des Riu s/n" regionids="13" longitude="1.435629" latitude="38.913677" countryid="724" ></base>
+<base id="710423540000100000" name="Göteborg - Stenungsund" city="Stenungsund" country="SE" address="Lilla Strandvägen 6" regionids="27" longitude="11.815534" latitude="58.075258" countryid="752" ></base>
+<base id="1280272930000100000" name="Neiafu Vava'u" city="Neiafu Vava'u, Tonga" country="TO" address="" regionids="32" longitude="-173.981624" latitude="-18.657022" countryid="776" ></base>
+<base id="216678940000100000" name="Cala dei Sardi" city="Portisco" country="IT" address="" regionids="21" longitude="9.524158" latitude="41.034046" countryid="380" ></base>
+<base id="939508210000100000" name="Real Club Nautico de Calpe" city="Calp" country="ES" address="Av. del Port 19" regionids="48" longitude="0.071281" latitude="38.638850" countryid="724" ></base>
+<base id="1179977450000100000" name="Jabel" city="Jabel" country="DE" address="Jabelscher See" regionids="30" longitude="12.542379" latitude="53.531482" countryid="276" ></base>
+<base id="562260120000100000" name="Tonnerre" city="Tonnerre" country="FR" address="" regionids="30" longitude="3.9807" latitude="47.858" countryid="250" ></base>
+<base id="1125983920000100000" name="Port de la Trinité-sur-Mer" city="La Trinité-sur-Mer" country="FR" address="Cours des Quais" regionids="29" longitude="-3.027100" latitude="47.587441" countryid="250" ></base>
+<base id="403284830000100000" name="Didim" city="Didim" country="TR" address="" regionids="12" longitude="27.262616" latitude="37.337476" countryid="792" ></base>
+<base id="1519864600000100000" name="Marina Delta Kallithea" city="Athens" country="GR" address="Leof. Posidonos 20" regionids="35,10" longitude="23.686735" latitude="37.940011" countryid="300" ></base>
+<base id="1423213100000100000" name="Vourkari" city="Chalcis" country="GR" address="" regionids="35" longitude="23.590475" latitude="38.456699" countryid="300" ></base>
+<base id="757697940000100000" name="Marina di Porto Antico" city="Genova" country="IT" address="" regionids="19" longitude="8.937957" latitude="44.558489" countryid="380" ></base>
+<base id="1173989250000100000" name="Scey-sur-Saone" city="Scey-sur-Saone-et-Saint-Albin" country="FR" address="" regionids="30" longitude="5.974520" latitude="47.652358" countryid="250" ></base>
+<base id="405359900000100000" name="Ludwigshafen" city="Ludwigshafen" country="DE" address="" regionids="30" longitude="8.413296" latitude="49.540917" countryid="276" ></base>
+<base id="1005860540000100000" name="Puerto Deportivo Tomas Maestre" city="Murcia" country="ES" address="Gran Via de la Manga s/n" regionids="52" longitude="-0.740012" latitude="37.745560" countryid="724" ></base>
+<base id="659891370000100000" name="Captain Oliver's Marina" city="Saint Martin" country="MF" address="Oyster Pond" regionids="28" longitude="-63.015304" latitude="18.056046" countryid="663" ></base>
+<base id="1456054320000100000" name="Porto di Castellammare di Stabia" city="Castellammare di Stabia" country="IT" address="" regionids="18" longitude="14.475662" latitude="40.695932" countryid="380" ></base>
+<base id="253679600000100000" name="Marianne-Pohlesee" city="Berlin" country="DE" address="" regionids="30" longitude="13.147845" latitude="52.411847" countryid="276" ></base>
+<base id="670019140000100000" name="Circolo Nautico Foce Cecina" city="Cecina" country="IT" address="Via del Porticciolo" regionids="19" longitude="10.490916" latitude="43.304094" countryid="380" ></base>
+<base id="1179990410000100000" name="Westhoek Marina" city="Nieuwpoort" country="BE" address="Brugsevaart 48" regionids="30" longitude="2.771675" latitude="51.138456" countryid="56" ></base>
+<base id="1759512900000100000" name="Le Somail" city="Le Somail" country="FR" address="Allée de la Glacière" regionids="30" longitude="2.904694" latitude="43.264128" countryid="250" ></base>
+<base id="1179983570000100000" name="Yachthafen Potsdam" city="Potsdam" country="DE" address="Kastanienallee 22E" regionids="30" longitude="13.029792" latitude="52.387370" countryid="276" ></base>
+<base id="85785960000100000" name="Sant Antoni de Portmany Port" city="Ibiza - Sant Antoni de Portmany" country="ES" address="Paseo Marítimo, s/n" regionids="13" longitude="1.301807" latitude="38.978965" countryid="724" ></base>
+<base id="715230820000100000" name="Ancora Marina" city="Neustadt in Holstein" country="DE" address="An der Wiek 7-15" regionids="27" longitude="10.806051" latitude="54.094175" countryid="276" ></base>
+<base id="1530535820000100000" name="Marina Mar de Cristal" city="Murcia, Mar de Cristal" country="ES" address="Puerto Deportivo s/n" regionids="52" longitude="-0.760795" latitude="37.634629" countryid="724" ></base>
+<base id="489949340000100000" name="Marina Šangulin" city="Biograd" country="HR" address="" regionids="4,2" longitude="15.442786" latitude="43.935577" countryid="191" ></base>
+<base id="590656780000100000" name="Al Mouj Marina" city="Seeb" country="OM" address="335 Street 6" regionids="39" longitude="58.267220" latitude="23.631199" countryid="512" ></base>
+<base id="482575730000100000" name="Port Zelande" city="Ouddorp" country="NL" address="Kabbelaarsbank 14" regionids="31" longitude="3.859119" latitude="51.760376" countryid="528" ></base>
+<base id="1174017140000100000" name="Ketzin" city="Ketzin" country="DE" address="" regionids="30" longitude="12.846465" latitude="52.469619" countryid="276" ></base>
+<base id="1759458090000100000" name="Amieira Marina" city="Amieira" country="PT" address="" regionids="30" longitude="-7.533453" latitude="38.276410" countryid="620" ></base>
+<base id="397537830000100000" name="Port Dielette" city="Treauville" country="FR" address="" regionids="29" longitude="-1.859543" latitude="49.551735" countryid="250" ></base>
+<base id="1499786180000100000" name="Terminal Porto das Velas" city="Velas" country="PT" address="" regionids="45" longitude="-28.204223" latitude="38.679980" countryid="620" ></base>
+<base id="1427611890000100000" name="Hamilton Island Marina" city="Hamilton Island" country="AU" address="Front St" regionids="33" longitude="148.950094" latitude="-20.346784" countryid="36" ></base>
+<base id="971075010000100000" name="Matejuška Port" city="Split" country="HR" address="" regionids="5" longitude="16.435009" latitude="43.507483" countryid="191" ></base>
+<base id="1110313150000100000" name="Mirissa" city="Mirissa" country="LK" address="" regionids="37" longitude="80.450356" latitude="5.948436" countryid="144" ></base>
+<base id="1279671040000100000" name="Club Nautico Campello" city="El Campello" country="ES" address="Carrer de la Illeta" regionids="48" longitude="-0.383766" latitude="38.432101" countryid="724" ></base>
+<base id="322902220000100000" name="Riposto" city="Riposto" country="IT" address="" regionids="20" longitude="15.209016" latitude="37.730297" countryid="380" ></base>
+<base id="966626610000100000" name="PŠU Banj" city="Trogir" country="HR" address="Put Gradine 1" regionids="5" longitude="16.256058" latitude="43.515933" countryid="191" ></base>
+<base id="506504080000100000" name="Ios" city="Ios" country="GR" address="" regionids="10" longitude="25.272575" latitude="36.722306" countryid="300" ></base>
+</root>

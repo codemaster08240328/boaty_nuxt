@@ -1,0 +1,329 @@
+/****************************************************************/
+/* styles for protecting the plugin from chanching theme styles */
+body{
+    overflow: auto;
+    width: 100%;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #fff;
+    min-width: 1200px;
+}
+
+.mk-grid{
+    max-width: 100%!important;
+}
+
+
+/*-------------------------------*/
+#charter{
+    border: 0px solid #fff;
+    position: relative;
+    width: 100%;
+    clear: both;
+    min-width: 1200px;
+    height: 100%;
+    overflow: auto; 
+    margin: 10px auto 0px 0px;
+}
+
+#charter .list-boats{
+  float: left;
+  min-width: 65%;
+  max-width: 65%;
+  margin: 0px 4% 0px 2%;  
+}
+
+#charter .refine{
+  float: left!important;
+  min-width: 25%;
+  max-width: 25%;
+  margin: 0px 4% 0px 0px;
+}
+
+
+
+#charter #start_search {
+	background: rgba(240, 106, 130, 0.63) important;
+}
+
+
+
+/*.page-id-11725 #start-here2 {
+background: none!important;
+display: none;
+}*/
+
+#ui-datepicker-div{
+    margin: 0px 0px 0px;
+    z-index: 10001!important;
+}
+
+.ui-autocomplete{
+    z-index: 10001;
+}
+
+.ui-state-active{
+    background: #c75c5c!important; 
+}
+
+.ui-datepicker-week-end a{
+    background: #8ac8c1!important;
+}
+
+/*#theme-page{
+    background-image: none!important;
+}*/
+
+/* form fields styles  */
+#charter input#mts_dst {
+	clear: both;
+	width: 100%!important;
+	color: #000;
+	border: 1px solid #000;
+}
+
+
+#charter .mts_n_input {
+	width: 48%;
+	float:left;
+	background: transparent!important;
+	color: #fff!important;
+	border: 1px solid !important;
+	padding: 10px!important;
+	margin-bottom: 10px!important;
+	height: 43px;
+	border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+	-moz-border-radius: 0!important;
+}
+
+#charter .mts_n_input option {
+	color: #000!important;
+}
+
+/*
+.ui-datepicker-title{
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.right {
+	float: right;
+}*/
+.mts_long_shortcode ::-webkit-input-placeholder {
+   color: #fff;
+}
+
+.mts_long_shortcode :-moz-placeholder { /* Firefox 18- */
+   color: #fff;
+}
+
+.mts_long_shortcode ::-moz-placeholder {  /* Firefox 19+ */
+   color: #fff; 
+}
+
+.mts_long_shortcode :-ms-input-placeholder {  
+   color: #fff;
+}
+
+/*.ui-datepicker-calendar tr td:nth-child(7) a { font-weight: bold!important;color:#000!important; }*/
+
+
+.resspp_form {
+	margin: 180px auto 20px;
+	display: block;
+	width: 80%;
+	clear: both;
+	box-shadow: 0px 0px 3px 0px #999;
+	border-radius: 3px!important;
+	-webkit-border-radius: 3px!important;
+	-moz-border-radius: 3px!important;
+	padding: 30px 20px 10px;
+}
+
+.resspp_form input , .resspp_form select {
+	border: 1px solid #ccc !important;
+	color: #333!important;	
+}
+.resspp_form input#mts_dst {
+	border: 1px solid #ccc !important;
+	color: #333!important;	
+}
+.resspp_form .mts_long_shortcode ::-webkit-input-placeholder {
+   color: #333;
+}
+
+.resspp_form .mts_long_shortcode :-moz-placeholder { /* Firefox 18- */
+   color: #333;
+}
+
+.resspp_form .mts_long_shortcode ::-moz-placeholder {  /* Firefox 19+ */
+   color: #333; 
+}
+
+.resspp_form .mts_long_shortcode :-ms-input-placeholder {  
+   color: #333;
+}
+.resspp_form input#start_search {
+	color: #fff!important;
+	font-size: 19px!important;
+}
+
+
+/*search header */
+#search_header{
+    margin: -40px 0px 0px;
+    padding: 0px;
+    height: 100px;
+    position: relative;
+    top: -40px;
+    left: 0px;
+    box-shadow: 0px -3px 15px 2px #555;
+    width: 100%;
+    clear: both;
+    font-family: Arial;
+    font-size: 12px;
+    z-index: 9990;
+    background: #fff;
+    min-width: 1200px!important;
+    /*transition: opacity 0.3s ease-in-out;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    background-color: #ffffff;*/
+    }
+
+#search_header .dest_block{
+    display: block;
+    float: left;
+    margin: 40px 0px 0px 20px;
+    width: 200px;
+    position: relative;
+}
+
+#search_header .date_block{
+    display: block;
+    float: left;
+    margin: 40px 0px 0px 20px;
+    width: 150px;
+}
+
+#search_header .button_block{
+    display: block;
+    float: left;
+    margin: 40px 0px 0px 20px;
+    width: 150px;
+}
+
+#search_header .boat_type_block{
+    display: block;
+    float: left;
+    margin: 40px 0px 0px 20px;
+    width: 180px; 
+}
+    
+#search_header .header_dest, #search_header .header_date{
+    display: block;
+    float: left;
+    margin: 0px 0px 0px;
+    /*border: 1px solid #ccc !important;*/
+    width: 100%;
+    height: 26px;
+    padding: 2px;
+    color: #000;
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #fdfdfd;
+    border: 1px solid #14695e;
+    border-radius: 6px;
+}
+
+#search_header .select_boat{
+    display: block;
+    float: left;
+    margin: 0px 0px 0px;
+    /*border: 1px solid #ccc !important;*/
+    width: 180px!important;
+    min-width: 180px!important;
+    height: 26px;
+    padding: 2px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight:  normal;
+    border-radius: 6px!important;
+    background-color: #fdfdfd;
+    border: 1px solid #14695e;
+}
+
+#search_header .header_start{
+   height: 26px;
+   float: left;
+   width: 130px;
+   color: #ffffff;
+   font-size: 12px;
+   line-height: 100%;
+   font-weight: bold; 
+   border: 0px solid #fff;
+   outline: none;
+    border: 1px outset #14695e;
+    border-radius: 6px;
+    background-color: #14695e;
+}
+
+#search_header .header_start:hover{
+   height: 26px;
+   float: left;
+   width: 130px;
+   color: #e8b448;
+   font-size: 12px;
+   line-height: 100%;
+   font-weight: bold; 
+   border: 0px solid #fff;
+   outline: none;
+    border: 1px outset #14695e;
+    border-radius: 6px;
+    background-color: #8ac8c1;
+}
+
+
+#search_header .logo_main{
+    display: block;
+    float: left;
+    margin: 0px 0px 0px 40px;
+    width: 180px;
+}
+
+#search_header .logo_main:hover{
+    background: none!important;
+}
+
+#search_header .logo_main img{
+    margin: 0px 0px 0px 0px;
+    width: 180px;
+}
+
+#search_header #mts_dst.wait {
+    background: url("img/ajax-loader-location.gif") 5px 3px no-repeat;
+    
+}
+
+#search_header #load_locations{
+        width: 16px; 
+        height: 16px;
+        top: 5px;
+        left: 10px;
+        position:  absolute;
+        display:  none;
+}
+
+
+/*#ui-datepicker-div{
+    margin-top: 0px;
+}*/
+
+
+
+
+
+

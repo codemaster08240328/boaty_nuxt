@@ -1,0 +1,1 @@
+[25-Oct-2014 17:25:20 UTC] PHP Fatal error:  Class 'Swift_ByteStream_FileByteStream' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 17

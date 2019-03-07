@@ -1,0 +1,4 @@
+[24-Oct-2014 22:43:46 UTC] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/KeyCache/KeyCacheInputStream.php on line 19
+[28-Oct-2014 16:49:58 UTC] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/KeyCache/NullKeyCache.php on line 19
+[01-Nov-2014 06:49:07 UTC] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/KeyCache/ArrayKeyCache.php on line 19
+[01-Nov-2014 16:57:07 UTC] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/sailu/public_html/wp-content/plugins/mts-search-engine/libs/swiftmailer/classes/Swift/KeyCache/DiskKeyCache.php on line 19

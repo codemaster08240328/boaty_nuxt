@@ -1,0 +1,78 @@
+.page-enter-active, .page-leave-active {
+  transition: opacity .5s
+}
+.page-enter, .page-leave-active {
+  opacity: 0
+}
+.discount {
+  text-decoration: line-through;
+}
+.yacht-charter .parallax__content {
+  background-color: rgba(0,0,0,0.4);
+}
+.area ul {
+  display: none;
+}
+.baseLink {
+  width: 100%;
+  padding-left: 30px;
+  display: block;
+}
+.baseLink:last-child {
+  margin-bottom: 20px;
+}
+.application--light .expansion-panel .expansion-panel__container {
+  border-top: 1px solid rgba(0,0,0,.12);
+  background-color: #fff;
+}
+.single .container {
+  padding: 0px;
+}
+.main-content h2 {
+  text-align: center;
+  font-size: 34px!important;
+  line-height: 40px!important;
+  max-width: 90%;
+  margin-left: 5%;
+  border-left: 3px solid #006064!important;
+}
+.main-content h2, .main-content h3, .main-content h4 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #006064!important;
+}
+.main-content li {
+  padding-bottom: 10px;
+}
+
+/* .main-content p {
+  font-weight: 500;
+} */
+
+.snack__content .btn {
+  margin: 0px;
+}
+.row-reverse {
+  flex-direction: row-reverse !important;
+}
+.chequer-width {
+  max-width: 100%;
+}
+@media screen and (min-width: 1025px) {
+  .chequer-width {
+    max-width: 90%;
+  }
+}
+.group-links a {
+  text-decoration: none !important;
+}
+
+.chequer-body ul {
+  margin-left: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.chequer-body a {
+  color: white;
+}

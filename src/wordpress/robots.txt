@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /api-docs
+Disallow: /preview/
+Disallow: /gb/preview/
+Disallow: /crewed-charter/
+
+Sitemap: https://sailchecker.com/sitemap.xml

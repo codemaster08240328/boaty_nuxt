@@ -1,0 +1,49 @@
+.wp-has-submenu.toplevel_page_nex-forms-main ul li:last-child {
+    display: none;
+}
+.toplevel_page_nex-forms-main .wp-menu-image img {
+   /* height: 22px !important;*/
+    opacity: 1 !important;
+    padding-top: 7px !important;
+    width: 22px !important;
+}
+ul.wp-submenu{
+	z-index:100000 !important;
+}
+/*.toplevel_page_nex-forms-main ul.wp-submenu{
+	display:none !important;
+}*/
+
+.nex_forms_tinymce_popup .button:hover {
+    background: #286090;
+    border-color: #204d74;
+}
+.nex_forms_tinymce_popup .button {
+    background: #337ab7;
+    color: #fff;
+    padding: 8px;
+    border-radius: 3px;
+    cursor: pointer;
+    border-color: #204d74;
+    float: right;
+    font-size: 12px;
+}
+
+.nex_forms_tinymce_popup input[type="text"], .nex_forms_tinymce_popup select {
+    font-size: 11px;
+    width: 248px;
+    padding: 5px;
+    border: none;
+}
+
+i.mce-i-nex-forms-tinymce-button {
+    background: rgba(0, 0, 0, 0) url("images/button.png") no-repeat scroll 0 0;
+    height: 24px !important;
+    margin-bottom: -2px !important;
+    margin-top: -3px !important;
+    width: 24px !important;
+}
+	
+	
+	
+	
