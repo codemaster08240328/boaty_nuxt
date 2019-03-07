@@ -20,9 +20,9 @@ Our Yacht Charter has no standard packages, we have no standard customers. Our c
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-Node.js
-docker
-adonis
+- Node.js
+- docker
+- adonis
 
 ```
 $ npm i -g @adonisjs/cli
@@ -38,17 +38,17 @@ $ docker-compose up
 
 #### Locally Using NPM
 
-- Frontend
-Rename .env.example to .env
+Frontend
+- Rename .env.example to .env
 ```
 $ cd /project/src/frontend
 $ yarn
 $ yarn dev
 ```
 
-- Backend
-Rename .env.example to .env
-Database config setting
+Backend
+- Rename .env.example to .env
+- Database config setting
 ```
 $ cd /project/src/admin
 $ yarn
