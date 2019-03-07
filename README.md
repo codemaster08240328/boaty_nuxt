@@ -41,8 +41,6 @@ docker-compose up
 Frontend
 ```
 yarn
-```
-```
 yarn dev
 ```
 
